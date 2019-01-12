@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "dev": "node index.js",
+    "data": "node data.js"
+  }
+}
