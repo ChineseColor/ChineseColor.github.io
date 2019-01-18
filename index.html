@@ -5,14 +5,87 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>中国色</title>
-    <!-- <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css"> -->
     <link rel="stylesheet" href="./style/normalize.min.css">
-    <link rel="stylesheet" href="./style/main.css">
-    <script src="./script/main.js"></script>
+    <link rel="stylesheet" href="./style/main.min.css">
+    <script src="./script/Vue.2.5.13.min.js"></script>
+    <script src="./script/axios.0.18.0.min.js"></script>
 </head>
 
 <body>
+    <div id="main">
+        <div id="menu" @click="show($event)">
+            <div class="TaiChi">
+                <div class="yang" style="background: #000">
+                    <div class="head"></div>
+                </div>
+                <div class="yin">
+                    <div class="head"></div>
+                </div>
+            </div>
+        </div>
+        <div id="list">
+            <div id="search">
+                <input type="text" value="" placeholder="中国色" v-model="search_name">
+            </div>
+            <a v-bind:href="['#'+color.name]" v-bind:name="color.name" v-for="color in after_filter">
+                <div class="item">
+                    <div class="TaiChi">
+                        <div class="yang" v-bind:style="{background: color.code}">
+                            <div class="head"></div>
+                        </div>
+                        <div class="yin">
+                            <div class="head"></div>
+                        </div>
+                    </div>
+                    <div class="name">
+                        {{ color.name }}
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div id="book">
+            <div class="book">
+                <div class="cover"></div>
+                <div v-for="(color, index) in some" v-bind:class="{'lock': is_lock, 'page': true, 'turn': index!=0}"
+                    v-bind:key="color.code">
+                    <div>
+                        <div class="name">{{ color.name }}</div>
+                        <div class="color">
+                            <div class="r" v-bind:data-num="color.RGB[0]">
+                                <svg width="1em" height="1em" viewbox="0 0 440 440">
+                                    <circle cx="220" cy="220" r="170" stroke-width="50" stroke="#000000" fill="none"></circle>
+                                    <circle cx="220" cy="220" r="170" stroke-width="60" stroke="#e9e6c4" fill="none"
+                                        transform="matrix(0,-1,1,0,0,440)" v-bind:stroke-dasharray="[(1-color.RGB[0]/255)*Math.PI * 2 * 170]+' '+color.RGB[0]/255*Math.PI * 2 * 170">
+                                    </circle>
+                                </svg>
+                            </div>
+                            <div class="g" v-bind:data-num="color.RGB[1]">
+                                <svg width="1em" height="1em" viewbox="0 0 440 440">
+                                    <circle cx="220" cy="220" r="170" stroke-width="50" stroke="#000000" fill="none"></circle>
+                                    <circle cx="220" cy="220" r="170" stroke-width="60" stroke="#e9e6c4" fill="none"
+                                        transform="matrix(0,-1,1,0,0,440)" v-bind:stroke-dasharray="[(1-color.RGB[1]/255)*Math.PI * 2 * 170]+' '+color.RGB[1]/255*Math.PI * 2 * 170"></circle>
+                                </svg>
+                            </div>
+                            <div class="b" v-bind:data-num="color.RGB[2]">
+                                <svg width="1em" height="1em" viewbox="0 0 440 440">
+                                    <circle cx="220" cy="220" r="170" stroke-width="50" stroke="#000000" fill="none"></circle>
+                                    <circle cx="220" cy="220" r="170" stroke-width="60" stroke="#e9e6c4" fill="none"
+                                        transform="matrix(0,-1,1,0,0,440)" v-bind:stroke-dasharray="[(1-color.RGB[2]/255)*Math.PI * 2 * 170]+' '+color.RGB[2]/255*Math.PI * 2 * 170"></circle>
+                                </svg>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="cover turn">
+                    <div>
+                        中国色
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
+    <script src="./script/main.js"></script>
 </body>
 
 </html>

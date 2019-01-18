@@ -2,7 +2,7 @@ var cmd = require('node-cmd');
 var watch = require('watch');
 
 watch.watchTree('./style/less', function (f, curr, prev) {
-    cmd.run("lessc style/less/main.less style/main.css -x")
+    cmd.run("lessc style/less/main.less style/main.min.css -x")
 
     if (typeof f == "object" && prev === null && curr === null) {
         // Finished walking the tree
@@ -16,4 +16,4 @@ watch.watchTree('./style/less', function (f, curr, prev) {
 })
 
 console.log("Server running on http://localhost:4190 ")
-cmd.run('browser-sync start --server --port 4190 --files "**/*')
+cmd.run('browser-sync start --server --port 4190 --files "**/*.css" "**/*.html" "**/*.js"')
