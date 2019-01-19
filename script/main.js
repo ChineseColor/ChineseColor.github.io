@@ -12,24 +12,32 @@ var main = new Vue({
             document.getElementById("list").classList.toggle('non-display');
             document.getElementById("menu").getElementsByClassName("TaiChi")[0].classList.toggle('rotate');
         },
-        click: function (event, color) {
+        click: function (event) {
             var page = event.target,
                 num;
-            while (!page.classList.contains('page')) {
-                page = page.parentElement;
-            }
-            if (page.classList.contains('turn')) {
-                num = this.all.indexOf(color) - 1;
-                while (num < 0) {
-                    num += this.all.length;
+            // while (!page.classList.contains('page')) {
+            //     page = page.parentElement;
+            // }
+            if (page.classList.contains('page')) {
+                if (this.route === "") {
+                    num = 0 + 1;
                 }
-            } else {
-                num = this.all.indexOf(color) + 1;
-                while (num > this.all.length) {
-                    num -= this.all.length;
+                else {
+                    for (var i = 0; i < this.all.length; i++) {
+                        if (this.all[i].name === this.route) {
+                            num = i + 1;
+                            if (num >= this.all.length) {
+                                num -= this.all.length;
+                            }
+                            break;
+                        }
+                    }
                 }
+                if (this.all[num] === undefined) {
+                    return;
+                }
+                window.location.hash = this.all[num].name;
             }
-            window.location.hash = this.all[num].name;
         }
     },
     computed: {
@@ -44,11 +52,15 @@ var main = new Vue({
             }
             list = this.all.slice(index, index + 4);
             if (this.wait[0] != undefined) {
-                list.push(this.wait[0]);
-                list.push(this.wait[1]);
+                if (list.indexOf(this.wait[0]) === -1) {
+                    list.push(this.wait[0]);
+                }
+                if (list.indexOf(this.wait[1]) === -1) {
+                    list.push(this.wait[1]);
+                }
             }
-            this.wait[0] = this.all[index];
-            this.wait[1] = this.all[index + 1];
+            this.wait[0] = this.all[index >= this.all.length ? index - this.all.length : index];
+            this.wait[1] = this.all[index + 1 >= this.all.length ? index + 1 - this.all.length : index + 1];
             return list;
         },
         after_filter: function () {

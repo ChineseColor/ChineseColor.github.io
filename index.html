@@ -7,13 +7,14 @@
     <title>中国色</title>
     <link rel="stylesheet" href="./style/normalize.min.css">
     <link rel="stylesheet" href="./style/main.min.css">
+    <!-- <script src="./script/Vue.2.5.13.min.js"></script> -->
     <script src="https://cdn.jsdelivr.net/npm/vue@2.5.22/dist/vue.min.js"></script>
     <script src="./script/axios.0.18.0.min.js"></script>
 </head>
 
 <body>
     <div id="main">
-        <div id="menu" @click="show($event)" class="rotate">
+        <div id="menu" @click="show($event)" class="rotate non-small">
             <div class="TaiChi">
                 <div class="yang" style="background: #000">
                     <div class="head"></div>
@@ -28,9 +29,6 @@
                 <input type="text" value="" placeholder="" v-model="search_name">
                 <svg t="1547814109363" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg"
                     p-id="2041" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200">
-                    <defs>
-                        <style type="text/css"></style>
-                    </defs>
                     <path d="M465.67936 717.2864c-141.1584 0-256-114.8416-256-256s114.8416-256 256-256 256 114.8416 256 256-114.8416 256-256 256z m0-471.04c-118.57408 0-215.04 96.46592-215.04 215.04s96.46592 215.04 215.04 215.04 215.04-96.46592 215.04-215.04-96.46592-215.04-215.04-215.04z"
                         p-id="2042"></path>
                     <path d="M744.192 767.03744a20.41344 20.41344 0 0 1-14.47936-6.00064l-108.61056-108.61056a20.48 20.48 0 1 1 28.95872-28.95872l108.61056 108.61056a20.48 20.48 0 0 1-14.47936 34.95936z"
@@ -59,10 +57,10 @@
             <div class="book">
                 <div class="cover"></div>
                 <div v-for="(color, index) in some" v-bind:class="{'lock': is_lock, 'page': true, 'turn': index!=0}"
-                    v-bind:key="color.code" v-on:click="click($event, color)">
+                    v-bind:key="color.code" v-on:click="click">
                     <div>
                         <div class="name">{{ color.name }}</div>
-                        <div class="color">
+                        <div class="color" v-bind:data-code="color.code">
                             <div class="r" v-bind:data-num="color.RGB[0]">
                                 <svg width="1em" height="1em" viewbox="0 0 440 440">
                                     <circle cx="220" cy="220" r="170" stroke-width="50" stroke="#000000" fill="none"></circle>
@@ -87,6 +85,7 @@
                             </div>
                         </div>
                     </div>
+                    <div class="example" v-bind:style="{'background': color.code}"></div>
                 </div>
                 <div class="cover turn">
                     <div>
