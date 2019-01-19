@@ -60,11 +60,11 @@
                     v-bind:key="color.code" v-on:click="click">
                     <div>
                         <div class="name">{{ color.name }}</div>
-                        <div class="color" v-bind:data-code="color.code">
+                        <div class="color non-display" v-bind:data-code="color.code">
                             <div class="r" v-bind:data-num="color.RGB[0]">
                                 <svg width="1em" height="1em" viewbox="0 0 440 440">
                                     <circle cx="220" cy="220" r="170" stroke-width="50" stroke="#000000" fill="none"></circle>
-                                    <circle cx="220" cy="220" r="170" stroke-width="60" stroke="#e9e6c4" fill="none"
+                                    <circle cx="220" cy="220" r="170" stroke-width="60" stroke="#FF0000" fill="none"
                                         transform="matrix(0,-1,1,0,0,440)" v-bind:stroke-dasharray="[(1-color.RGB[0]/255)*Math.PI * 2 * 170]+' '+color.RGB[0]/255*Math.PI * 2 * 170">
                                     </circle>
                                 </svg>
@@ -72,14 +72,14 @@
                             <div class="g" v-bind:data-num="color.RGB[1]">
                                 <svg width="1em" height="1em" viewbox="0 0 440 440">
                                     <circle cx="220" cy="220" r="170" stroke-width="50" stroke="#000000" fill="none"></circle>
-                                    <circle cx="220" cy="220" r="170" stroke-width="60" stroke="#e9e6c4" fill="none"
+                                    <circle cx="220" cy="220" r="170" stroke-width="60" stroke="#00FF00" fill="none"
                                         transform="matrix(0,-1,1,0,0,440)" v-bind:stroke-dasharray="[(1-color.RGB[1]/255)*Math.PI * 2 * 170]+' '+color.RGB[1]/255*Math.PI * 2 * 170"></circle>
                                 </svg>
                             </div>
                             <div class="b" v-bind:data-num="color.RGB[2]">
                                 <svg width="1em" height="1em" viewbox="0 0 440 440">
                                     <circle cx="220" cy="220" r="170" stroke-width="50" stroke="#000000" fill="none"></circle>
-                                    <circle cx="220" cy="220" r="170" stroke-width="60" stroke="#e9e6c4" fill="none"
+                                    <circle cx="220" cy="220" r="170" stroke-width="60" stroke="#0000FF" fill="none"
                                         transform="matrix(0,-1,1,0,0,440)" v-bind:stroke-dasharray="[(1-color.RGB[2]/255)*Math.PI * 2 * 170]+' '+color.RGB[2]/255*Math.PI * 2 * 170"></circle>
                                 </svg>
                             </div>
