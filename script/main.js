@@ -11,6 +11,25 @@ var main = new Vue({
         show: function (event) {
             document.getElementById("list").classList.toggle('non-display');
             document.getElementById("menu").getElementsByClassName("TaiChi")[0].classList.toggle('rotate');
+        },
+        click: function (event, color) {
+            var page = event.target,
+                num;
+            while (!page.classList.contains('page')) {
+                page = page.parentElement;
+            }
+            if (page.classList.contains('turn')) {
+                num = this.all.indexOf(color) - 1;
+                while (num < 0) {
+                    num += this.all.length;
+                }
+            } else {
+                num = this.all.indexOf(color) + 1;
+                while (num > this.all.length) {
+                    num -= this.all.length;
+                }
+            }
+            window.location.hash = this.all[num].name;
         }
     },
     computed: {
@@ -52,7 +71,7 @@ var main = new Vue({
         })();
         setTimeout(function () {
             main.is_lock = false;
-        }, 6000)
+        }, 3000)
     }
 });
 // 路由

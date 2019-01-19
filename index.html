@@ -59,7 +59,7 @@
             <div class="book">
                 <div class="cover"></div>
                 <div v-for="(color, index) in some" v-bind:class="{'lock': is_lock, 'page': true, 'turn': index!=0}"
-                    v-bind:key="color.code">
+                    v-bind:key="color.code" v-on:click="click($event, color)">
                     <div>
                         <div class="name">{{ color.name }}</div>
                         <div class="color">
