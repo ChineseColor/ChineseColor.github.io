@@ -10,6 +10,8 @@
 
 ## 参与
 
+### 程序员
+
 任何人都可以通过提交Pull Request来参与更改。为了方便开发，我写了两个脚本在项目根目录下。
 
 1. data.js 用以方便的更改颜色数据并将结果压缩输出到data.json中。
@@ -25,3 +27,12 @@ npm install -g browser-sync
 ```
 
 然后运行`npm run dev`即可执行`index.js`，`npm run data`即可执行`data.js`。
+
+### 非程序员
+
+如果你并不擅长写代码，那么可以通过反馈一些颜色信息的错误，或者增加信息等等方式来参与进来。只需要点击[问题](https://github.com/ChineseColor/ChineseColor.github.io/issues/new)发表出来，便能让所有人看到。
+
+## 即将要做的
+
+- [] 增加颜色的说明
+- [] 增加颜色的RGB以及16进制显示
