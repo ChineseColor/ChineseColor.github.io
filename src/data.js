@@ -6,11 +6,11 @@ const source = [
             18,
             0
         ],
-        "RGB": [
-            249,
-            244,
-            220
-        ],
+        "RGB": {
+            "R": 249,
+            "G": 244,
+            "B": 220
+        },
         "code": "#f9f4dc",
         "name": "乳白",
         "pinyin": "rubai"
@@ -22,11 +22,11 @@ const source = [
             30,
             0
         ],
-        "RGB": [
-            249,
-            236,
-            195
-        ],
+        "RGB": {
+            "R": 249,
+            "G": 236,
+            "B": 195
+        },
         "code": "#f7e8aa",
         "name": "杏仁黄",
         "pinyin": "xingrenhuang"
@@ -38,11 +38,11 @@ const source = [
             67,
             0
         ],
-        "RGB": [
-            248,
-            223,
-            114
-        ],
+        "RGB": {
+            "R": 248,
+            "G": 223,
+            "B": 114
+        },
         "code": "#f8df72",
         "name": "茉莉黄",
         "pinyin": "molihuang"
@@ -54,11 +54,11 @@ const source = [
             68,
             1
         ],
-        "RGB": [
-            248,
-            223,
-            112
-        ],
+        "RGB": {
+            "R": 248,
+            "G": 223,
+            "B": 112
+        },
         "code": "#f8df70",
         "name": "麦秆黄",
         "pinyin": "maiganhuang"
@@ -70,11 +70,11 @@ const source = [
             84,
             0
         ],
-        "RGB": [
-            251,
-            218,
-            65
-        ],
+        "RGB": {
+            "R": 251,
+            "G": 218,
+            "B": 65
+        },
         "code": "#fbda41",
         "name": "油菜花黄",
         "pinyin": "youcaihuahuang"
@@ -86,11 +86,11 @@ const source = [
             94,
             0
         ],
-        "RGB": [
-            254,
-            215,
-            26
-        ],
+        "RGB": {
+            "R": 254,
+            "G": 215,
+            "B": 26
+        },
         "code": "#fed71a",
         "name": "佛手黄",
         "pinyin": "foshouhuang"
@@ -102,11 +102,11 @@ const source = [
             50,
             0
         ],
-        "RGB": [
-            247,
-            222,
-            152
-        ],
+        "RGB": {
+            "R": 247,
+            "G": 222,
+            "B": 152
+        },
         "code": "#f7de98",
         "name": "篾黄",
         "pinyin": "miehuang"
@@ -118,11 +118,11 @@ const source = [
             69,
             0
         ],
-        "RGB": [
-            248,
-            216,
-            106
-        ],
+        "RGB": {
+            "R": 248,
+            "G": 216,
+            "B": 106
+        },
         "code": "#f8d86a",
         "name": "葵扇黄",
         "pinyin": "kuishanhuang"
@@ -134,11 +134,11 @@ const source = [
             87,
             0
         ],
-        "RGB": [
-            252,
-            211,
-            55
-        ],
+        "RGB": {
+            "R": 252,
+            "G": 211,
+            "B": 55
+        },
         "code": "#fcd337",
         "name": "柠檬黄",
         "pinyin": "ningmenghuang"
@@ -150,11 +150,11 @@ const source = [
             95,
             0
         ],
-        "RGB": [
-            252,
-            210,
-            23
-        ],
+        "RGB": {
+            "R": 252,
+            "G": 210,
+            "B": 23
+        },
         "code": "#fcd217",
         "name": "金瓜黄",
         "pinyin": "jinguahuang"
@@ -166,11 +166,11 @@ const source = [
             94,
             0
         ],
-        "RGB": [
-            254,
-            209,
-            16
-        ],
+        "RGB": {
+            "R": 254,
+            "G": 209,
+            "B": 16
+        },
         "code": "#ffd111",
         "name": "藤黄",
         "pinyin": "tenghuang"
@@ -182,11 +182,11 @@ const source = [
             39,
             0
         ],
-        "RGB": [
-            246,
-            222,
-            173
-        ],
+        "RGB": {
+            "R": 246,
+            "G": 222,
+            "B": 173
+        },
         "code": "#f6dead",
         "name": "酪黄",
         "pinyin": "laohuang"
@@ -198,11 +198,11 @@ const source = [
             50,
             0
         ],
-        "RGB": [
-            247,
-            218,
-            148
-        ],
+        "RGB": {
+            "R": 247,
+            "G": 218,
+            "B": 148
+        },
         "code": "#f7da94",
         "name": "香水玫瑰黄",
         "pinyin": "xiangshuimeiguihuang"
@@ -214,11 +214,11 @@ const source = [
             70,
             0
         ],
-        "RGB": [
-            249,
-            211,
-            103
-        ],
+        "RGB": {
+            "R": 249,
+            "G": 211,
+            "B": 103
+        },
         "code": "#f9d367",
         "name": "淡密黄",
         "pinyin": "danmihuang"
@@ -230,11 +230,11 @@ const source = [
             88,
             0
         ],
-        "RGB": [
-            251,
-            205,
-            49
-        ],
+        "RGB": {
+            "R": 251,
+            "G": 205,
+            "B": 49
+        },
         "code": "#fbcd31",
         "name": "大豆黄",
         "pinyin": "dadouhuang"
@@ -246,11 +246,11 @@ const source = [
             94,
             0
         ],
-        "RGB": [
-            252,
-            203,
-            22
-        ],
+        "RGB": {
+            "R": 252,
+            "G": 203,
+            "B": 22
+        },
         "code": "#fccb16",
         "name": "素馨黄",
         "pinyin": "suxinhuang"
@@ -262,11 +262,11 @@ const source = [
             94,
             0
         ],
-        "RGB": [
-            254,
-            204,
-            17
-        ],
+        "RGB": {
+            "R": 254,
+            "G": 204,
+            "B": 17
+        },
         "code": "#fecc11",
         "name": "向日葵黄",
         "pinyin": "xiangrikuihuang"
@@ -278,11 +278,11 @@ const source = [
             88,
             0
         ],
-        "RGB": [
-            251,
-            200,
-            47
-        ],
+        "RGB": {
+            "R": 251,
+            "G": 200,
+            "B": 47
+        },
         "code": "#fbc82f",
         "name": "雅梨黄",
         "pinyin": "yalihuang"
@@ -294,11 +294,11 @@ const source = [
             94,
             0
         ],
-        "RGB": [
-            252,
-            197,
-            21
-        ],
+        "RGB": {
+            "R": 252,
+            "G": 197,
+            "B": 21
+        },
         "code": "#fcc515",
         "name": "黄连黄",
         "pinyin": "huanglianhuang"
@@ -310,11 +310,11 @@ const source = [
             95,
             0
         ],
-        "RGB": [
-            252,
-            195,
-            7
-        ],
+        "RGB": {
+            "R": 252,
+            "G": 195,
+            "B": 7
+        },
         "code": "#fcc307",
         "name": "金盏黄",
         "pinyin": "jinzhanhuang"
@@ -326,11 +326,11 @@ const source = [
             52,
             0
         ],
-        "RGB": [
-            248,
-            195,
-            135
-        ],
+        "RGB": {
+            "R": 248,
+            "G": 195,
+            "B": 135
+        },
         "code": "#f8c387",
         "name": "蛋壳黄",
         "pinyin": "dankehuang"
@@ -342,11 +342,11 @@ const source = [
             52,
             0
         ],
-        "RGB": [
-            247,
-            193,
-            115
-        ],
+        "RGB": {
+            "R": 247,
+            "G": 193,
+            "B": 115
+        },
         "code": "#f7c173",
         "name": "肉色",
         "pinyin": "rouse"
@@ -358,11 +358,11 @@ const source = [
             89,
             0
         ],
-        "RGB": [
-            251,
-            185,
-            41
-        ],
+        "RGB": {
+            "R": 251,
+            "G": 185,
+            "B": 41
+        },
         "code": "#fbb929",
         "name": "鹅掌黄",
         "pinyin": "ezhanghuang"
@@ -374,11 +374,11 @@ const source = [
             93,
             0
         ],
-        "RGB": [
-            251,
-            182,
-            18
-        ],
+        "RGB": {
+            "R": 251,
+            "G": 182,
+            "B": 18
+        },
         "code": "#fbb612",
         "name": "鸡蛋黄",
         "pinyin": "jidanhuang"
@@ -390,11 +390,11 @@ const source = [
             94,
             0
         ],
-        "RGB": [
-            252,
-            183,
-            10
-        ],
+        "RGB": {
+            "R": 252,
+            "G": 183,
+            "B": 10
+        },
         "code": "#fcb70a",
         "name": "鼬黄",
         "pinyin": "youhuang"
@@ -406,11 +406,11 @@ const source = [
             84,
             0
         ],
-        "RGB": [
-            249,
-            166,
-            51
-        ],
+        "RGB": {
+            "R": 249,
+            "G": 166,
+            "B": 51
+        },
         "code": "#f9a633",
         "name": "榴萼黄",
         "pinyin": "liuehuang"
@@ -422,11 +422,11 @@ const source = [
             92,
             0
         ],
-        "RGB": [
-            251,
-            164,
-            20
-        ],
+        "RGB": {
+            "R": 251,
+            "G": 164,
+            "B": 20
+        },
         "code": "#fba414",
         "name": "淡橘橙",
         "pinyin": "danjucheng"
@@ -438,11 +438,11 @@ const source = [
             92,
             0
         ],
-        "RGB": [
-            252,
-            161,
-            6
-        ],
+        "RGB": {
+            "R": 252,
+            "G": 161,
+            "B": 6
+        },
         "code": "#fca106",
         "name": "枇杷黄",
         "pinyin": "pipahuang"
@@ -454,11 +454,11 @@ const source = [
             92,
             0
         ],
-        "RGB": [
-            252,
-            161,
-            4
-        ],
+        "RGB": {
+            "R": 252,
+            "G": 161,
+            "B": 4
+        },
         "code": "#fca104",
         "name": "橙皮黄",
         "pinyin": "chengpihuang"
@@ -470,11 +470,11 @@ const source = [
             87,
             0
         ],
-        "RGB": [
-            252,
-            140,
-            35
-        ],
+        "RGB": {
+            "R": 252,
+            "G": 140,
+            "B": 35
+        },
         "code": "#fc8c23",
         "name": "北瓜黄",
         "pinyin": "beiguahuang"
@@ -486,11 +486,11 @@ const source = [
             92,
             0
         ],
-        "RGB": [
-            250,
-            142,
-            22
-        ],
+        "RGB": {
+            "R": 250,
+            "G": 142,
+            "B": 22
+        },
         "code": "#f28e16",
         "name": "杏黄",
         "pinyin": "xinghuang"
@@ -502,11 +502,11 @@ const source = [
             91,
             0
         ],
-        "RGB": [
-            255,
-            153,
-            0
-        ],
+        "RGB": {
+            "R": 255,
+            "G": 153,
+            "B": 0
+        },
         "code": "#ff9900",
         "name": "雄黄",
         "pinyin": "xionghuang"
@@ -518,11 +518,11 @@ const source = [
             91,
             0
         ],
-        "RGB": [
-            251,
-            139,
-            5
-        ],
+        "RGB": {
+            "R": 251,
+            "G": 139,
+            "B": 5
+        },
         "code": "#fb8b05",
         "name": "万寿菊黄",
         "pinyin": "wanshoujuhuang"
@@ -534,11 +534,11 @@ const source = [
             35,
             1
         ],
-        "RGB": [
-            233,
-            221,
-            182
-        ],
+        "RGB": {
+            "R": 233,
+            "G": 221,
+            "B": 182
+        },
         "code": "#e9ddb6",
         "name": "菊蕾白",
         "pinyin": "juleibai"
@@ -550,11 +550,11 @@ const source = [
             84,
             1
         ],
-        "RGB": [
-            238,
-            208,
-            69
-        ],
+        "RGB": {
+            "R": 238,
+            "G": 208,
+            "B": 69
+        },
         "code": "#eed045",
         "name": "秋葵黄",
         "pinyin": "qiukuihuang"
@@ -566,11 +566,11 @@ const source = [
             92,
             1
         ],
-        "RGB": [
-            242,
-            206,
-            43
-        ],
+        "RGB": {
+            "R": 242,
+            "G": 206,
+            "B": 43
+        },
         "code": "#f2ce2b",
         "name": "硫华黄",
         "pinyin": "liuhuahuang"
@@ -582,11 +582,11 @@ const source = [
             92,
             0
         ],
-        "RGB": [
-            241,
-            202,
-            23
-        ],
+        "RGB": {
+            "R": 241,
+            "G": 202,
+            "B": 23
+        },
         "code": "#f1ca17",
         "name": "柚黄",
         "pinyin": "youhuang"
@@ -598,11 +598,11 @@ const source = [
             66,
             2
         ],
-        "RGB": [
-            221,
-            200,
-            113
-        ],
+        "RGB": {
+            "R": 221,
+            "G": 200,
+            "B": 113
+        },
         "code": "#ddc871",
         "name": "芒果黄",
         "pinyin": "mangguohuang"
@@ -614,11 +614,11 @@ const source = [
             85,
             2
         ],
-        "RGB": [
-            223,
-            194,
-            67
-        ],
+        "RGB": {
+            "R": 223,
+            "G": 194,
+            "B": 67
+        },
         "code": "#dfc243",
         "name": "蒿黄",
         "pinyin": "haohuang"
@@ -630,11 +630,11 @@ const source = [
             95,
             2
         ],
-        "RGB": [
-            226,
-            192,
-            39
-        ],
+        "RGB": {
+            "R": 226,
+            "G": 192,
+            "B": 39
+        },
         "code": "#e2c027",
         "name": "姜黄",
         "pinyin": "jianghuang"
@@ -646,11 +646,11 @@ const source = [
             99,
             1
         ],
-        "RGB": [
-            228,
-            191,
-            17
-        ],
+        "RGB": {
+            "R": 228,
+            "G": 191,
+            "B": 17
+        },
         "code": "#e4bf11",
         "name": "香蕉黄",
         "pinyin": "xiangjiaohuang"
@@ -662,11 +662,11 @@ const source = [
             94,
             4
         ],
-        "RGB": [
-            210,
-            180,
-            44
-        ],
+        "RGB": {
+            "R": 210,
+            "G": 180,
+            "B": 44
+        },
         "code": "#d2b42c",
         "name": "草黄",
         "pinyin": "caohuang"
@@ -678,11 +678,11 @@ const source = [
             100,
             4
         ],
-        "RGB": [
-            210,
-            177,
-            22
-        ],
+        "RGB": {
+            "R": 210,
+            "G": 177,
+            "B": 22
+        },
         "code": "#d2b116",
         "name": "新禾绿",
         "pinyin": "xinhelv"
@@ -694,11 +694,11 @@ const source = [
             45,
             7
         ],
-        "RGB": [
-            183,
-            174,
-            143
-        ],
+        "RGB": {
+            "R": 183,
+            "G": 174,
+            "B": 143
+        },
         "code": "#b7ae8f",
         "name": "月灰",
         "pinyin": "yuehui"
@@ -710,11 +710,11 @@ const source = [
             70,
             12
         ],
-        "RGB": [
-            173,
-            158,
-            85
-        ],
+        "RGB": {
+            "R": 173,
+            "G": 158,
+            "B": 85
+        },
         "code": "#ad9e5f",
         "name": "淡灰绿",
         "pinyin": "danhuilv"
@@ -726,11 +726,11 @@ const source = [
             76,
             24
         ],
-        "RGB": [
-            142,
-            128,
-            75
-        ],
+        "RGB": {
+            "R": 142,
+            "G": 128,
+            "B": 75
+        },
         "code": "#8e804b",
         "name": "草灰绿",
         "pinyin": "caohuilv"
@@ -742,11 +742,11 @@ const source = [
             100,
             29
         ],
-        "RGB": [
-            136,
-            115,
-            34
-        ],
+        "RGB": {
+            "R": 136,
+            "G": 115,
+            "B": 34
+        },
         "code": "#887322",
         "name": "苔绿",
         "pinyin": "tailv"
@@ -758,11 +758,11 @@ const source = [
             100,
             30
         ],
-        "RGB": [
-            134,
-            112,
-            24
-        ],
+        "RGB": {
+            "R": 134,
+            "G": 112,
+            "B": 24
+        },
         "code": "#867018",
         "name": "碧螺春绿",
         "pinyin": "biluochunlv"
@@ -774,11 +774,11 @@ const source = [
             65,
             42
         ],
-        "RGB": [
-            104,
-            94,
-            72
-        ],
+        "RGB": {
+            "R": 104,
+            "G": 94,
+            "B": 72
+        },
         "code": "#685e48",
         "name": "燕羽灰",
         "pinyin": "yanyuhui"
@@ -790,11 +790,11 @@ const source = [
             69,
             42
         ],
-        "RGB": [
-            105,
-            94,
-            69
-        ],
+        "RGB": {
+            "R": 105,
+            "G": 94,
+            "B": 69
+        },
         "code": "#695e45",
         "name": "蟹壳灰",
         "pinyin": "xiekehui"
@@ -806,11 +806,11 @@ const source = [
             100,
             45
         ],
-        "RGB": [
-            100,
-            88,
-            34
-        ],
+        "RGB": {
+            "R": 100,
+            "G": 88,
+            "B": 34
+        },
         "code": "#645822",
         "name": "潭水绿",
         "pinyin": "tanshuilv"
@@ -822,11 +822,11 @@ const source = [
             10,
             48
         ],
-        "RGB": [
-            94,
-            83,
-            20
-        ],
+        "RGB": {
+            "R": 94,
+            "G": 83,
+            "B": 20
+        },
         "code": "#5e5314",
         "name": "橄榄绿",
         "pinyin": "ganlanlv"
@@ -838,11 +838,11 @@ const source = [
             18,
             0
         ],
-        "RGB": [
-            249,
-            241,
-            219
-        ],
+        "RGB": {
+            "R": 249,
+            "G": 241,
+            "B": 219
+        },
         "code": "#f9f1db",
         "name": "蚌肉白",
         "pinyin": "bangroubai"
@@ -854,11 +854,11 @@ const source = [
             31,
             0
         ],
-        "RGB": [
-            248,
-            232,
-            193
-        ],
+        "RGB": {
+            "R": 248,
+            "G": 232,
+            "B": 193
+        },
         "code": "#f8e8c1",
         "name": "豆汁黄",
         "pinyin": "douzhihuang"
@@ -870,11 +870,11 @@ const source = [
             66,
             0
         ],
-        "RGB": [
-            249,
-            215,
-            112
-        ],
+        "RGB": {
+            "R": 249,
+            "G": 215,
+            "B": 112
+        },
         "code": "#f9d770",
         "name": "淡茧黄",
         "pinyin": "danjianhuang"
@@ -886,11 +886,11 @@ const source = [
             94,
             0
         ],
-        "RGB": [
-            255,
-            201,
-            12
-        ],
+        "RGB": {
+            "R": 255,
+            "G": 201,
+            "B": 12
+        },
         "code": "#ffc90c",
         "name": "乳鸭黄",
         "pinyin": "ruyahuang"
@@ -902,11 +902,11 @@ const source = [
             22,
             0
         ],
-        "RGB": [
-            242,
-            230,
-            206
-        ],
+        "RGB": {
+            "R": 242,
+            "G": 230,
+            "B": 206
+        },
         "code": "#f2e6ce",
         "name": "荔肉白",
         "pinyin": "liroubai"
@@ -918,11 +918,11 @@ const source = [
             50,
             0
         ],
-        "RGB": [
-            240,
-            214,
-            149
-        ],
+        "RGB": {
+            "R": 240,
+            "G": 214,
+            "B": 149
+        },
         "code": "#f0d695",
         "name": "象牙黄",
         "pinyin": "xiangyahuang"
@@ -934,11 +934,11 @@ const source = [
             69,
             0
         ],
-        "RGB": [
-            244,
-            206,
-            105
-        ],
+        "RGB": {
+            "R": 244,
+            "G": 206,
+            "B": 105
+        },
         "code": "#f4ce69",
         "name": "炒米黄",
         "pinyin": "chaomihuang"
@@ -950,11 +950,11 @@ const source = [
             89,
             0
         ],
-        "RGB": [
-            246,
-            196,
-            48
-        ],
+        "RGB": {
+            "R": 246,
+            "G": 196,
+            "B": 48
+        },
         "code": "#f6c430",
         "name": "鹦鹉冠黄",
         "pinyin": "yingwuguanhuang"
@@ -966,11 +966,11 @@ const source = [
             95,
             0
         ],
-        "RGB": [
-            249,
-            193,
-            22
-        ],
+        "RGB": {
+            "R": 249,
+            "G": 193,
+            "B": 22
+        },
         "code": "#f9c116",
         "name": "木瓜黄",
         "pinyin": "muguahuang"
@@ -982,11 +982,11 @@ const source = [
             95,
             0
         ],
-        "RGB": [
-            249,
-            189,
-            16
-        ],
+        "RGB": {
+            "R": 249,
+            "G": 189,
+            "B": 16
+        },
         "code": "#f9bd10",
         "name": "浅烙黄",
         "pinyin": "qianlaohuang"
@@ -998,11 +998,11 @@ const source = [
             39,
             1
         ],
-        "RGB": [
-            229,
-            211,
-            170
-        ],
+        "RGB": {
+            "R": 229,
+            "G": 211,
+            "B": 170
+        },
         "code": "#e5d3aa",
         "name": "莲子白",
         "pinyin": "lianzibai"
@@ -1014,11 +1014,11 @@ const source = [
             99,
             0
         ],
-        "RGB": [
-            232,
-            176,
-            4
-        ],
+        "RGB": {
+            "R": 232,
+            "G": 176,
+            "B": 4
+        },
         "code": "#e8b004",
         "name": "谷黄",
         "pinyin": "guhuang"
@@ -1030,11 +1030,11 @@ const source = [
             99,
             0
         ],
-        "RGB": [
-            235,
-            177,
-            13
-        ],
+        "RGB": {
+            "R": 235,
+            "G": 177,
+            "B": 13
+        },
         "code": "#ebb10d",
         "name": "栀子黄",
         "pinyin": "zhizihuang"
@@ -1046,11 +1046,11 @@ const source = [
             100,
             2
         ],
-        "RGB": [
-            217,
-            164,
-            14
-        ],
+        "RGB": {
+            "R": 217,
+            "G": 164,
+            "B": 14
+        },
         "code": "#d9a40e",
         "name": "芥黄",
         "pinyin": "jiehuang"
@@ -1062,11 +1062,11 @@ const source = [
             43,
             8
         ],
-        "RGB": [
-            181,
-            170,
-            144
-        ],
+        "RGB": {
+            "R": 181,
+            "G": 170,
+            "B": 144
+        },
         "code": "#b5aa90",
         "name": "银鼠灰",
         "pinyin": "yinshuhui"
@@ -1078,11 +1078,11 @@ const source = [
             57,
             10
         ],
-        "RGB": [
-            182,
-            164,
-            118
-        ],
+        "RGB": {
+            "R": 182,
+            "G": 164,
+            "B": 118
+        },
         "code": "#b6a476",
         "name": "尘灰",
         "pinyin": "chenhui"
@@ -1094,11 +1094,11 @@ const source = [
             100,
             11
         ],
-        "RGB": [
-            183,
-            141,
-            18
-        ],
+        "RGB": {
+            "R": 183,
+            "G": 141,
+            "B": 18
+        },
         "code": "#b78d12",
         "name": "枯绿",
         "pinyin": "kulv"
@@ -1110,11 +1110,11 @@ const source = [
             80,
             30
         ],
-        "RGB": [
-            135,
-            114,
-            62
-        ],
+        "RGB": {
+            "R": 135,
+            "G": 114,
+            "B": 62
+        },
         "code": "#87723e",
         "name": "鲛青",
         "pinyin": "jiaoqing"
@@ -1126,11 +1126,11 @@ const source = [
             100,
             31
         ],
-        "RGB": [
-            135,
-            104,
-            24
-        ],
+        "RGB": {
+            "R": 135,
+            "G": 104,
+            "B": 24
+        },
         "code": "#876818",
         "name": "粽叶绿",
         "pinyin": "zongyelv"
@@ -1142,11 +1142,11 @@ const source = [
             100,
             30
         ],
-        "RGB": [
-            138,
-            105,
-            19
-        ],
+        "RGB": {
+            "R": 138,
+            "G": 105,
+            "B": 19
+        },
         "code": "#8a6913",
         "name": "灰绿",
         "pinyin": "huilv"
@@ -1158,11 +1158,11 @@ const source = [
             64,
             62
         ],
-        "RGB": [
-            74,
-            64,
-            53
-        ],
+        "RGB": {
+            "R": 74,
+            "G": 64,
+            "B": 53
+        },
         "code": "#4a4035",
         "name": "鹤灰",
         "pinyin": "hehui"
@@ -1174,11 +1174,11 @@ const source = [
             70,
             62
         ],
-        "RGB": [
-            77,
-            64,
-            48
-        ],
+        "RGB": {
+            "R": 77,
+            "G": 64,
+            "B": 48
+        },
         "code": "#4d4030",
         "name": "淡松烟",
         "pinyin": "dansongyan"
@@ -1190,11 +1190,11 @@ const source = [
             100,
             56
         ],
-        "RGB": [
-            88,
-            71,
-            23
-        ],
+        "RGB": {
+            "R": 88,
+            "G": 71,
+            "B": 23
+        },
         "code": "#584717",
         "name": "暗海水绿",
         "pinyin": "anhaishuilv"
@@ -1206,11 +1206,11 @@ const source = [
             100,
             54
         ],
-        "RGB": [
-            91,
-            73,
-            19
-        ],
+        "RGB": {
+            "R": 91,
+            "G": 73,
+            "B": 19
+        },
         "code": "#5b4913",
         "name": "棕榈绿",
         "pinyin": "zonglvlv"
@@ -1222,11 +1222,11 @@ const source = [
             24,
             0
         ],
-        "RGB": [
-            249,
-            223,
-            205
-        ],
+        "RGB": {
+            "R": 249,
+            "G": 223,
+            "B": 205
+        },
         "code": "#f9e9cd",
         "name": "米色",
         "pinyin": "mise"
@@ -1238,11 +1238,11 @@ const source = [
             38,
             0
         ],
-        "RGB": [
-            248,
-            224,
-            176
-        ],
+        "RGB": {
+            "R": 248,
+            "G": 224,
+            "B": 176
+        },
         "code": "#f8e0b0",
         "name": "淡肉色",
         "pinyin": "danrouse"
@@ -1254,11 +1254,11 @@ const source = [
             59,
             0
         ],
-        "RGB": [
-            249,
-            210,
-            125
-        ],
+        "RGB": {
+            "R": 249,
+            "G": 210,
+            "B": 125
+        },
         "code": "#f9d27d",
         "name": "麦芽糖黄",
         "pinyin": "maiyatanghuang"
@@ -1270,11 +1270,11 @@ const source = [
             93,
             0
         ],
-        "RGB": [
-            254,
-            186,
-            7
-        ],
+        "RGB": {
+            "R": 254,
+            "G": 186,
+            "B": 7
+        },
         "code": "#feba07",
         "name": "琥珀黄",
         "pinyin": "hupohuang"
@@ -1286,11 +1286,11 @@ const source = [
             79,
             0
         ],
-        "RGB": [
-            243,
-            191,
-            76
-        ],
+        "RGB": {
+            "R": 243,
+            "G": 191,
+            "B": 76
+        },
         "code": "#f3bf4c",
         "name": "甘草黄",
         "pinyin": "gancaohuang"
@@ -1302,11 +1302,11 @@ const source = [
             83,
             0
         ],
-        "RGB": [
-            248,
-            188,
-            49
-        ],
+        "RGB": {
+            "R": 248,
+            "G": 188,
+            "B": 49
+        },
         "code": "#f8bc31",
         "name": "初熟杏黄",
         "pinyin": "chushuxinghuang"
@@ -1318,11 +1318,11 @@ const source = [
             59,
             1
         ],
-        "RGB": [
-            226,
-            193,
-            124
-        ],
+        "RGB": {
+            "R": 226,
+            "G": 193,
+            "B": 124
+        },
         "code": "#e2c17c",
         "name": "浅驼色",
         "pinyin": "qiantuose"
@@ -1334,11 +1334,11 @@ const source = [
             78,
             1
         ],
-        "RGB": [
-            229,
-            183,
-            81
-        ],
+        "RGB": {
+            "R": 229,
+            "G": 183,
+            "B": 81
+        },
         "code": "#e5b751",
         "name": "沙石黄",
         "pinyin": "shashihuang"
@@ -1350,11 +1350,11 @@ const source = [
             97,
             0
         ],
-        "RGB": [
-            234,
-            173,
-            26
-        ],
+        "RGB": {
+            "R": 234,
+            "G": 173,
+            "B": 26
+        },
         "code": "#eaad1a",
         "name": "虎皮黄",
         "pinyin": "hupihuang"
@@ -1366,11 +1366,11 @@ const source = [
             98,
             2
         ],
-        "RGB": [
-            214,
-            160,
-            29
-        ],
+        "RGB": {
+            "R": 214,
+            "G": 160,
+            "B": 29
+        },
         "code": "#d6a01d",
         "name": "土黄",
         "pinyin": "tuhuang"
@@ -1382,11 +1382,11 @@ const source = [
             41,
             9
         ],
-        "RGB": [
-            180,
-            169,
-            146
-        ],
+        "RGB": {
+            "R": 180,
+            "G": 169,
+            "B": 146
+        },
         "code": "#b4a992",
         "name": "百灵鸟灰",
         "pinyin": "bailingniaohui"
@@ -1398,11 +1398,11 @@ const source = [
             97,
             11
         ],
-        "RGB": [
-            183,
-            139,
-            38
-        ],
+        "RGB": {
+            "R": 183,
+            "G": 139,
+            "B": 38
+        },
         "code": "#b78b26",
         "name": "山鸡黄",
         "pinyin": "shanjihuang"
@@ -1414,11 +1414,11 @@ const source = [
             71,
             33
         ],
-        "RGB": [
-            130,
-            107,
-            72
-        ],
+        "RGB": {
+            "R": 130,
+            "G": 107,
+            "B": 72
+        },
         "code": "#826b48",
         "name": "龟背黄",
         "pinyin": "guibeihuang"
@@ -1430,11 +1430,11 @@ const source = [
             85,
             35
         ],
-        "RGB": [
-            128,
-            99,
-            50
-        ],
+        "RGB": {
+            "R": 128,
+            "G": 99,
+            "B": 50
+        },
         "code": "#806332",
         "name": "苍黄",
         "pinyin": "canghuang"
@@ -1446,11 +1446,11 @@ const source = [
             96,
             34
         ],
-        "RGB": [
-            129,
-            95,
-            37
-        ],
+        "RGB": {
+            "R": 129,
+            "G": 95,
+            "B": 37
+        },
         "code": "#815f25",
         "name": "莱阳梨黄",
         "pinyin": "laiyanglihuang"
@@ -1462,11 +1462,11 @@ const source = [
             100,
             33
         ],
-        "RGB": [
-            131,
-            94,
-            29
-        ],
+        "RGB": {
+            "R": 131,
+            "G": 94,
+            "B": 29
+        },
         "code": "#835e1d",
         "name": "蜴蜊绿",
         "pinyin": "yililv"
@@ -1478,11 +1478,11 @@ const source = [
             68,
             61
         ],
-        "RGB": [
-            79,
-            64,
-            50
-        ],
+        "RGB": {
+            "R": 79,
+            "G": 64,
+            "B": 50
+        },
         "code": "#4f4032",
         "name": "松鼠灰",
         "pinyin": "songshuhui"
@@ -1494,11 +1494,11 @@ const source = [
             76,
             62
         ],
-        "RGB": [
-            80,
-            62,
-            42
-        ],
+        "RGB": {
+            "R": 80,
+            "G": 62,
+            "B": 42
+        },
         "code": "#503e2a",
         "name": "橄榄灰",
         "pinyin": "ganlanhui"
@@ -1510,11 +1510,11 @@ const source = [
             88,
             61
         ],
-        "RGB": [
-            81,
-            60,
-            32
-        ],
+        "RGB": {
+            "R": 81,
+            "G": 60,
+            "B": 32
+        },
         "code": "#513c20",
         "name": "蟹壳绿",
         "pinyin": "xiekelv"
@@ -1526,11 +1526,11 @@ const source = [
             94,
             60
         ],
-        "RGB": [
-            83,
-            60,
-            27
-        ],
+        "RGB": {
+            "R": 83,
+            "G": 60,
+            "B": 27
+        },
         "code": "#533c1b",
         "name": "古铜绿",
         "pinyin": "gutonglv"
@@ -1542,11 +1542,11 @@ const source = [
             94,
             60
         ],
-        "RGB": [
-            85,
-            59,
-            24
-        ],
+        "RGB": {
+            "R": 85,
+            "G": 59,
+            "B": 24
+        },
         "code": "#553b18",
         "name": "焦茶绿",
         "pinyin": "jiaochalv"
@@ -1558,11 +1558,11 @@ const source = [
             13,
             0
         ],
-        "RGB": [
-            251,
-            242,
-            227
-        ],
+        "RGB": {
+            "R": 251,
+            "G": 242,
+            "B": 227
+        },
         "code": "#fbf2e3",
         "name": "粉白",
         "pinyin": "fenbai"
@@ -1574,11 +1574,11 @@ const source = [
             22,
             0
         ],
-        "RGB": [
-            249,
-            232,
-            208
-        ],
+        "RGB": {
+            "R": 249,
+            "G": 232,
+            "B": 208
+        },
         "code": "#f9e8d0",
         "name": "落英淡粉",
         "pinyin": "luoyingdanfen"
@@ -1590,11 +1590,11 @@ const source = [
             51,
             0
         ],
-        "RGB": [
-            249,
-            203,
-            139
-        ],
+        "RGB": {
+            "R": 249,
+            "G": 203,
+            "B": 139
+        },
         "code": "#f9cb8b",
         "name": "瓜瓤粉",
         "pinyin": "guarangfen"
@@ -1606,11 +1606,11 @@ const source = [
             72,
             0
         ],
-        "RGB": [
-            251,
-            185,
-            87
-        ],
+        "RGB": {
+            "R": 251,
+            "G": 185,
+            "B": 87
+        },
         "code": "#fbb957",
         "name": "蜜黄",
         "pinyin": "mihuang"
@@ -1622,11 +1622,11 @@ const source = [
             91,
             0
         ],
-        "RGB": [
-            255,
-            166,
-            15
-        ],
+        "RGB": {
+            "R": 255,
+            "G": 166,
+            "B": 15
+        },
         "code": "#ffa60f",
         "name": "金叶黄",
         "pinyin": "jinyehuang"
@@ -1638,11 +1638,11 @@ const source = [
             82,
             0
         ],
-        "RGB": [
-            244,
-            168,
-            58
-        ],
+        "RGB": {
+            "R": 244,
+            "G": 168,
+            "B": 58
+        },
         "code": "#f4a83a",
         "name": "金莺黄",
         "pinyin": "jinyinghuang"
@@ -1654,11 +1654,11 @@ const source = [
             50,
             1
         ],
-        "RGB": [
-            227,
-            189,
-            141
-        ],
+        "RGB": {
+            "R": 227,
+            "G": 189,
+            "B": 141
+        },
         "code": "#e3bd8d",
         "name": "鹿角棕",
         "pinyin": "lujiaozong"
@@ -1670,11 +1670,11 @@ const source = [
             83,
             0
         ],
-        "RGB": [
-            231,
-            162,
-            63
-        ],
+        "RGB": {
+            "R": 231,
+            "G": 162,
+            "B": 63
+        },
         "code": "#e7a23f",
         "name": "凋叶棕",
         "pinyin": "diaoyezong"
@@ -1686,11 +1686,11 @@ const source = [
             72,
             1
         ],
-        "RGB": [
-            218,
-            164,
-            90
-        ],
+        "RGB": {
+            "R": 218,
+            "G": 164,
+            "B": 90
+        },
         "code": "#daa45a",
         "name": "玳瑁黄",
         "pinyin": "daimaohuang"
@@ -1702,11 +1702,11 @@ const source = [
             82,
             1
         ],
-        "RGB": [
-            222,
-            158,
-            68
-        ],
+        "RGB": {
+            "R": 222,
+            "G": 158,
+            "B": 68
+        },
         "code": "#de9e44",
         "name": "软木黄",
         "pinyin": "ruanmuhuang"
@@ -1718,11 +1718,11 @@ const source = [
             95,
             1
         ],
-        "RGB": [
-            220,
-            145,
-            35
-        ],
+        "RGB": {
+            "R": 220,
+            "G": 145,
+            "B": 35
+        },
         "code": "#dc9123",
         "name": "风帆黄",
         "pinyin": "fengfanhuang"
@@ -1734,11 +1734,11 @@ const source = [
             75,
             7
         ],
-        "RGB": [
-            192,
-            147,
-            81
-        ],
+        "RGB": {
+            "R": 192,
+            "G": 147,
+            "B": 81
+        },
         "code": "#c09351",
         "name": "桂皮淡棕",
         "pinyin": "guipidanzong"
@@ -1750,11 +1750,11 @@ const source = [
             53,
             22
         ],
-        "RGB": [
-            151,
-            132,
-            108
-        ],
+        "RGB": {
+            "R": 151,
+            "G": 132,
+            "B": 108
+        },
         "code": "#97846c",
         "name": "猴毛灰",
         "pinyin": "houmaohui"
@@ -1766,11 +1766,11 @@ const source = [
             97,
             21
         ],
-        "RGB": [
-            152,
-            101,
-            36
-        ],
+        "RGB": {
+            "R": 152,
+            "G": 101,
+            "B": 36
+        },
         "code": "#986524",
         "name": "山鸡褐",
         "pinyin": "shanjihe"
@@ -1782,11 +1782,11 @@ const source = [
             84,
             49
         ],
-        "RGB": [
-            102,
-            70,
-            42
-        ],
+        "RGB": {
+            "R": 102,
+            "G": 70,
+            "B": 42
+        },
         "code": "#66462a",
         "name": "驼色",
         "pinyin": "tuose"
@@ -1798,11 +1798,11 @@ const source = [
             90,
             54
         ],
-        "RGB": [
-            93,
-            61,
-            33
-        ],
+        "RGB": {
+            "R": 93,
+            "G": 61,
+            "B": 33
+        },
         "code": "#5d3d21",
         "name": "茶褐",
         "pinyin": "chahe"
@@ -1814,11 +1814,11 @@ const source = [
             96,
             55
         ],
-        "RGB": [
-            92,
-            55,
-            25
-        ],
+        "RGB": {
+            "R": 92,
+            "G": 55,
+            "B": 25
+        },
         "code": "#5c3719",
         "name": "古铜褐",
         "pinyin": "gutonghe"
@@ -1830,11 +1830,11 @@ const source = [
             14,
             0
         ],
-        "RGB": [
-            251,
-            236,
-            222
-        ],
+        "RGB": {
+            "R": 251,
+            "G": 236,
+            "B": 222
+        },
         "code": "#fbecde",
         "name": "荷花白",
         "pinyin": "hehuabai"
@@ -1846,11 +1846,11 @@ const source = [
             52,
             0
         ],
-        "RGB": [
-            248,
-            179,
-            127
-        ],
+        "RGB": {
+            "R": 248,
+            "G": 179,
+            "B": 127
+        },
         "code": "#f8b37f",
         "name": "玫瑰粉",
         "pinyin": "meiguifen"
@@ -1862,11 +1862,11 @@ const source = [
             88,
             0
         ],
-        "RGB": [
-            249,
-            125,
-            28
-        ],
+        "RGB": {
+            "R": 249,
+            "G": 125,
+            "B": 28
+        },
         "code": "#f97d1c",
         "name": "橘橙",
         "pinyin": "jucheng"
@@ -1878,11 +1878,11 @@ const source = [
             85,
             0
         ],
-        "RGB": [
-            250,
-            126,
-            35
-        ],
+        "RGB": {
+            "R": 250,
+            "G": 126,
+            "B": 35
+        },
         "code": "#fa7e23",
         "name": "美人焦橙",
         "pinyin": "meirenjiaocheng"
@@ -1894,11 +1894,11 @@ const source = [
             25,
             0
         ],
-        "RGB": [
-            247,
-            205,
-            188
-        ],
+        "RGB": {
+            "R": 247,
+            "G": 205,
+            "B": 188
+        },
         "code": "#f7cdbc",
         "name": "润红",
         "pinyin": "runhong"
@@ -1910,11 +1910,11 @@ const source = [
             22,
             0
         ],
-        "RGB": [
-            246,
-            206,
-            193
-        ],
+        "RGB": {
+            "R": 246,
+            "G": 206,
+            "B": 193
+        },
         "code": "#f6cec1",
         "name": "淡桃红",
         "pinyin": "dantaohong"
@@ -1926,11 +1926,11 @@ const source = [
             65,
             0
         ],
-        "RGB": [
-            240,
-            148,
-            93
-        ],
+        "RGB": {
+            "R": 240,
+            "G": 148,
+            "B": 93
+        },
         "code": "#f0945d",
         "name": "海螺橙",
         "pinyin": "hailuocheng"
@@ -1942,11 +1942,11 @@ const source = [
             32,
             0
         ],
-        "RGB": [
-            240,
-            173,
-            160
-        ],
+        "RGB": {
+            "R": 240,
+            "G": 173,
+            "B": 160
+        },
         "code": "#f0ada0",
         "name": "桃红",
         "pinyin": "taohong"
@@ -1958,11 +1958,11 @@ const source = [
             34,
             0
         ],
-        "RGB": [
-            238,
-            170,
-            156
-        ],
+        "RGB": {
+            "R": 238,
+            "G": 170,
+            "B": 156
+        },
         "code": "#eeaa9c",
         "name": "颊红",
         "pinyin": "jiahong"
@@ -1974,11 +1974,11 @@ const source = [
             41,
             0
         ],
-        "RGB": [
-            238,
-            160,
-            140
-        ],
+        "RGB": {
+            "R": 238,
+            "G": 160,
+            "B": 140
+        },
         "code": "#eea08c",
         "name": "淡罂粟红",
         "pinyin": "danyingsuhong"
@@ -1990,11 +1990,11 @@ const source = [
             67,
             0
         ],
-        "RGB": [
-            234,
-            137,
-            88
-        ],
+        "RGB": {
+            "R": 234,
+            "G": 137,
+            "B": 88
+        },
         "code": "#ea8958",
         "name": "晨曦红",
         "pinyin": "chenxihong"
@@ -2006,11 +2006,11 @@ const source = [
             80,
             0
         ],
-        "RGB": [
-            242,
-            118,
-            53
-        ],
+        "RGB": {
+            "R": 242,
+            "G": 118,
+            "B": 53
+        },
         "code": "#f27635",
         "name": "蟹壳红",
         "pinyin": "xiekehong"
@@ -2022,11 +2022,11 @@ const source = [
             86,
             0
         ],
-        "RGB": [
-            248,
-            107,
-            29
-        ],
+        "RGB": {
+            "R": 248,
+            "G": 107,
+            "B": 29
+        },
         "code": "#f86b1d",
         "name": "金莲花橙",
         "pinyin": "jinlianhuacheng"
@@ -2038,11 +2038,11 @@ const source = [
             70,
             0
         ],
-        "RGB": [
-            239,
-            111,
-            72
-        ],
+        "RGB": {
+            "R": 239,
+            "G": 111,
+            "B": 72
+        },
         "code": "#ef6f48",
         "name": "草莓红",
         "pinyin": "caomeihong"
@@ -2054,11 +2054,11 @@ const source = [
             82,
             0
         ],
-        "RGB": [
-            239,
-            99,
-            43
-        ],
+        "RGB": {
+            "R": 239,
+            "G": 99,
+            "B": 43
+        },
         "code": "#ef632b",
         "name": "龙睛鱼红",
         "pinyin": "longjingyuhong"
@@ -2070,11 +2070,11 @@ const source = [
             84,
             0
         ],
-        "RGB": [
-            241,
-            68,
-            29
-        ],
+        "RGB": {
+            "R": 241,
+            "G": 68,
+            "B": 29
+        },
         "code": "#f1441d",
         "name": "蜻蜓红",
         "pinyin": "qingtinghong"
@@ -2086,11 +2086,11 @@ const source = [
             83,
             0
         ],
-        "RGB": [
-            240,
-            75,
-            34
-        ],
+        "RGB": {
+            "R": 240,
+            "G": 75,
+            "B": 34
+        },
         "code": "#f04b22",
         "name": "大红",
         "pinyin": "dahong"
@@ -2102,11 +2102,11 @@ const source = [
             85,
             0
         ],
-        "RGB": [
-            242,
-            72,
-            27
-        ],
+        "RGB": {
+            "R": 242,
+            "G": 72,
+            "B": 27
+        },
         "code": "#f2481b",
         "name": "柿红",
         "pinyin": "shihong"
@@ -2118,11 +2118,11 @@ const source = [
             85,
             0
         ],
-        "RGB": [
-            243,
-            71,
-            24
-        ],
+        "RGB": {
+            "R": 243,
+            "G": 71,
+            "B": 24
+        },
         "code": "#f34718",
         "name": "榴花红",
         "pinyin": "liuhuahong"
@@ -2134,11 +2134,11 @@ const source = [
             87,
             0
         ],
-        "RGB": [
-            244,
-            62,
-            6
-        ],
+        "RGB": {
+            "R": 244,
+            "G": 62,
+            "B": 6
+        },
         "code": "#f43e06",
         "name": "银朱",
         "pinyin": "yinzhu"
@@ -2150,11 +2150,11 @@ const source = [
             83,
             0
         ],
-        "RGB": [
-            237,
-            81,
-            38
-        ],
+        "RGB": {
+            "R": 237,
+            "G": 81,
+            "B": 38
+        },
         "code": "#ed5126",
         "name": "朱红",
         "pinyin": "zhuhong"
@@ -2166,11 +2166,11 @@ const source = [
             68,
             0
         ],
-        "RGB": [
-            240,
-            156,
-            90
-        ],
+        "RGB": {
+            "R": 240,
+            "G": 156,
+            "B": 90
+        },
         "code": "#f09c5a",
         "name": "鲑鱼红",
         "pinyin": "guiyuhong"
@@ -2182,11 +2182,11 @@ const source = [
             87,
             0
         ],
-        "RGB": [
-            242,
-            123,
-            31
-        ],
+        "RGB": {
+            "R": 242,
+            "G": 123,
+            "B": 31
+        },
         "code": "#f26b1f",
         "name": "金黄",
         "pinyin": "jinhuang"
@@ -2198,11 +2198,11 @@ const source = [
             71,
             1
         ],
-        "RGB": [
-            217,
-            145,
-            86
-        ],
+        "RGB": {
+            "R": 217,
+            "G": 145,
+            "B": 86
+        },
         "code": "#d99156",
         "name": "鹿皮褐",
         "pinyin": "lupihe"
@@ -2214,11 +2214,11 @@ const source = [
             82,
             1
         ],
-        "RGB": [
-            219,
-            133,
-            64
-        ],
+        "RGB": {
+            "R": 219,
+            "G": 133,
+            "B": 64
+        },
         "code": "#db8540",
         "name": "醉瓜肉",
         "pinyin": "zuiguarou"
@@ -2230,11 +2230,11 @@ const source = [
             93,
             0
         ],
-        "RGB": [
-            222,
-            118,
-            34
-        ],
+        "RGB": {
+            "R": 222,
+            "G": 118,
+            "B": 34
+        },
         "code": "#de7622",
         "name": "麂棕",
         "pinyin": "jizong"
@@ -2246,11 +2246,11 @@ const source = [
             34,
             6
         ],
-        "RGB": [
-            193,
-            178,
-            163
-        ],
+        "RGB": {
+            "R": 193,
+            "G": 178,
+            "B": 163
+        },
         "code": "#c1b2a3",
         "name": "淡银灰",
         "pinyin": "danyinhui"
@@ -2262,11 +2262,11 @@ const source = [
             76,
             6
         ],
-        "RGB": [
-            190,
-            126,
-            74
-        ],
+        "RGB": {
+            "R": 190,
+            "G": 126,
+            "B": 74
+        },
         "code": "#be7e4a",
         "name": "淡赭",
         "pinyin": "danzhe"
@@ -2278,11 +2278,11 @@ const source = [
             100,
             4
         ],
-        "RGB": [
-            193,
-            101,
-            26
-        ],
+        "RGB": {
+            "R": 193,
+            "G": 101,
+            "B": 26
+        },
         "code": "#c1651a",
         "name": "槟榔综",
         "pinyin": "binglangzong"
@@ -2294,11 +2294,11 @@ const source = [
             46,
             23
         ],
-        "RGB": [
-            145,
-            128,
-            114
-        ],
+        "RGB": {
+            "R": 145,
+            "G": 128,
+            "B": 114
+        },
         "code": "#918072",
         "name": "银灰",
         "pinyin": "yinhui"
@@ -2310,11 +2310,11 @@ const source = [
             46,
             20
         ],
-        "RGB": [
-            154,
-            136,
-            120
-        ],
+        "RGB": {
+            "R": 154,
+            "G": 136,
+            "B": 120
+        },
         "code": "#9a8878",
         "name": "海鸥灰",
         "pinyin": "haiouhui"
@@ -2326,11 +2326,11 @@ const source = [
             85,
             22
         ],
-        "RGB": [
-            148,
-            88,
-            51
-        ],
+        "RGB": {
+            "R": 148,
+            "G": 88,
+            "B": 51
+        },
         "code": "#945833",
         "name": "淡咖啡",
         "pinyin": "dankafei"
@@ -2342,11 +2342,11 @@ const source = [
             97,
             20
         ],
-        "RGB": [
-            150,
-            77,
-            34
-        ],
+        "RGB": {
+            "R": 150,
+            "G": 77,
+            "B": 34
+        },
         "code": "#964d22",
         "name": "岩石棕",
         "pinyin": "yanshizong"
@@ -2358,11 +2358,11 @@ const source = [
             100,
             20
         ],
-        "RGB": [
-            149,
-            68,
-            22
-        ],
+        "RGB": {
+            "R": 149,
+            "G": 68,
+            "B": 22
+        },
         "code": "#954416",
         "name": "芒果棕",
         "pinyin": "mangguozong"
@@ -2374,11 +2374,11 @@ const source = [
             58,
             51
         ],
-        "RGB": [
-            98,
-            73,
-            65
-        ],
+        "RGB": {
+            "R": 98,
+            "G": 73,
+            "B": 65
+        },
         "code": "#624941",
         "name": "石板灰",
         "pinyin": "shibanhui"
@@ -2390,11 +2390,11 @@ const source = [
             63,
             50
         ],
-        "RGB": [
-            100,
-            72,
-            61
-        ],
+        "RGB": {
+            "R": 100,
+            "G": 72,
+            "B": 61
+        },
         "code": "#64483d",
         "name": "珠母灰",
         "pinyin": "zhumuhui"
@@ -2406,11 +2406,11 @@ const source = [
             96,
             41
         ],
-        "RGB": [
-            113,
-            54,
-            29
-        ],
+        "RGB": {
+            "R": 113,
+            "G": 54,
+            "B": 29
+        },
         "code": "#71361d",
         "name": "丁香棕",
         "pinyin": "dingxiangzong"
@@ -2422,11 +2422,11 @@ const source = [
             100,
             38
         ],
-        "RGB": [
-            117,
-            49,
-            23
-        ],
+        "RGB": {
+            "R": 117,
+            "G": 49,
+            "B": 23
+        },
         "code": "#753117",
         "name": "咖啡",
         "pinyin": "kafei"
@@ -2438,11 +2438,11 @@ const source = [
             100,
             39
         ],
-        "RGB": [
-            115,
-            46,
-            18
-        ],
+        "RGB": {
+            "R": 115,
+            "G": 46,
+            "B": 18
+        },
         "code": "#732e12",
         "name": "筍皮棕",
         "pinyin": "sunpizong"
@@ -2454,11 +2454,11 @@ const source = [
             86,
             0
         ],
-        "RGB": [
-            252,
-            99,
-            21
-        ],
+        "RGB": {
+            "R": 252,
+            "G": 99,
+            "B": 21
+        },
         "code": "#fc6315",
         "name": "燕颔红",
         "pinyin": "yanhanhong"
@@ -2470,11 +2470,11 @@ const source = [
             39,
             0
         ],
-        "RGB": [
-            232,
-            180,
-            154
-        ],
+        "RGB": {
+            "R": 232,
+            "G": 180,
+            "B": 154
+        },
         "code": "#e8b49a",
         "name": "玉粉红",
         "pinyin": "yufenhong"
@@ -2486,11 +2486,11 @@ const source = [
             87,
             0
         ],
-        "RGB": [
-            228,
-            104,
-            40
-        ],
+        "RGB": {
+            "R": 228,
+            "G": 104,
+            "B": 40
+        },
         "code": "#e46828",
         "name": "金驼",
         "pinyin": "jintuo"
@@ -2502,11 +2502,11 @@ const source = [
             97,
             0
         ],
-        "RGB": [
-            216,
-            89,
-            22
-        ],
+        "RGB": {
+            "R": 216,
+            "G": 89,
+            "B": 22
+        },
         "code": "#d85916",
         "name": "铁棕",
         "pinyin": "tiezong"
@@ -2518,11 +2518,11 @@ const source = [
             38,
             10
         ],
-        "RGB": [
-            183,
-            160,
-            145
-        ],
+        "RGB": {
+            "R": 183,
+            "G": 160,
+            "B": 145
+        },
         "code": "#b7a091",
         "name": "蛛网灰",
         "pinyin": "zhuwanghui"
@@ -2534,11 +2534,11 @@ const source = [
             100,
             6
         ],
-        "RGB": [
-            183,
-            81,
-            29
-        ],
+        "RGB": {
+            "R": 183,
+            "G": 81,
+            "B": 29
+        },
         "code": "#b7511d",
         "name": "淡可可棕",
         "pinyin": "dankekezong"
@@ -2550,11 +2550,11 @@ const source = [
             66,
             31
         ],
-        "RGB": [
-            139,
-            97,
-            77
-        ],
+        "RGB": {
+            "R": 139,
+            "G": 97,
+            "B": 77
+        },
         "code": "#8b614d",
         "name": "中红灰",
         "pinyin": "zhonghonghui"
@@ -2566,11 +2566,11 @@ const source = [
             82,
             26
         ],
-        "RGB": [
-            140,
-            75,
-            49
-        ],
+        "RGB": {
+            "R": 140,
+            "G": 75,
+            "B": 49
+        },
         "code": "#8c4b31",
         "name": "淡土黄",
         "pinyin": "dantuhuang"
@@ -2582,11 +2582,11 @@ const source = [
             92,
             28
         ],
-        "RGB": [
-            135,
-            61,
-            36
-        ],
+        "RGB": {
+            "R": 135,
+            "G": 61,
+            "B": 36
+        },
         "code": "#873d24",
         "name": "淡豆沙",
         "pinyin": "dandousha"
@@ -2598,11 +2598,11 @@ const source = [
             98,
             27
         ],
-        "RGB": [
-            136,
-            58,
-            30
-        ],
+        "RGB": {
+            "R": 136,
+            "G": 58,
+            "B": 30
+        },
         "code": "#883a1e",
         "name": "椰壳棕",
         "pinyin": "yekezong"
@@ -2614,11 +2614,11 @@ const source = [
             61,
             56
         ],
-        "RGB": [
-            91,
-            66,
-            58
-        ],
+        "RGB": {
+            "R": 91,
+            "G": 66,
+            "B": 58
+        },
         "code": "#5b423a",
         "name": "淡铁灰",
         "pinyin": "dantiehui"
@@ -2630,11 +2630,11 @@ const source = [
             72,
             52
         ],
-        "RGB": [
-            96,
-            61,
-            48
-        ],
+        "RGB": {
+            "R": 96,
+            "G": 61,
+            "B": 48
+        },
         "code": "#603d30",
         "name": "中灰驼",
         "pinyin": "zhonghuituo"
@@ -2646,11 +2646,11 @@ const source = [
             85,
             47
         ],
-        "RGB": [
-            103,
-            52,
-            36
-        ],
+        "RGB": {
+            "R": 103,
+            "G": 52,
+            "B": 36
+        },
         "code": "#673424",
         "name": "淡栗棕",
         "pinyin": "danlizong"
@@ -2662,11 +2662,11 @@ const source = [
             92,
             48
         ],
-        "RGB": [
-            101,
-            43,
-            28
-        ],
+        "RGB": {
+            "R": 101,
+            "G": 43,
+            "B": 28
+        },
         "code": "#652b1c",
         "name": "可可棕",
         "pinyin": "kekezong"
@@ -2678,11 +2678,11 @@ const source = [
             95,
             45
         ],
-        "RGB": [
-            105,
-            42,
-            27
-        ],
+        "RGB": {
+            "R": 105,
+            "G": 42,
+            "B": 27
+        },
         "code": "#692a1b",
         "name": "柞叶棕",
         "pinyin": "zhayezong"
@@ -2694,11 +2694,11 @@ const source = [
             59,
             0
         ],
-        "RGB": [
-            251,
-            153,
-            104
-        ],
+        "RGB": {
+            "R": 251,
+            "G": 153,
+            "B": 104
+        },
         "code": "#fb9968",
         "name": "野蔷薇红",
         "pinyin": "yeqiangweihong"
@@ -2710,11 +2710,11 @@ const source = [
             79,
             0
         ],
-        "RGB": [
-            252,
-            121,
-            48
-        ],
+        "RGB": {
+            "R": 252,
+            "G": 121,
+            "B": 48
+        },
         "code": "#fc7930",
         "name": "菠萝红",
         "pinyin": "boluohong"
@@ -2726,11 +2726,11 @@ const source = [
             31,
             0
         ],
-        "RGB": [
-            237,
-            195,
-            174
-        ],
+        "RGB": {
+            "R": 237,
+            "G": 195,
+            "B": 174
+        },
         "code": "#edc3ae",
         "name": "藕荷",
         "pinyin": "ouhe"
@@ -2742,11 +2742,11 @@ const source = [
             91,
             0
         ],
-        "RGB": [
-            225,
-            103,
-            35
-        ],
+        "RGB": {
+            "R": 225,
+            "G": 103,
+            "B": 35
+        },
         "code": "#e16723",
         "name": "陶瓷红",
         "pinyin": "taocihong"
@@ -2758,11 +2758,11 @@ const source = [
             27,
             2
         ],
-        "RGB": [
-            212,
-            196,
-            183
-        ],
+        "RGB": {
+            "R": 212,
+            "G": 196,
+            "B": 183
+        },
         "code": "#d4c4b7",
         "name": "晓灰",
         "pinyin": "xiaohui"
@@ -2774,11 +2774,11 @@ const source = [
             78,
             1
         ],
-        "RGB": [
-            207,
-            117,
-            67
-        ],
+        "RGB": {
+            "R": 207,
+            "G": 117,
+            "B": 67
+        },
         "code": "#cf7543",
         "name": "余烬红",
         "pinyin": "yujinhong"
@@ -2790,11 +2790,11 @@ const source = [
             93,
             1
         ],
-        "RGB": [
-            205,
-            98,
-            39
-        ],
+        "RGB": {
+            "R": 205,
+            "G": 98,
+            "B": 39
+        },
         "code": "#cd6227",
         "name": "火砖红",
         "pinyin": "huozhuanhong"
@@ -2806,11 +2806,11 @@ const source = [
             71,
             12
         ],
-        "RGB": [
-            170,
-            106,
-            76
-        ],
+        "RGB": {
+            "R": 170,
+            "G": 106,
+            "B": 76
+        },
         "code": "#aa6a4c",
         "name": "火泥棕",
         "pinyin": "huonizong"
@@ -2822,11 +2822,11 @@ const source = [
             92,
             9
         ],
-        "RGB": [
-            170,
-            106,
-            76
-        ],
+        "RGB": {
+            "R": 170,
+            "G": 106,
+            "B": 76
+        },
         "code": "#aa6a4c",
         "name": "绀红",
         "pinyin": "ganhong"
@@ -2838,11 +2838,11 @@ const source = [
             77,
             37
         ],
-        "RGB": [
-            119,
-            61,
-            49
-        ],
+        "RGB": {
+            "R": 119,
+            "G": 61,
+            "B": 49
+        },
         "code": "#773d31",
         "name": "橡树棕",
         "pinyin": "xiangshuzong"
@@ -2854,11 +2854,11 @@ const source = [
             57,
             66
         ],
-        "RGB": [
-            72,
-            51,
-            50
-        ],
+        "RGB": {
+            "R": 72,
+            "G": 51,
+            "B": 50
+        },
         "code": "#483332",
         "name": "海报灰",
         "pinyin": "haibaohui"
@@ -2870,11 +2870,11 @@ const source = [
             64,
             65
         ],
-        "RGB": [
-            175,
-            46,
-            43
-        ],
+        "RGB": {
+            "R": 175,
+            "G": 46,
+            "B": 43
+        },
         "code": "#4b2e2b",
         "name": "玫瑰灰",
         "pinyin": "meiguihui"
@@ -2886,11 +2886,11 @@ const source = [
             71,
             67
         ],
-        "RGB": [
-            72,
-            37,
-            34
-        ],
+        "RGB": {
+            "R": 72,
+            "G": 37,
+            "B": 34
+        },
         "code": "#482522",
         "name": "火山棕",
         "pinyin": "huoshanzong"
@@ -2902,11 +2902,11 @@ const source = [
             78,
             66
         ],
-        "RGB": [
-            72,
-            30,
-            28
-        ],
+        "RGB": {
+            "R": 72,
+            "G": 30,
+            "B": 28
+        },
         "code": "#481e1c",
         "name": "豆沙",
         "pinyin": "dousha"
@@ -2918,11 +2918,11 @@ const source = [
             12,
             0
         ],
-        "RGB": [
-            251,
-            238,
-            226
-        ],
+        "RGB": {
+            "R": 251,
+            "G": 238,
+            "B": 226
+        },
         "code": "#fbeee2",
         "name": "淡米粉",
         "pinyin": "danmifen"
@@ -2934,11 +2934,11 @@ const source = [
             19,
             0
         ],
-        "RGB": [
-            246,
-            220,
-            206
-        ],
+        "RGB": {
+            "R": 246,
+            "G": 220,
+            "B": 206
+        },
         "code": "#f6dcce",
         "name": "初桃粉红",
         "pinyin": "chutaofenhong"
@@ -2950,11 +2950,11 @@ const source = [
             27,
             0
         ],
-        "RGB": [
-            247,
-            207,
-            186
-        ],
+        "RGB": {
+            "R": 247,
+            "G": 207,
+            "B": 186
+        },
         "code": "#f7cfba",
         "name": "介壳淡粉红",
         "pinyin": "jieqiaodanfenhong"
@@ -2966,11 +2966,11 @@ const source = [
             43,
             0
         ],
-        "RGB": [
-            246,
-            173,
-            143
-        ],
+        "RGB": {
+            "R": 246,
+            "G": 173,
+            "B": 143
+        },
         "code": "#f6ad8f",
         "name": "淡藏花红",
         "pinyin": "dancanghuahong"
@@ -2982,11 +2982,11 @@ const source = [
             61,
             0
         ],
-        "RGB": [
-            246,
-            140,
-            96
-        ],
+        "RGB": {
+            "R": 246,
+            "G": 140,
+            "B": 96
+        },
         "code": "#f68c60",
         "name": "瓜瓤红",
         "pinyin": "guaranghong"
@@ -2998,11 +2998,11 @@ const source = [
             74,
             0
         ],
-        "RGB": [
-            249,
-            114,
-            61
-        ],
+        "RGB": {
+            "R": 249,
+            "G": 114,
+            "B": 61
+        },
         "code": "#f9723d",
         "name": "芙蓉红",
         "pinyin": "furonghong"
@@ -3014,11 +3014,11 @@ const source = [
             85,
             0
         ],
-        "RGB": [
-            250,
-            93,
-            25
-        ],
+        "RGB": {
+            "R": 250,
+            "G": 93,
+            "B": 25
+        },
         "code": "#fa5d19",
         "name": "莓酱红",
         "pinyin": "meijianghong"
@@ -3030,11 +3030,11 @@ const source = [
             66,
             0
         ],
-        "RGB": [
-            238,
-            128,
-            85
-        ],
+        "RGB": {
+            "R": 238,
+            "G": 128,
+            "B": 85
+        },
         "code": "#ee8055",
         "name": "法螺红",
         "pinyin": "faluohong"
@@ -3046,11 +3046,11 @@ const source = [
             99,
             0
         ],
-        "RGB": [
-            207,
-            72,
-            19
-        ],
+        "RGB": {
+            "R": 207,
+            "G": 72,
+            "B": 19
+        },
         "code": "#cf4813",
         "name": "落霞红",
         "pinyin": "luoxiahong"
@@ -3062,11 +3062,11 @@ const source = [
             43,
             9
         ],
-        "RGB": [
-            184,
-            148,
-            133
-        ],
+        "RGB": {
+            "R": 184,
+            "G": 148,
+            "B": 133
+        },
         "code": "#b89485",
         "name": "淡玫瑰灰",
         "pinyin": "danmeiguihui"
@@ -3078,11 +3078,11 @@ const source = [
             92,
             7
         ],
-        "RGB": [
-            177,
-            75,
-            40
-        ],
+        "RGB": {
+            "R": 177,
+            "G": 75,
+            "B": 40
+        },
         "code": "#b14b28",
         "name": "蟹蝥红",
         "pinyin": "xiemaohong"
@@ -3094,11 +3094,11 @@ const source = [
             95,
             28
         ],
-        "RGB": [
-            134,
-            48,
-            32
-        ],
+        "RGB": {
+            "R": 134,
+            "G": 48,
+            "B": 32
+        },
         "code": "#863020",
         "name": "火岩棕",
         "pinyin": "huoyanzong"
@@ -3110,11 +3110,11 @@ const source = [
             100,
             27
         ],
-        "RGB": [
-            134,
-            38,
-            23
-        ],
+        "RGB": {
+            "R": 134,
+            "G": 38,
+            "B": 23
+        },
         "code": "#862617",
         "name": "赭石",
         "pinyin": "zheshi"
@@ -3126,11 +3126,11 @@ const source = [
             82,
             56
         ],
-        "RGB": [
-            89,
-            38,
-            32
-        ],
+        "RGB": {
+            "R": 89,
+            "G": 38,
+            "B": 32
+        },
         "code": "#592620",
         "name": "暗驼棕",
         "pinyin": "antuozong"
@@ -3142,11 +3142,11 @@ const source = [
             88,
             55
         ],
-        "RGB": [
-            90,
-            31,
-            27
-        ],
+        "RGB": {
+            "R": 90,
+            "G": 31,
+            "B": 27
+        },
         "code": "#5a1f1b",
         "name": "酱棕",
         "pinyin": "jiangzong"
@@ -3158,11 +3158,11 @@ const source = [
             91,
             53
         ],
-        "RGB": [
-            92,
-            30,
-            25
-        ],
+        "RGB": {
+            "R": 92,
+            "G": 30,
+            "B": 25
+        },
         "code": "#5c1e19",
         "name": "栗棕",
         "pinyin": "lizong"
@@ -3174,11 +3174,11 @@ const source = [
             24,
             0
         ],
-        "RGB": [
-            244,
-            199,
-            186
-        ],
+        "RGB": {
+            "R": 244,
+            "G": 199,
+            "B": 186
+        },
         "code": "#f4c7ba",
         "name": "洋水仙红",
         "pinyin": "yangshuixianhong"
@@ -3190,11 +3190,11 @@ const source = [
             55,
             0
         ],
-        "RGB": [
-            241,
-            118,
-            102
-        ],
+        "RGB": {
+            "R": 241,
+            "G": 118,
+            "B": 102
+        },
         "code": "#f17666",
         "name": "谷鞘红",
         "pinyin": "guqiaohong"
@@ -3206,11 +3206,11 @@ const source = [
             69,
             0
         ],
-        "RGB": [
-            241,
-            86,
-            66
-        ],
+        "RGB": {
+            "R": 241,
+            "G": 86,
+            "B": 66
+        },
         "code": "#f15642",
         "name": "苹果红",
         "pinyin": "pingguohong"
@@ -3222,11 +3222,11 @@ const source = [
             82,
             0
         ],
-        "RGB": [
-            245,
-            57,
-            28
-        ],
+        "RGB": {
+            "R": 245,
+            "G": 57,
+            "B": 28
+        },
         "code": "#f5391c",
         "name": "铁水红",
         "pinyin": "tieshuihong"
@@ -3238,11 +3238,11 @@ const source = [
             67,
             0
         ],
-        "RGB": [
-            242,
-            90,
-            71
-        ],
+        "RGB": {
+            "R": 242,
+            "G": 90,
+            "B": 71
+        },
         "code": "#f25a47",
         "name": "桂红",
         "pinyin": "guihong"
@@ -3254,11 +3254,11 @@ const source = [
             82,
             0
         ],
-        "RGB": [
-            243,
-            59,
-            31
-        ],
+        "RGB": {
+            "R": 243,
+            "G": 59,
+            "B": 31
+        },
         "code": "#f33b1f",
         "name": "极光红",
         "pinyin": "jiguanghong"
@@ -3270,11 +3270,11 @@ const source = [
             25,
             0
         ],
-        "RGB": [
-            242,
-            185,
-            178
-        ],
+        "RGB": {
+            "R": 242,
+            "G": 185,
+            "B": 178
+        },
         "code": "#f2b9b2",
         "name": "粉红",
         "pinyin": "fenhong"
@@ -3286,11 +3286,11 @@ const source = [
             36,
             0
         ],
-        "RGB": [
-            241,
-            151,
-            144
-        ],
+        "RGB": {
+            "R": 241,
+            "G": 151,
+            "B": 144
+        },
         "code": "#f19790",
         "name": "舌红",
         "pinyin": "shehong"
@@ -3302,11 +3302,11 @@ const source = [
             68,
             0
         ],
-        "RGB": [
-            240,
-            90,
-            70
-        ],
+        "RGB": {
+            "R": 240,
+            "G": 90,
+            "B": 70
+        },
         "code": "#f05a46",
         "name": "曲红",
         "pinyin": "quhong"
@@ -3318,11 +3318,11 @@ const source = [
             81,
             0
         ],
-        "RGB": [
-            242,
-            62,
-            35
-        ],
+        "RGB": {
+            "R": 242,
+            "G": 62,
+            "B": 35
+        },
         "code": "#f23e23",
         "name": "红汞红",
         "pinyin": "honggonghong"
@@ -3334,11 +3334,11 @@ const source = [
             16,
             0
         ],
-        "RGB": [
-            242,
-            202,
-            201
-        ],
+        "RGB": {
+            "R": 242,
+            "G": 202,
+            "B": 201
+        },
         "code": "#f2cac9",
         "name": "淡绯",
         "pinyin": "danfei"
@@ -3350,11 +3350,11 @@ const source = [
             24,
             0
         ],
-        "RGB": [
-            239,
-            175,
-            173
-        ],
+        "RGB": {
+            "R": 239,
+            "G": 175,
+            "B": 173
+        },
         "code": "#efafad",
         "name": "无花果红",
         "pinyin": "wuhuaguohong"
@@ -3366,11 +3366,11 @@ const source = [
             36,
             0
         ],
-        "RGB": [
-            241,
-            144,
-            140
-        ],
+        "RGB": {
+            "R": 241,
+            "G": 144,
+            "B": 140
+        },
         "code": "#f1908c",
         "name": "榴子红",
         "pinyin": "liuzihong"
@@ -3382,11 +3382,11 @@ const source = [
             81,
             0
         ],
-        "RGB": [
-            240,
-            63,
-            36
-        ],
+        "RGB": {
+            "R": 240,
+            "G": 63,
+            "B": 36
+        },
         "code": "#f03f24",
         "name": "胭脂红",
         "pinyin": "yanzhihong"
@@ -3398,11 +3398,11 @@ const source = [
             23,
             0
         ],
-        "RGB": [
-            240,
-            161,
-            168
-        ],
+        "RGB": {
+            "R": 240,
+            "G": 161,
+            "B": 168
+        },
         "code": "#f0a1a8",
         "name": "合欢红",
         "pinyin": "hehuanhong"
@@ -3414,11 +3414,11 @@ const source = [
             27,
             0
         ],
-        "RGB": [
-            241,
-            147,
-            156
-        ],
+        "RGB": {
+            "R": 241,
+            "G": 147,
+            "B": 156
+        },
         "code": "#f1939c",
         "name": "春梅红",
         "pinyin": "chunmeihong"
@@ -3430,11 +3430,11 @@ const source = [
             38,
             0
         ],
-        "RGB": [
-            240,
-            124,
-            130
-        ],
+        "RGB": {
+            "R": 240,
+            "G": 124,
+            "B": 130
+        },
         "code": "#f07c82",
         "name": "香叶红",
         "pinyin": "xiangyehong"
@@ -3446,11 +3446,11 @@ const source = [
             72,
             0
         ],
-        "RGB": [
-            240,
-            74,
-            58
-        ],
+        "RGB": {
+            "R": 240,
+            "G": 74,
+            "B": 58
+        },
         "code": "#f04a3a",
         "name": "珊瑚红",
         "pinyin": "shanhuhong"
@@ -3462,11 +3462,11 @@ const source = [
             82,
             0
         ],
-        "RGB": [
-            241,
-            60,
-            34
-        ],
+        "RGB": {
+            "R": 241,
+            "G": 60,
+            "B": 34
+        },
         "code": "#f13c22",
         "name": "萝卜红",
         "pinyin": "luobohong"
@@ -3478,11 +3478,11 @@ const source = [
             29,
             0
         ],
-        "RGB": [
-            231,
-            124,
-            142
-        ],
+        "RGB": {
+            "R": 231,
+            "G": 124,
+            "B": 142
+        },
         "code": "#e77c8e",
         "name": "淡茜红",
         "pinyin": "danqianhong"
@@ -3494,11 +3494,11 @@ const source = [
             49,
             0
         ],
-        "RGB": [
-            237,
-            90,
-            101
-        ],
+        "RGB": {
+            "R": 237,
+            "G": 90,
+            "B": 101
+        },
         "code": "#ed5a65",
         "name": "艳红",
         "pinyin": "yanhong"
@@ -3510,11 +3510,11 @@ const source = [
             66,
             0
         ],
-        "RGB": [
-            237,
-            72,
-            69
-        ],
+        "RGB": {
+            "R": 237,
+            "G": 72,
+            "B": 69
+        },
         "code": "#ed4845",
         "name": "淡菽红",
         "pinyin": "danshuhong"
@@ -3526,11 +3526,11 @@ const source = [
             76,
             0
         ],
-        "RGB": [
-            237,
-            59,
-            47
-        ],
+        "RGB": {
+            "R": 237,
+            "G": 59,
+            "B": 47
+        },
         "code": "#ed3b2f",
         "name": "鱼鳃红",
         "pinyin": "yusaihong"
@@ -3542,11 +3542,11 @@ const source = [
             82,
             0
         ],
-        "RGB": [
-            237,
-            51,
-            33
-        ],
+        "RGB": {
+            "R": 237,
+            "G": 51,
+            "B": 33
+        },
         "code": "#ed3321",
         "name": "樱桃红",
         "pinyin": "yingtaohong"
@@ -3558,11 +3558,11 @@ const source = [
             44,
             0
         ],
-        "RGB": [
-            238,
-            72,
-            102
-        ],
+        "RGB": {
+            "R": 238,
+            "G": 72,
+            "B": 102
+        },
         "code": "#ee4866",
         "name": "淡蕊香红",
         "pinyin": "danruixianghong"
@@ -3574,11 +3574,11 @@ const source = [
             46,
             0
         ],
-        "RGB": [
-            238,
-            72,
-            99
-        ],
+        "RGB": {
+            "R": 238,
+            "G": 72,
+            "B": 99
+        },
         "code": "#ee4863",
         "name": "石竹红",
         "pinyin": "shizhuhong"
@@ -3590,11 +3590,11 @@ const source = [
             50,
             0
         ],
-        "RGB": [
-            239,
-            71,
-            93
-        ],
+        "RGB": {
+            "R": 239,
+            "G": 71,
+            "B": 93
+        },
         "code": "#ef475d",
         "name": "草茉莉红",
         "pinyin": "caomolihong"
@@ -3606,11 +3606,11 @@ const source = [
             60,
             0
         ],
-        "RGB": [
-            238,
-            63,
-            77
-        ],
+        "RGB": {
+            "R": 238,
+            "G": 63,
+            "B": 77
+        },
         "code": "#ee3f4d",
         "name": "茶花红",
         "pinyin": "chahuahong"
@@ -3622,11 +3622,11 @@ const source = [
             74,
             0
         ],
-        "RGB": [
-            237,
-            51,
-            51
-        ],
+        "RGB": {
+            "R": 237,
+            "G": 51,
+            "B": 51
+        },
         "code": "#ed3333",
         "name": "枸枢红",
         "pinyin": "goushuhong"
@@ -3638,11 +3638,11 @@ const source = [
             81,
             0
         ],
-        "RGB": [
-            236,
-            43,
-            36
-        ],
+        "RGB": {
+            "R": 236,
+            "G": 43,
+            "B": 36
+        },
         "code": "#ec2b24",
         "name": "秋海棠红",
         "pinyin": "qiuhaitanghong"
@@ -3654,11 +3654,11 @@ const source = [
             84,
             0
         ],
-        "RGB": [
-            235,
-            38,
-            26
-        ],
+        "RGB": {
+            "R": 235,
+            "G": 38,
+            "B": 26
+        },
         "code": "#eb261a",
         "name": "丽春红",
         "pinyin": "lichunhong"
@@ -3670,11 +3670,11 @@ const source = [
             90,
             0
         ],
-        "RGB": [
-            222,
-            42,
-            24
-        ],
+        "RGB": {
+            "R": 222,
+            "G": 42,
+            "B": 24
+        },
         "code": "#de2a18",
         "name": "夕阳红",
         "pinyin": "xiyanghong"
@@ -3686,11 +3686,11 @@ const source = [
             95,
             0
         ],
-        "RGB": [
-            212,
-            37,
-            23
-        ],
+        "RGB": {
+            "R": 212,
+            "G": 37,
+            "B": 23
+        },
         "code": "#d42517",
         "name": "鹤顶红",
         "pinyin": "hedinghong"
@@ -3702,11 +3702,11 @@ const source = [
             85,
             9
         ],
-        "RGB": [
-            171,
-            55,
-            47
-        ],
+        "RGB": {
+            "R": 171,
+            "G": 55,
+            "B": 47
+        },
         "code": "#ab372f",
         "name": "鹅血石红",
         "pinyin": "exueshihong"
@@ -3718,11 +3718,11 @@ const source = [
             100,
             8
         ],
-        "RGB": [
-            172,
-            31,
-            24
-        ],
+        "RGB": {
+            "R": 172,
+            "G": 31,
+            "B": 24
+        },
         "code": "#ac1f18",
         "name": "覆盆子红",
         "pinyin": "fupenzihong"
@@ -3734,11 +3734,11 @@ const source = [
             64,
             54
         ],
-        "RGB": [
-            93,
-            49,
-            49
-        ],
+        "RGB": {
+            "R": 93,
+            "G": 49,
+            "B": 49
+        },
         "code": "#5d3131",
         "name": "貂紫",
         "pinyin": "diaozi"
@@ -3750,11 +3750,11 @@ const source = [
             77,
             53
         ],
-        "RGB": [
-            92,
-            34,
-            35
-        ],
+        "RGB": {
+            "R": 92,
+            "G": 34,
+            "B": 35
+        },
         "code": "#5c2223",
         "name": "暗玉紫",
         "pinyin": "anyuzi"
@@ -3766,11 +3766,11 @@ const source = [
             85,
             54
         ],
-        "RGB": [
-            90,
-            25,
-            27
-        ],
+        "RGB": {
+            "R": 90,
+            "G": 25,
+            "B": 27
+        },
         "code": "#5a191b",
         "name": "栗紫",
         "pinyin": "lizi"
@@ -3782,11 +3782,11 @@ const source = [
             80,
             54
         ],
-        "RGB": [
-            90,
-            18,
-            22
-        ],
+        "RGB": {
+            "R": 90,
+            "G": 18,
+            "B": 22
+        },
         "code": "#5a1216",
         "name": "葡萄酱紫",
         "pinyin": "putaojiangzi"
@@ -3798,11 +3798,11 @@ const source = [
             27,
             0
         ],
-        "RGB": [
-            238,
-            162,
-            164
-        ],
+        "RGB": {
+            "R": 238,
+            "G": 162,
+            "B": 164
+        },
         "code": "#eea2a4",
         "name": "牡丹粉红",
         "pinyin": "mudanfenhong"
@@ -3814,11 +3814,11 @@ const source = [
             44,
             0
         ],
-        "RGB": [
-            237,
-            85,
-            106
-        ],
+        "RGB": {
+            "R": 237,
+            "G": 85,
+            "B": 106
+        },
         "code": "#ed556a",
         "name": "山茶红",
         "pinyin": "shanchahong"
@@ -3830,11 +3830,11 @@ const source = [
             55,
             0
         ],
-        "RGB": [
-            240,
-            55,
-            82
-        ],
+        "RGB": {
+            "R": 240,
+            "G": 55,
+            "B": 82
+        },
         "code": "#f03752",
         "name": "海棠红",
         "pinyin": "haitanghong"
@@ -3846,11 +3846,11 @@ const source = [
             62,
             3
         ],
-        "RGB": [
-            192,
-            72,
-            81
-        ],
+        "RGB": {
+            "R": 192,
+            "G": 72,
+            "B": 81
+        },
         "code": "#c04851",
         "name": "玉红",
         "pinyin": "yuhong"
@@ -3862,11 +3862,11 @@ const source = [
             77,
             2
         ],
-        "RGB": [
-            192,
-            44,
-            56
-        ],
+        "RGB": {
+            "R": 192,
+            "G": 44,
+            "B": 56
+        },
         "code": "#c02c38",
         "name": "高粱红",
         "pinyin": "gaolianghong"
@@ -3878,11 +3878,11 @@ const source = [
             54,
             12
         ],
-        "RGB": [
-            167,
-            83,
-            90
-        ],
+        "RGB": {
+            "R": 167,
+            "G": 83,
+            "B": 90
+        },
         "code": "#a7535a",
         "name": "满江红",
         "pinyin": "manjianghong"
@@ -3894,11 +3894,11 @@ const source = [
             86,
             33
         ],
-        "RGB": [
-            124,
-            24,
-            35
-        ],
+        "RGB": {
+            "R": 124,
+            "G": 24,
+            "B": 35
+        },
         "code": "#7c1823",
         "name": "枣红",
         "pinyin": "zaohong"
@@ -3910,11 +3910,11 @@ const source = [
             67,
             64
         ],
-        "RGB": [
-            76,
-            31,
-            36
-        ],
+        "RGB": {
+            "R": 76,
+            "G": 31,
+            "B": 36
+        },
         "code": "#4c1f24",
         "name": "葡萄紫",
         "pinyin": "putaozi"
@@ -3926,11 +3926,11 @@ const source = [
             79,
             63
         ],
-        "RGB": [
-            77,
-            16,
-            24
-        ],
+        "RGB": {
+            "R": 77,
+            "G": 16,
+            "B": 24
+        },
         "code": "#4d1018",
         "name": "酱紫",
         "pinyin": "jiangzi"
@@ -3942,11 +3942,11 @@ const source = [
             62,
             0
         ],
-        "RGB": [
-            238,
-            39,
-            70
-        ],
+        "RGB": {
+            "R": 238,
+            "G": 39,
+            "B": 70
+        },
         "code": "#ee2746",
         "name": "淡曙红",
         "pinyin": "danshuhong"
@@ -3958,13 +3958,14 @@ const source = [
             76,
             0
         ],
-        "RGB": [
-            222,
-            28,
-            49
-        ],
+        "RGB": {
+            "R": 222,
+            "G": 28,
+            "B": 49
+        },
         "code": "#de1c31",
-        "name": "唐菖蒲红", "pinyin": "tangchangpuhong"
+        "name": "唐菖蒲红",
+        "pinyin": "tangchangpuhong"
     },
     {
         "CMYK": [
@@ -3973,11 +3974,11 @@ const source = [
             82,
             0
         ],
-        "RGB": [
-            209,
-            26,
-            45
-        ],
+        "RGB": {
+            "R": 209,
+            "G": 26,
+            "B": 45
+        },
         "code": "#d11a2d",
         "name": "鹅冠红",
         "pinyin": "eguanhong"
@@ -3989,11 +3990,11 @@ const source = [
             50,
             2
         ],
-        "RGB": [
-            196,
-            90,
-            101
-        ],
+        "RGB": {
+            "R": 196,
+            "G": 90,
+            "B": 101
+        },
         "code": "#c45a65",
         "name": "莓红",
         "pinyin": "meihong"
@@ -4005,11 +4006,11 @@ const source = [
             82,
             2
         ],
-        "RGB": [
-            194,
-            31,
-            48
-        ],
+        "RGB": {
+            "R": 194,
+            "G": 31,
+            "B": 48
+        },
         "code": "#c21f30",
         "name": "枫叶红",
         "pinyin": "fengyehong"
@@ -4021,11 +4022,11 @@ const source = [
             86,
             11
         ],
-        "RGB": [
-            166,
-            27,
-            41
-        ],
+        "RGB": {
+            "R": 166,
+            "G": 27,
+            "B": 41
+        },
         "code": "#a61b29",
         "name": "苋菜红",
         "pinyin": "xiancaihong"
@@ -4037,11 +4038,11 @@ const source = [
             51,
             28
         ],
-        "RGB": [
-            137,
-            78,
-            84
-        ],
+        "RGB": {
+            "R": 137,
+            "G": 78,
+            "B": 84
+        },
         "code": "#894e54",
         "name": "烟红",
         "pinyin": "yanhong"
@@ -4053,11 +4054,11 @@ const source = [
             79,
             30
         ],
-        "RGB": [
-            130,
-            32,
-            43
-        ],
+        "RGB": {
+            "R": 130,
+            "G": 32,
+            "B": 43
+        },
         "code": "#82202b",
         "name": "暗紫苑红",
         "pinyin": "anziyuanhong"
@@ -4069,11 +4070,11 @@ const source = [
             90,
             29
         ],
-        "RGB": [
-            130,
-            17,
-            31
-        ],
+        "RGB": {
+            "R": 130,
+            "G": 17,
+            "B": 31
+        },
         "code": "#82111f",
         "name": "殷红",
         "pinyin": "yanhong"
@@ -4085,11 +4086,11 @@ const source = [
             71,
             59
         ],
-        "RGB": [
-            84,
-            30,
-            36
-        ],
+        "RGB": {
+            "R": 84,
+            "G": 30,
+            "B": 36
+        },
         "code": "#541e24",
         "name": "猪肝紫",
         "pinyin": "zhuganzi"
@@ -4101,11 +4102,11 @@ const source = [
             81,
             61
         ],
-        "RGB": [
-            80,
-            10,
-            22
-        ],
+        "RGB": {
+            "R": 80,
+            "G": 10,
+            "B": 22
+        },
         "code": "#500a16",
         "name": "金鱼紫",
         "pinyin": "jinyuzi"
@@ -4117,11 +4118,11 @@ const source = [
             9,
             0
         ],
-        "RGB": [
-            248,
-            235,
-            230
-        ],
+        "RGB": {
+            "R": 248,
+            "G": 235,
+            "B": 230
+        },
         "code": "#f8ebe6",
         "name": "草珠红",
         "pinyin": "caozhuhong"
@@ -4133,11 +4134,11 @@ const source = [
             21,
             0
         ],
-        "RGB": [
-            236,
-            118,
-            150
-        ],
+        "RGB": {
+            "R": 236,
+            "G": 118,
+            "B": 150
+        },
         "code": "#ec7696",
         "name": "淡绛红",
         "pinyin": "danjianghong"
@@ -4149,11 +4150,11 @@ const source = [
             30,
             0
         ],
-        "RGB": [
-            239,
-            52,
-            115
-        ],
+        "RGB": {
+            "R": 239,
+            "G": 52,
+            "B": 115
+        },
         "code": "#ef3473",
         "name": "品红",
         "pinyin": "pinhong"
@@ -4165,11 +4166,11 @@ const source = [
             22,
             0
         ],
-        "RGB": [
-            234,
-            114,
-            147
-        ],
+        "RGB": {
+            "R": 234,
+            "G": 114,
+            "B": 147
+        },
         "code": "#ea7293",
         "name": "凤仙花红",
         "pinyin": "fengxianhuahong"
@@ -4181,11 +4182,11 @@ const source = [
             18,
             0
         ],
-        "RGB": [
-            236,
-            155,
-            173
-        ],
+        "RGB": {
+            "R": 236,
+            "G": 155,
+            "B": 173
+        },
         "code": "#ec9bad",
         "name": "粉团花红",
         "pinyin": "fentuanhuahong"
@@ -4197,11 +4198,11 @@ const source = [
             28,
             0
         ],
-        "RGB": [
-            235,
-            80,
-            126
-        ],
+        "RGB": {
+            "R": 235,
+            "G": 80,
+            "B": 126
+        },
         "code": "#eb507e",
         "name": "夹竹桃红",
         "pinyin": "jiazhutaohong"
@@ -4213,11 +4214,11 @@ const source = [
             36,
             0
         ],
-        "RGB": [
-            237,
-            47,
-            106
-        ],
+        "RGB": {
+            "R": 237,
+            "G": 47,
+            "B": 106
+        },
         "code": "#ed2f6a",
         "name": "榲桲舡",
         "pinyin": "wenpochuan"
@@ -4229,11 +4230,11 @@ const source = [
             14,
             0
         ],
-        "RGB": [
-            238,
-            184,
-            195
-        ],
+        "RGB": {
+            "R": 238,
+            "G": 184,
+            "B": 195
+        },
         "code": "#eeb8c3",
         "name": "姜红",
         "pinyin": "jianghong"
@@ -4245,11 +4246,11 @@ const source = [
             27,
             0
         ],
-        "RGB": [
-            234,
-            81,
-            127
-        ],
+        "RGB": {
+            "R": 234,
+            "G": 81,
+            "B": 127
+        },
         "code": "#ea517f",
         "name": "莲瓣红",
         "pinyin": "lianbanhong"
@@ -4261,11 +4262,11 @@ const source = [
             11,
             0
         ],
-        "RGB": [
-            241,
-            196,
-            205
-        ],
+        "RGB": {
+            "R": 241,
+            "G": 196,
+            "B": 205
+        },
         "code": "#f1c4cd",
         "name": "水红",
         "pinyin": "shuihong"
@@ -4277,11 +4278,11 @@ const source = [
             18,
             0
         ],
-        "RGB": [
-            236,
-            138,
-            164
-        ],
+        "RGB": {
+            "R": 236,
+            "G": 138,
+            "B": 164
+        },
         "code": "#ec8aa4",
         "name": "报春红",
         "pinyin": "baochunhong"
@@ -4293,11 +4294,11 @@ const source = [
             35,
             1
         ],
-        "RGB": [
-            206,
-            87,
-            109
-        ],
+        "RGB": {
+            "R": 206,
+            "G": 87,
+            "B": 109
+        },
         "code": "#ce5777",
         "name": "月季红",
         "pinyin": "yuejihong"
@@ -4309,11 +4310,11 @@ const source = [
             15,
             0
         ],
-        "RGB": [
-            237,
-            157,
-            178
-        ],
+        "RGB": {
+            "R": 237,
+            "G": 157,
+            "B": 178
+        },
         "code": "#ed9db2",
         "name": "豇豆红",
         "pinyin": "jiangdouhong"
@@ -4325,11 +4326,11 @@ const source = [
             18,
             0
         ],
-        "RGB": [
-            239,
-            130,
-            160
-        ],
+        "RGB": {
+            "R": 239,
+            "G": 130,
+            "B": 160
+        },
         "code": "#ef82a0",
         "name": "霞光红",
         "pinyin": "xiaguanghong"
@@ -4341,11 +4342,11 @@ const source = [
             33,
             0
         ],
-        "RGB": [
-            235,
-            60,
-            112
-        ],
+        "RGB": {
+            "R": 235,
+            "G": 60,
+            "B": 112
+        },
         "code": "#eb3c70",
         "name": "松叶牡丹红",
         "pinyin": "songyemudanhong"
@@ -4357,11 +4358,11 @@ const source = [
             40,
             0
         ],
-        "RGB": [
-            236,
-            44,
-            100
-        ],
+        "RGB": {
+            "R": 236,
+            "G": 44,
+            "B": 100
+        },
         "code": "#ec2c64",
         "name": "喜蛋红",
         "pinyin": "xidanhong"
@@ -4373,11 +4374,11 @@ const source = [
             20,
             0
         ],
-        "RGB": [
-            227,
-            180,
-            184
-        ],
+        "RGB": {
+            "R": 227,
+            "G": 180,
+            "B": 184
+        },
         "code": "#e3b4b8",
         "name": "鼠鼻红",
         "pinyin": "shubihong"
@@ -4389,11 +4390,11 @@ const source = [
             73,
             1
         ],
-        "RGB": [
-            204,
-            22,
-            58
-        ],
+        "RGB": {
+            "R": 204,
+            "G": 22,
+            "B": 58
+        },
         "code": "#cc163a",
         "name": "尖晶玉红",
         "pinyin": "jianjingyuhong"
@@ -4405,11 +4406,11 @@ const source = [
             34,
             4
         ],
-        "RGB": [
-            194,
-            124,
-            136
-        ],
+        "RGB": {
+            "R": 194,
+            "G": 124,
+            "B": 136
+        },
         "code": "#c27c88",
         "name": "山黎豆红",
         "pinyin": "shanlidouhong"
@@ -4421,11 +4422,11 @@ const source = [
             56,
             3
         ],
-        "RGB": [
-            191,
-            53,
-            83
-        ],
+        "RGB": {
+            "R": 191,
+            "G": 53,
+            "B": 83
+        },
         "code": "#bf3553",
         "name": "锦葵红",
         "pinyin": "jinkuihong"
@@ -4437,11 +4438,11 @@ const source = [
             44,
             36
         ],
-        "RGB": [
-            115,
-            87,
-            92
-        ],
+        "RGB": {
+            "R": 115,
+            "G": 87,
+            "B": 92
+        },
         "code": "#73575c",
         "name": "鼠背灰",
         "pinyin": "shubeihui"
@@ -4453,11 +4454,11 @@ const source = [
             75,
             49
         ],
-        "RGB": [
-            98,
-            22,
-            36
-        ],
+        "RGB": {
+            "R": 98,
+            "G": 22,
+            "B": 36
+        },
         "code": "#621624",
         "name": "甘蔗紫",
         "pinyin": "ganzhezi"
@@ -4469,11 +4470,11 @@ const source = [
             84,
             49
         ],
-        "RGB": [
-            99,
-            7,
-            28
-        ],
+        "RGB": {
+            "R": 99,
+            "G": 7,
+            "B": 28
+        },
         "code": "#63071c",
         "name": "石竹紫",
         "pinyin": "shizhuzi"
@@ -4485,11 +4486,11 @@ const source = [
             54,
             74
         ],
-        "RGB": [
-            54,
-            40,
-            43
-        ],
+        "RGB": {
+            "R": 54,
+            "G": 40,
+            "B": 43
+        },
         "code": "#36282b",
         "name": "苍蝇灰",
         "pinyin": "cangyinghui"
@@ -4501,11 +4502,11 @@ const source = [
             58,
             81
         ],
-        "RGB": [
-            48,
-            22,
-            28
-        ],
+        "RGB": {
+            "R": 48,
+            "G": 22,
+            "B": 28
+        },
         "code": "#30161c",
         "name": "卵石紫",
         "pinyin": "luanshizi"
@@ -4517,11 +4518,11 @@ const source = [
             62,
             84
         ],
-        "RGB": [
-            43,
-            18,
-            22
-        ],
+        "RGB": {
+            "R": 43,
+            "G": 18,
+            "B": 22
+        },
         "code": "#2b1216",
         "name": "李紫",
         "pinyin": "lizi"
@@ -4533,11 +4534,11 @@ const source = [
             63,
             83
         ],
-        "RGB": [
-            45,
-            12,
-            19
-        ],
+        "RGB": {
+            "R": 45,
+            "G": 12,
+            "B": 19
+        },
         "code": "#2d0c13",
         "name": "茄皮紫",
         "pinyin": "jiapizi"
@@ -4549,11 +4550,11 @@ const source = [
             16,
             0
         ],
-        "RGB": [
-            45,
-            12,
-            19
-        ],
+        "RGB": {
+            "R": 45,
+            "G": 12,
+            "B": 19
+        },
         "code": "#2d0c13",
         "name": "吊钟花红",
         "pinyin": "diaozhonghuahong"
@@ -4565,11 +4566,11 @@ const source = [
             18,
             0
         ],
-        "RGB": [
-            236,
-            78,
-            138
-        ],
+        "RGB": {
+            "R": 236,
+            "G": 78,
+            "B": 138
+        },
         "code": "#ec4e8a",
         "name": "兔眼红",
         "pinyin": "tuyanhong"
@@ -4581,11 +4582,11 @@ const source = [
             24,
             0
         ],
-        "RGB": [
-            238,
-            44,
-            121
-        ],
+        "RGB": {
+            "R": 238,
+            "G": 44,
+            "B": 121
+        },
         "code": "#ee2c79",
         "name": "紫荆红",
         "pinyin": "zijinghong"
@@ -4597,11 +4598,11 @@ const source = [
             52,
             19
         ],
-        "RGB": [
-            149,
-            28,
-            72
-        ],
+        "RGB": {
+            "R": 149,
+            "G": 28,
+            "B": 72
+        },
         "code": "#951c48",
         "name": "菜头紫",
         "pinyin": "caitouzi"
@@ -4613,11 +4614,11 @@ const source = [
             54,
             50
         ],
-        "RGB": [
-            98,
-            29,
-            52
-        ],
+        "RGB": {
+            "R": 98,
+            "G": 29,
+            "B": 52
+        },
         "code": "#621d34",
         "name": "鹞冠紫",
         "pinyin": "yaoguanzi"
@@ -4629,11 +4630,11 @@ const source = [
             58,
             60
         ],
-        "RGB": [
-            98,
-            16,
-            46
-        ],
+        "RGB": {
+            "R": 98,
+            "G": 16,
+            "B": 46
+        },
         "code": "#62102e",
         "name": "葡萄酒红",
         "pinyin": "putaojiuhong"
@@ -4645,11 +4646,11 @@ const source = [
             50,
             74
         ],
-        "RGB": [
-            56,
-            33,
-            41
-        ],
+        "RGB": {
+            "R": 56,
+            "G": 33,
+            "B": 41
+        },
         "code": "#382129",
         "name": "磨石紫",
         "pinyin": "moshizi"
@@ -4661,11 +4662,11 @@ const source = [
             50,
             76
         ],
-        "RGB": [
-            56,
-            25,
-            36
-        ],
+        "RGB": {
+            "R": 56,
+            "G": 25,
+            "B": 36
+        },
         "code": "#381924",
         "name": "檀紫",
         "pinyin": "tanzi"
@@ -4677,11 +4678,11 @@ const source = [
             54,
             79
         ],
-        "RGB": [
-            51,
-            20,
-            30
-        ],
+        "RGB": {
+            "R": 51,
+            "G": 20,
+            "B": 30
+        },
         "code": "#33141e",
         "name": "火鹅紫",
         "pinyin": "huoezi"
@@ -4693,11 +4694,11 @@ const source = [
             55,
             81
         ],
-        "RGB": [
-            49,
-            15,
-            27
-        ],
+        "RGB": {
+            "R": 49,
+            "G": 15,
+            "B": 27
+        },
         "code": "#310f1b",
         "name": "墨紫",
         "pinyin": "mozi"
@@ -4709,11 +4710,11 @@ const source = [
             15,
             0
         ],
-        "RGB": [
-            238,
-            166,
-            183
-        ],
+        "RGB": {
+            "R": 238,
+            "G": 166,
+            "B": 183
+        },
         "code": "#eea6b7",
         "name": "晶红",
         "pinyin": "jinghong"
@@ -4725,11 +4726,11 @@ const source = [
             16,
             0
         ],
-        "RGB": [
-            239,
-            73,
-            139
-        ],
+        "RGB": {
+            "R": 239,
+            "G": 73,
+            "B": 139
+        },
         "code": "#ef498b",
         "name": "扁豆花红",
         "pinyin": "biandouhuahong"
@@ -4741,11 +4742,11 @@ const source = [
             22,
             0
         ],
-        "RGB": [
-            222,
-            120,
-            151
-        ],
+        "RGB": {
+            "R": 222,
+            "G": 120,
+            "B": 151
+        },
         "code": "#de7897",
         "name": "白芨红",
         "pinyin": "baijihong"
@@ -4757,11 +4758,11 @@ const source = [
             24,
             0
         ],
-        "RGB": [
-            222,
-            63,
-            124
-        ],
+        "RGB": {
+            "R": 222,
+            "G": 63,
+            "B": 124
+        },
         "code": "#de3f7c",
         "name": "嫩菱红",
         "pinyin": "nenlinghong"
@@ -4773,11 +4774,11 @@ const source = [
             30,
             1
         ],
-        "RGB": [
-            209,
-            60,
-            116
-        ],
+        "RGB": {
+            "R": 209,
+            "G": 60,
+            "B": 116
+        },
         "code": "#d13c74",
         "name": "菠根红",
         "pinyin": "bogenhong"
@@ -4789,11 +4790,11 @@ const source = [
             28,
             2
         ],
-        "RGB": [
-            197,
-            112,
-            139
-        ],
+        "RGB": {
+            "R": 197,
+            "G": 112,
+            "B": 139
+        },
         "code": "#c5708b",
         "name": "酢酱草红",
         "pinyin": "cujiangcaohong"
@@ -4805,11 +4806,11 @@ const source = [
             34,
             11
         ],
-        "RGB": [
-            168,
-            69,
-            107
-        ],
+        "RGB": {
+            "R": 168,
+            "G": 69,
+            "B": 107
+        },
         "code": "#a8456b",
         "name": "洋葱紫",
         "pinyin": "yangcongzi"
@@ -4821,11 +4822,11 @@ const source = [
             47,
             64
         ],
-        "RGB": [
-            75,
-            30,
-            47
-        ],
+        "RGB": {
+            "R": 75,
+            "G": 30,
+            "B": 47
+        },
         "code": "#4b1e2f",
         "name": "海象紫",
         "pinyin": "haixiangzi"
@@ -4837,11 +4838,11 @@ const source = [
             49,
             68
         ],
-        "RGB": [
-            70,
-            22,
-            41
-        ],
+        "RGB": {
+            "R": 70,
+            "G": 22,
+            "B": 41
+        },
         "code": "#461629",
         "name": "绀紫",
         "pinyin": "ganzi"
@@ -4853,11 +4854,11 @@ const source = [
             51,
             69
         ],
-        "RGB": [
-            68,
-            14,
-            37
-        ],
+        "RGB": {
+            "R": 68,
+            "G": 14,
+            "B": 37
+        },
         "code": "#440e25",
         "name": "古铜紫",
         "pinyin": "gutongzi"
@@ -4869,11 +4870,11 @@ const source = [
             12,
             0
         ],
-        "RGB": [
-            240,
-            201,
-            207
-        ],
+        "RGB": {
+            "R": 240,
+            "G": 201,
+            "B": 207
+        },
         "code": "#f0c9cf",
         "name": "石蕊红",
         "pinyin": "shiruihong"
@@ -4885,11 +4886,11 @@ const source = [
             16,
             0
         ],
-        "RGB": [
-            235,
-            160,
-            179
-        ],
+        "RGB": {
+            "R": 235,
+            "G": 160,
+            "B": 179
+        },
         "code": "#eba0b3",
         "name": "芍药耕红",
         "pinyin": "shaoyaogenghong"
@@ -4901,11 +4902,11 @@ const source = [
             23,
             0
         ],
-        "RGB": [
-            236,
-            45,
-            122
-        ],
+        "RGB": {
+            "R": 236,
+            "G": 45,
+            "B": 122
+        },
         "code": "#ec2d7a",
         "name": "藏花红",
         "pinyin": "canghuahong"
@@ -4917,11 +4918,11 @@ const source = [
             18,
             0
         ],
-        "RGB": [
-            225,
-            108,
-            150
-        ],
+        "RGB": {
+            "R": 225,
+            "G": 108,
+            "B": 150
+        },
         "code": "#e16c96",
         "name": "初荷红",
         "pinyin": "chuhehong"
@@ -4933,11 +4934,11 @@ const source = [
             7,
             0
         ],
-        "RGB": [
-            237,
-            227,
-            231
-        ],
+        "RGB": {
+            "R": 237,
+            "G": 227,
+            "B": 231
+        },
         "code": "#ede3e7",
         "name": "马鞭草紫",
         "pinyin": "mabiancaozi"
@@ -4949,11 +4950,11 @@ const source = [
             8,
             0
         ],
-        "RGB": [
-            233,
-            215,
-            223
-        ],
+        "RGB": {
+            "R": 233,
+            "G": 215,
+            "B": 223
+        },
         "code": "#e9d7df",
         "name": "丁香淡紫",
         "pinyin": "dingxiangdanzi"
@@ -4965,11 +4966,11 @@ const source = [
             18,
             0
         ],
-        "RGB": [
-            210,
-            86,
-            140
-        ],
+        "RGB": {
+            "R": 210,
+            "G": 86,
+            "B": 140
+        },
         "code": "#d2568c",
         "name": "丹紫红",
         "pinyin": "danzihong"
@@ -4981,11 +4982,11 @@ const source = [
             21,
             0
         ],
-        "RGB": [
-            210,
-            53,
-            125
-        ],
+        "RGB": {
+            "R": 210,
+            "G": 53,
+            "B": 125
+        },
         "code": "#d2357d",
         "name": "玫瑰红",
         "pinyin": "meiguihong"
@@ -4997,11 +4998,11 @@ const source = [
             9,
             0
         ],
-        "RGB": [
-            209,
-            194,
-            211
-        ],
+        "RGB": {
+            "R": 209,
+            "G": 194,
+            "B": 211
+        },
         "code": "#d1c2d3",
         "name": "淡牵牛紫",
         "pinyin": "danqianniuzi"
@@ -5013,11 +5014,11 @@ const source = [
             12,
             0
         ],
-        "RGB": [
-            200,
-            173,
-            196
-        ],
+        "RGB": {
+            "R": 200,
+            "G": 173,
+            "B": 196
+        },
         "code": "#c8adc4",
         "name": "凤信紫",
         "pinyin": "fengxinzi"
@@ -5029,11 +5030,11 @@ const source = [
             14,
             1
         ],
-        "RGB": [
-            192,
-            142,
-            175
-        ],
+        "RGB": {
+            "R": 192,
+            "G": 142,
+            "B": 175
+        },
         "code": "#c08eaf",
         "name": "萝兰紫",
         "pinyin": "luolanzi"
@@ -5045,11 +5046,11 @@ const source = [
             18,
             2
         ],
-        "RGB": [
-            186,
-            47,
-            123
-        ],
+        "RGB": {
+            "R": 186,
+            "G": 47,
+            "B": 123
+        },
         "code": "#ba2f7b",
         "name": "玫瑰紫",
         "pinyin": "meiguizi"
@@ -5061,11 +5062,11 @@ const source = [
             17,
             2
         ],
-        "RGB": [
-            128,
-            118,
-            163
-        ],
+        "RGB": {
+            "R": 128,
+            "G": 118,
+            "B": 163
+        },
         "code": "#8076a3",
         "name": "藤萝紫",
         "pinyin": "tengluozi"
@@ -5077,11 +5078,11 @@ const source = [
             16,
             2
         ],
-        "RGB": [
-            128,
-            109,
-            158
-        ],
+        "RGB": {
+            "R": 128,
+            "G": 109,
+            "B": 158
+        },
         "code": "#806d9e",
         "name": "槿紫",
         "pinyin": "jinzi"
@@ -5093,11 +5094,11 @@ const source = [
             15,
             1
         ],
-        "RGB": [
-            129,
-            92,
-            148
-        ],
+        "RGB": {
+            "R": 129,
+            "G": 92,
+            "B": 148
+        },
         "code": "#815c94",
         "name": "蕈紫",
         "pinyin": "xunzi"
@@ -5109,11 +5110,11 @@ const source = [
             12,
             1
         ],
-        "RGB": [
-            129,
-            60,
-            133
-        ],
+        "RGB": {
+            "R": 129,
+            "G": 60,
+            "B": 133
+        },
         "code": "#813c85",
         "name": "桔梗紫",
         "pinyin": "jiegengzi"
@@ -5125,11 +5126,11 @@ const source = [
             17,
             7
         ],
-        "RGB": [
-            126,
-            22,
-            113
-        ],
+        "RGB": {
+            "R": 126,
+            "G": 22,
+            "B": 113
+        },
         "code": "#7e1671",
         "name": "魏紫",
         "pinyin": "weizi"
@@ -5141,11 +5142,11 @@ const source = [
             10,
             0
         ],
-        "RGB": [
-            126,
-            22,
-            113
-        ],
+        "RGB": {
+            "R": 126,
+            "G": 22,
+            "B": 113
+        },
         "code": "#7e1671",
         "name": "芝兰紫",
         "pinyin": "zhilanzi"
@@ -5157,11 +5158,11 @@ const source = [
             12,
             0
         ],
-        "RGB": [
-            210,
-            118,
-            163
-        ],
+        "RGB": {
+            "R": 210,
+            "G": 118,
+            "B": 163
+        },
         "code": "#d276a3",
         "name": "菱锰红",
         "pinyin": "lingmenghong"
@@ -5173,11 +5174,11 @@ const source = [
             10,
             0
         ],
-        "RGB": [
-            204,
-            85,
-            149
-        ],
+        "RGB": {
+            "R": 204,
+            "G": 85,
+            "B": 149
+        },
         "code": "#cc5595",
         "name": "龙须红",
         "pinyin": "longxuhong"
@@ -5189,11 +5190,11 @@ const source = [
             12,
             0
         ],
-        "RGB": [
-            230,
-            210,
-            213
-        ],
+        "RGB": {
+            "R": 230,
+            "G": 210,
+            "B": 213
+        },
         "code": "#e6d2d5",
         "name": "蓟粉红",
         "pinyin": "jifenhong"
@@ -5205,11 +5206,11 @@ const source = [
             14,
             1
         ],
-        "RGB": [
-            195,
-            86,
-            145
-        ],
+        "RGB": {
+            "R": 195,
+            "G": 86,
+            "B": 145
+        },
         "code": "#c35691",
         "name": "电气石红",
         "pinyin": "dianqishihong"
@@ -5221,11 +5222,11 @@ const source = [
             18,
             1
         ],
-        "RGB": [
-            192,
-            111,
-            152
-        ],
+        "RGB": {
+            "R": 192,
+            "G": 111,
+            "B": 152
+        },
         "code": "#c06f98",
         "name": "樱草紫",
         "pinyin": "yingcaozi"
@@ -5237,11 +5238,11 @@ const source = [
             26,
             5
         ],
-        "RGB": [
-            189,
-            174,
-            173
-        ],
+        "RGB": {
+            "R": 189,
+            "G": 174,
+            "B": 173
+        },
         "code": "#bdaead",
         "name": "芦穗灰",
         "pinyin": "lusuihui"
@@ -5253,11 +5254,11 @@ const source = [
             26,
             6
         ],
-        "RGB": [
-            181,
-            152,
-            161
-        ],
+        "RGB": {
+            "R": 181,
+            "G": 152,
+            "B": 161
+        },
         "code": "#b598a1",
         "name": "隐红灰",
         "pinyin": "yinhonghui"
@@ -5269,11 +5270,11 @@ const source = [
             27,
             14
         ],
-        "RGB": [
-            155,
-            30,
-            100
-        ],
+        "RGB": {
+            "R": 155,
+            "G": 30,
+            "B": 100
+        },
         "code": "#9b1e64",
         "name": "苋菜紫",
         "pinyin": "xiancaizi"
@@ -5285,11 +5286,11 @@ const source = [
             38,
             25
         ],
-        "RGB": [
-            133,
-            109,
-            114
-        ],
+        "RGB": {
+            "R": 133,
+            "G": 109,
+            "B": 114
+        },
         "code": "#856d72",
         "name": "芦灰",
         "pinyin": "luhui"
@@ -5301,11 +5302,11 @@ const source = [
             49,
             58
         ],
-        "RGB": [
-            79,
-            56,
-            62
-        ],
+        "RGB": {
+            "R": 79,
+            "G": 56,
+            "B": 62
+        },
         "code": "#4f383e",
         "name": "暮云灰",
         "pinyin": "muyunhui"
@@ -5317,11 +5318,11 @@ const source = [
             46,
             63
         ],
-        "RGB": [
-            72,
-            41,
-            54
-        ],
+        "RGB": {
+            "R": 72,
+            "G": 41,
+            "B": 54
+        },
         "code": "#482936",
         "name": "斑鸠灰",
         "pinyin": "banjiuhui"
@@ -5333,11 +5334,11 @@ const source = [
             9,
             0
         ],
-        "RGB": [
-            242,
-            231,
-            229
-        ],
+        "RGB": {
+            "R": 242,
+            "G": 231,
+            "B": 229
+        },
         "code": "#f2e7e5",
         "name": "淡藤萝紫",
         "pinyin": "dantengluozi"
@@ -5349,11 +5350,11 @@ const source = [
             11,
             0
         ],
-        "RGB": [
-            224,
-            200,
-            209
-        ],
+        "RGB": {
+            "R": 224,
+            "G": 200,
+            "B": 209
+        },
         "code": "#e0c8d1",
         "name": "淡青紫",
         "pinyin": "danqingzi"
@@ -5365,11 +5366,11 @@ const source = [
             15,
             1
         ],
-        "RGB": [
-            188,
-            132,
-            168
-        ],
+        "RGB": {
+            "R": 188,
+            "G": 132,
+            "B": 168
+        },
         "code": "#bc84a8",
         "name": "青蛤壳紫",
         "pinyin": "qinghakezi"
@@ -5381,11 +5382,11 @@ const source = [
             15,
             1
         ],
-        "RGB": [
-            173,
-            101,
-            152
-        ],
+        "RGB": {
+            "R": 173,
+            "G": 101,
+            "B": 152
+        },
         "code": "#ad6598",
         "name": "豆蔻紫",
         "pinyin": "doukouzi"
@@ -5397,11 +5398,11 @@ const source = [
             18,
             2
         ],
-        "RGB": [
-            163,
-            92,
-            143
-        ],
+        "RGB": {
+            "R": 163,
+            "G": 92,
+            "B": 143
+        },
         "code": "#a35c8f",
         "name": "扁豆紫",
         "pinyin": "biandouzi"
@@ -5413,11 +5414,11 @@ const source = [
             15,
             3
         ],
-        "RGB": [
-            152,
-            54,
-            128
-        ],
+        "RGB": {
+            "R": 152,
+            "G": 54,
+            "B": 128
+        },
         "code": "#983680",
         "name": "芥花紫",
         "pinyin": "jiehuazi"
@@ -5429,11 +5430,11 @@ const source = [
             19,
             8
         ],
-        "RGB": [
-            139,
-            38,
-            113
-        ],
+        "RGB": {
+            "R": 139,
+            "G": 38,
+            "B": 113
+        },
         "code": "#8b2671",
         "name": "青莲",
         "pinyin": "qinglian"
@@ -5445,11 +5446,11 @@ const source = [
             24,
             10
         ],
-        "RGB": [
-            137,
-            66,
-            118
-        ],
+        "RGB": {
+            "R": 137,
+            "G": 66,
+            "B": 118
+        },
         "code": "#894276",
         "name": "芓紫",
         "pinyin": "zizi"
@@ -5461,11 +5462,11 @@ const source = [
             24,
             16
         ],
-        "RGB": [
-            126,
-            32,
-            101
-        ],
+        "RGB": {
+            "R": 126,
+            "G": 32,
+            "B": 101
+        },
         "code": "#7e2065",
         "name": "葛巾紫",
         "pinyin": "gejinzi"
@@ -5477,11 +5478,11 @@ const source = [
             29,
             32
         ],
-        "RGB": [
-            104,
-            23,
-            82
-        ],
+        "RGB": {
+            "R": 104,
+            "G": 23,
+            "B": 82
+        },
         "code": "#681752",
         "name": "牵牛紫",
         "pinyin": "qianniuzi"
@@ -5493,11 +5494,11 @@ const source = [
             41,
             41
         ],
-        "RGB": [
-            93,
-            63,
-            81
-        ],
+        "RGB": {
+            "R": 93,
+            "G": 63,
+            "B": 81
+        },
         "code": "#5d3f51",
         "name": "紫灰",
         "pinyin": "zihui"
@@ -5509,11 +5510,11 @@ const source = [
             41,
             52
         ],
-        "RGB": [
-            78,
-            42,
-            64
-        ],
+        "RGB": {
+            "R": 78,
+            "G": 42,
+            "B": 64
+        },
         "code": "#4e2a40",
         "name": "龙睛鱼紫",
         "pinyin": "longjingyuzi"
@@ -5525,11 +5526,11 @@ const source = [
             40,
             61
         ],
-        "RGB": [
-            65,
-            28,
-            53
-        ],
+        "RGB": {
+            "R": 65,
+            "G": 28,
+            "B": 53
+        },
         "code": "#411c35",
         "name": "荸荠紫",
         "pinyin": "biqizi"
@@ -5541,11 +5542,11 @@ const source = [
             52,
             70
         ],
-        "RGB": [
-            54,
-            41,
-            47
-        ],
+        "RGB": {
+            "R": 54,
+            "G": 41,
+            "B": 47
+        },
         "code": "#36292f",
         "name": "古鼎灰",
         "pinyin": "gudinghui"
@@ -5557,11 +5558,11 @@ const source = [
             54,
             84
         ],
-        "RGB": [
-            30,
-            19,
-            29
-        ],
+        "RGB": {
+            "R": 30,
+            "G": 19,
+            "B": 29
+        },
         "code": "#1e131d",
         "name": "鸟梅紫",
         "pinyin": "niaomeizi"
@@ -5573,11 +5574,11 @@ const source = [
             55,
             86
         ],
-        "RGB": [
-            28,
-            13,
-            26
-        ],
+        "RGB": {
+            "R": 28,
+            "G": 13,
+            "B": 26
+        },
         "code": "#1c0d1a",
         "name": "深牵牛紫",
         "pinyin": "shenqianniuzi"
@@ -5589,11 +5590,11 @@ const source = [
             7,
             0
         ],
-        "RGB": [
-            241,
-            240,
-            237
-        ],
+        "RGB": {
+            "R": 241,
+            "G": 240,
+            "B": 237
+        },
         "code": "#f1f0ed",
         "name": "银白",
         "pinyin": "yinbai"
@@ -5605,11 +5606,11 @@ const source = [
             9,
             0
         ],
-        "RGB": [
-            226,
-            225,
-            228
-        ],
+        "RGB": {
+            "R": 226,
+            "G": 225,
+            "B": 228
+        },
         "code": "#e2e1e4",
         "name": "芡食白",
         "pinyin": "qianshibai"
@@ -5621,11 +5622,11 @@ const source = [
             12,
             1
         ],
-        "RGB": [
-            204,
-            204,
-            214
-        ],
+        "RGB": {
+            "R": 204,
+            "G": 204,
+            "B": 214
+        },
         "code": "#ccccd6",
         "name": "远山紫",
         "pinyin": "yuanshanzi"
@@ -5637,11 +5638,11 @@ const source = [
             17,
             2
         ],
-        "RGB": [
-            167,
-            168,
-            189
-        ],
+        "RGB": {
+            "R": 167,
+            "G": 168,
+            "B": 189
+        },
         "code": "#a7a8bd",
         "name": "淡蓝紫",
         "pinyin": "danlanzi"
@@ -5653,11 +5654,11 @@ const source = [
             14,
             1
         ],
-        "RGB": [
-            97,
-            100,
-            159
-        ],
+        "RGB": {
+            "R": 97,
+            "G": 100,
+            "B": 159
+        },
         "code": "#61649f",
         "name": "山梗紫",
         "pinyin": "shangengzi"
@@ -5669,11 +5670,11 @@ const source = [
             22,
             5
         ],
-        "RGB": [
-            116,
-            117,
-            155
-        ],
+        "RGB": {
+            "R": 116,
+            "G": 117,
+            "B": 155
+        },
         "code": "#74759b",
         "name": "螺甸紫",
         "pinyin": "luodianzi"
@@ -5685,11 +5686,11 @@ const source = [
             19,
             1
         ],
-        "RGB": [
-            207,
-            204,
-            201
-        ],
+        "RGB": {
+            "R": 207,
+            "G": 204,
+            "B": 201
+        },
         "code": "#cfccc9",
         "name": "玛瑙灰",
         "pinyin": "manaohui"
@@ -5701,11 +5702,11 @@ const source = [
             21,
             6
         ],
-        "RGB": [
-            82,
-            82,
-            136
-        ],
+        "RGB": {
+            "R": 82,
+            "G": 82,
+            "B": 136
+        },
         "code": "#525288",
         "name": "野菊紫",
         "pinyin": "yejuzi"
@@ -5717,11 +5718,11 @@ const source = [
             21,
             5
         ],
-        "RGB": [
-            46,
-            49,
-            124
-        ],
+        "RGB": {
+            "R": 46,
+            "G": 49,
+            "B": 124
+        },
         "code": "#2e317c",
         "name": "满天星紫",
         "pinyin": "mantianxingzi"
@@ -5733,11 +5734,11 @@ const source = [
             40,
             26
         ],
-        "RGB": [
-            122,
-            115,
-            116
-        ],
+        "RGB": {
+            "R": 122,
+            "G": 115,
+            "B": 116
+        },
         "code": "#7a7374",
         "name": "锌灰",
         "pinyin": "xinhui"
@@ -5749,11 +5750,11 @@ const source = [
             40,
             43
         ],
-        "RGB": [
-            48,
-            47,
-            75
-        ],
+        "RGB": {
+            "R": 48,
+            "G": 47,
+            "B": 75
+        },
         "code": "#302f4b",
         "name": "野葡萄紫",
         "pinyin": "yeputaozi"
@@ -5765,11 +5766,11 @@ const source = [
             49,
             56
         ],
-        "RGB": [
-            62,
-            56,
-            65
-        ],
+        "RGB": {
+            "R": 62,
+            "G": 56,
+            "B": 65
+        },
         "code": "#3e3841",
         "name": "剑锋紫",
         "pinyin": "jianfengzi"
@@ -5781,11 +5782,11 @@ const source = [
             49,
             60
         ],
-        "RGB": [
-            50,
-            47,
-            59
-        ],
+        "RGB": {
+            "R": 50,
+            "G": 47,
+            "B": 59
+        },
         "code": "#322f3b",
         "name": "龙葵紫",
         "pinyin": "longkuizi"
@@ -5797,11 +5798,11 @@ const source = [
             50,
             69
         ],
-        "RGB": [
-            34,
-            32,
-            46
-        ],
+        "RGB": {
+            "R": 34,
+            "G": 32,
+            "B": 46
+        },
         "code": "#22202e",
         "name": "暗龙胆紫",
         "pinyin": "anlongdanzi"
@@ -5813,11 +5814,11 @@ const source = [
             48,
             73
         ],
-        "RGB": [
-            31,
-            32,
-            64
-        ],
+        "RGB": {
+            "R": 31,
+            "G": 32,
+            "B": 64
+        },
         "code": "#1f2040",
         "name": "晶石紫",
         "pinyin": "jingshizi"
@@ -5829,11 +5830,11 @@ const source = [
             52,
             77
         ],
-        "RGB": [
-            19,
-            17,
-            36
-        ],
+        "RGB": {
+            "R": 19,
+            "G": 17,
+            "B": 36
+        },
         "code": "#131124",
         "name": "暗蓝紫",
         "pinyin": "anlanzi"
@@ -5845,11 +5846,11 @@ const source = [
             10,
             1
         ],
-        "RGB": [
-            39,
-            117,
-            182
-        ],
+        "RGB": {
+            "R": 39,
+            "G": 117,
+            "B": 182
+        },
         "code": "#2775b6",
         "name": "景泰蓝",
         "pinyin": "jingtailan"
@@ -5861,11 +5862,11 @@ const source = [
             11,
             1
         ],
-        "RGB": [
-            36,
-            116,
-            181
-        ],
+        "RGB": {
+            "R": 36,
+            "G": 116,
+            "B": 181
+        },
         "code": "#2474b5",
         "name": "尼罗蓝",
         "pinyin": "niluolan"
@@ -5877,11 +5878,11 @@ const source = [
             10,
             0
         ],
-        "RGB": [
-            208,
-            223,
-            230
-        ],
+        "RGB": {
+            "R": 208,
+            "G": 223,
+            "B": 230
+        },
         "code": "#d0dfe6",
         "name": "远天蓝",
         "pinyin": "yuantianlan"
@@ -5893,11 +5894,11 @@ const source = [
             15,
             1
         ],
-        "RGB": [
-            147,
-            181,
-            207
-        ],
+        "RGB": {
+            "R": 147,
+            "G": 181,
+            "B": 207
+        },
         "code": "#93b5cf",
         "name": "星蓝",
         "pinyin": "xinglan"
@@ -5909,11 +5910,11 @@ const source = [
             16,
             2
         ],
-        "RGB": [
-            97,
-            154,
-            195
-        ],
+        "RGB": {
+            "R": 97,
+            "G": 154,
+            "B": 195
+        },
         "code": "#619ac3",
         "name": "羽扇豆蓝",
         "pinyin": "yushandoulan"
@@ -5925,11 +5926,11 @@ const source = [
             10,
             1
         ],
-        "RGB": [
-            35,
-            118,
-            183
-        ],
+        "RGB": {
+            "R": 35,
+            "G": 118,
+            "B": 183
+        },
         "code": "#2376b7",
         "name": "花青",
         "pinyin": "huaqing"
@@ -5941,11 +5942,11 @@ const source = [
             17,
             2
         ],
-        "RGB": [
-            86,
-            152,
-            195
-        ],
+        "RGB": {
+            "R": 86,
+            "G": 152,
+            "B": 195
+        },
         "code": "#5698c3",
         "name": "睛蓝",
         "pinyin": "jinglan"
@@ -5957,11 +5958,11 @@ const source = [
             10,
             1
         ],
-        "RGB": [
-            33,
-            119,
-            184
-        ],
+        "RGB": {
+            "R": 33,
+            "G": 119,
+            "B": 184
+        },
         "code": "#2177b8",
         "name": "虹蓝",
         "pinyin": "honglan"
@@ -5973,11 +5974,11 @@ const source = [
             16,
             0
         ],
-        "RGB": [
-            176,
-            213,
-            223
-        ],
+        "RGB": {
+            "R": 176,
+            "G": 213,
+            "B": 223
+        },
         "code": "#b0d5df",
         "name": "湖水蓝",
         "pinyin": "hushuilan"
@@ -5989,11 +5990,11 @@ const source = [
             19,
             0
         ],
-        "RGB": [
-            138,
-            188,
-            209
-        ],
+        "RGB": {
+            "R": 138,
+            "G": 188,
+            "B": 209
+        },
         "code": "#8abcd1",
         "name": "秋波蓝",
         "pinyin": "qiubolan"
@@ -6005,11 +6006,11 @@ const source = [
             20,
             1
         ],
-        "RGB": [
-            102,
-            169,
-            201
-        ],
+        "RGB": {
+            "R": 102,
+            "G": 169,
+            "B": 201
+        },
         "code": "#66a9c9",
         "name": "涧石蓝",
         "pinyin": "jianshilan"
@@ -6021,11 +6022,11 @@ const source = [
             15,
             2
         ],
-        "RGB": [
-            41,
-            131,
-            187
-        ],
+        "RGB": {
+            "R": 41,
+            "G": 131,
+            "B": 187
+        },
         "code": "#2983bb",
         "name": "潮蓝",
         "pinyin": "chaolan"
@@ -6037,11 +6038,11 @@ const source = [
             11,
             1
         ],
-        "RGB": [
-            23,
-            114,
-            180
-        ],
+        "RGB": {
+            "R": 23,
+            "G": 114,
+            "B": 180
+        },
         "code": "#1772b4",
         "name": "群青",
         "pinyin": "qunqing"
@@ -6053,11 +6054,11 @@ const source = [
             24,
             0
         ],
-        "RGB": [
-            99,
-            187,
-            208
-        ],
+        "RGB": {
+            "R": 99,
+            "G": 187,
+            "B": 208
+        },
         "code": "#63bbd0",
         "name": "霁青",
         "pinyin": "jiqing"
@@ -6069,11 +6070,11 @@ const source = [
             24,
             0
         ],
-        "RGB": [
-            92,
-            179,
-            204
-        ],
+        "RGB": {
+            "R": 92,
+            "G": 179,
+            "B": 204
+        },
         "code": "#5cb3cc",
         "name": "碧青",
         "pinyin": "biqing"
@@ -6085,11 +6086,11 @@ const source = [
             17,
             3
         ],
-        "RGB": [
-            36,
-            134,
-            185
-        ],
+        "RGB": {
+            "R": 36,
+            "G": 134,
+            "B": 185
+        },
         "code": "#2486b9",
         "name": "宝石蓝",
         "pinyin": "baoshilan"
@@ -6101,11 +6102,11 @@ const source = [
             14,
             2
         ],
-        "RGB": [
-            22,
-            119,
-            179
-        ],
+        "RGB": {
+            "R": 22,
+            "G": 119,
+            "B": 179
+        },
         "code": "#1677b3",
         "name": "天蓝",
         "pinyin": "tianlan"
@@ -6117,11 +6118,11 @@ const source = [
             11,
             1
         ],
-        "RGB": [
-            18,
-            107,
-            174
-        ],
+        "RGB": {
+            "R": 18,
+            "G": 107,
+            "B": 174
+        },
         "code": "#126bae",
         "name": "柏林蓝",
         "pinyin": "bolinlan"
@@ -6133,11 +6134,11 @@ const source = [
             25,
             1
         ],
-        "RGB": [
-            34,
-            162,
-            195
-        ],
+        "RGB": {
+            "R": 34,
+            "G": 162,
+            "B": 195
+        },
         "code": "#22a2c3",
         "name": "海青",
         "pinyin": "haiqing"
@@ -6149,11 +6150,11 @@ const source = [
             23,
             3
         ],
-        "RGB": [
-            26,
-            148,
-            188
-        ],
+        "RGB": {
+            "R": 26,
+            "G": 148,
+            "B": 188
+        },
         "code": "#1a94bc",
         "name": "钴蓝",
         "pinyin": "gulan"
@@ -6165,11 +6166,11 @@ const source = [
             20,
             4
         ],
-        "RGB": [
-            21,
-            139,
-            184
-        ],
+        "RGB": {
+            "R": 21,
+            "G": 139,
+            "B": 184
+        },
         "code": "#158bb8",
         "name": "鸢尾蓝",
         "pinyin": "yuanweilan"
@@ -6181,11 +6182,11 @@ const source = [
             16,
             3
         ],
-        "RGB": [
-            17,
-            119,
-            176
-        ],
+        "RGB": {
+            "R": 17,
+            "G": 119,
+            "B": 176
+        },
         "code": "#1177b0",
         "name": "牵牛花蓝",
         "pinyin": "qianniuhualan"
@@ -6197,11 +6198,11 @@ const source = [
             11,
             1
         ],
-        "RGB": [
-            15,
-            89,
-            164
-        ],
+        "RGB": {
+            "R": 15,
+            "G": 89,
+            "B": 164
+        },
         "code": "#0f59a4",
         "name": "飞燕草蓝",
         "pinyin": "feiyancaolan"
@@ -6213,11 +6214,11 @@ const source = [
             14,
             2
         ],
-        "RGB": [
-            43,
-            115,
-            175
-        ],
+        "RGB": {
+            "R": 43,
+            "G": 115,
+            "B": 175
+        },
         "code": "#2b73af",
         "name": "品蓝",
         "pinyin": "pinlan"
@@ -6229,11 +6230,11 @@ const source = [
             16,
             1
         ],
-        "RGB": [
-            205,
-            209,
-            211
-        ],
+        "RGB": {
+            "R": 205,
+            "G": 209,
+            "B": 211
+        },
         "code": "#cdd1d3",
         "name": "银鱼白",
         "pinyin": "yinyubai"
@@ -6245,11 +6246,11 @@ const source = [
             17,
             3
         ],
-        "RGB": [
-            49,
-            112,
-            167
-        ],
+        "RGB": {
+            "R": 49,
+            "G": 112,
+            "B": 167
+        },
         "code": "#3170a7",
         "name": "安安蓝",
         "pinyin": "ananlan"
@@ -6261,11 +6262,11 @@ const source = [
             39,
             28
         ],
-        "RGB": [
-            94,
-            97,
-            109
-        ],
+        "RGB": {
+            "R": 94,
+            "G": 97,
+            "B": 109
+        },
         "code": "#5e616d",
         "name": "鱼尾灰",
         "pinyin": "yuweihui"
@@ -6277,11 +6278,11 @@ const source = [
             40,
             31
         ],
-        "RGB": [
-            71,
-            81,
-            100
-        ],
+        "RGB": {
+            "R": 71,
+            "G": 81,
+            "B": 100
+        },
         "code": "#475164",
         "name": "鲸鱼灰",
         "pinyin": "jingyuhui"
@@ -6293,11 +6294,11 @@ const source = [
             52,
             59
         ],
-        "RGB": [
-            255,
-            254,
-            250
-        ],
+        "RGB": {
+            "R": 255,
+            "G": 254,
+            "B": 250
+        },
         "code": "#fffefa",
         "name": "海参灰",
         "pinyin": "haishenhui"
@@ -6309,11 +6310,11 @@ const source = [
             51,
             60
         ],
-        "RGB": [
-            53,
-            51,
-            60
-        ],
+        "RGB": {
+            "R": 53,
+            "G": 51,
+            "B": 60
+        },
         "code": "#35333c",
         "name": "沙鱼灰",
         "pinyin": "shayuhui"
@@ -6325,11 +6326,11 @@ const source = [
             54,
             79
         ],
-        "RGB": [
-            15,
-            20,
-            35
-        ],
+        "RGB": {
+            "R": 15,
+            "G": 20,
+            "B": 35
+        },
         "code": "#0f1423",
         "name": "钢蓝",
         "pinyin": "ganglan"
@@ -6341,11 +6342,11 @@ const source = [
             13,
             0
         ],
-        "RGB": [
-            186,
-            204,
-            217
-        ],
+        "RGB": {
+            "R": 186,
+            "G": 204,
+            "B": 217
+        },
         "code": "#baccd9",
         "name": "云水蓝",
         "pinyin": "yunshuilan"
@@ -6357,11 +6358,11 @@ const source = [
             18,
             1
         ],
-        "RGB": [
-            143,
-            178,
-            201
-        ],
+        "RGB": {
+            "R": 143,
+            "G": 178,
+            "B": 201
+        },
         "code": "#8fb2c9",
         "name": "晴山蓝",
         "pinyin": "qingshanlan"
@@ -6373,11 +6374,11 @@ const source = [
             8,
             1
         ],
-        "RGB": [
-            22,
-            97,
-            171
-        ],
+        "RGB": {
+            "R": 22,
+            "G": 97,
+            "B": 171
+        },
         "code": "#1661ab",
         "name": "靛青",
         "pinyin": "dianqing"
@@ -6389,11 +6390,11 @@ const source = [
             17,
             1
         ],
-        "RGB": [
-            196,
-            203,
-            207
-        ],
+        "RGB": {
+            "R": 196,
+            "G": 203,
+            "B": 207
+        },
         "code": "#c4cbcf",
         "name": "大理石灰",
         "pinyin": "dalishihui"
@@ -6405,11 +6406,11 @@ const source = [
             16,
             3
         ],
-        "RGB": [
-            21,
-            85,
-            154
-        ],
+        "RGB": {
+            "R": 21,
+            "G": 85,
+            "B": 154
+        },
         "code": "#15559a",
         "name": "海涛蓝",
         "pinyin": "haitaolan"
@@ -6421,11 +6422,11 @@ const source = [
             24,
             8
         ],
-        "RGB": [
-            78,
-            124,
-            161
-        ],
+        "RGB": {
+            "R": 78,
+            "G": 124,
+            "B": 161
+        },
         "code": "#4e7ca1",
         "name": "蝶翅蓝",
         "pinyin": "diechilan"
@@ -6437,11 +6438,11 @@ const source = [
             21,
             6
         ],
-        "RGB": [
-            52,
-            108,
-            156
-        ],
+        "RGB": {
+            "R": 52,
+            "G": 108,
+            "B": 156
+        },
         "code": "#346c9c",
         "name": "海军蓝",
         "pinyin": "haijunlan"
@@ -6453,11 +6454,11 @@ const source = [
             54,
             66
         ],
-        "RGB": [
-            47,
-            47,
-            53
-        ],
+        "RGB": {
+            "R": 47,
+            "G": 47,
+            "B": 53
+        },
         "code": "#2f2f35",
         "name": "水牛灰",
         "pinyin": "shuiniuhui"
@@ -6469,11 +6470,11 @@ const source = [
             53,
             65
         ],
-        "RGB": [
-            45,
-            46,
-            54
-        ],
+        "RGB": {
+            "R": 45,
+            "G": 46,
+            "B": 54
+        },
         "code": "#2d2e36",
         "name": "牛角灰",
         "pinyin": "niujiaohui"
@@ -6485,11 +6486,11 @@ const source = [
             54,
             78
         ],
-        "RGB": [
-            19,
-            24,
-            36
-        ],
+        "RGB": {
+            "R": 19,
+            "G": 24,
+            "B": 36
+        },
         "code": "#131824",
         "name": "燕颔蓝",
         "pinyin": "yanhanlan"
@@ -6501,11 +6502,11 @@ const source = [
             10,
             0
         ],
-        "RGB": [
-            216,
-            227,
-            231
-        ],
+        "RGB": {
+            "R": 216,
+            "G": 227,
+            "B": 231
+        },
         "code": "#d8e3e7",
         "name": "云峰白",
         "pinyin": "yunfengbai"
@@ -6517,11 +6518,11 @@ const source = [
             13,
             0
         ],
-        "RGB": [
-            195,
-            215,
-            223
-        ],
+        "RGB": {
+            "R": 195,
+            "G": 215,
+            "B": 223
+        },
         "code": "#c3d7df",
         "name": "井天蓝",
         "pinyin": "jingtianlan"
@@ -6533,11 +6534,11 @@ const source = [
             22,
             4
         ],
-        "RGB": [
-            47,
-            144,
-            185
-        ],
+        "RGB": {
+            "R": 47,
+            "G": 144,
+            "B": 185
+        },
         "code": "#2f90b9",
         "name": "云山蓝",
         "pinyin": "yunshanlan"
@@ -6549,11 +6550,11 @@ const source = [
             18,
             4
         ],
-        "RGB": [
-            23,
-            129,
-            181
-        ],
+        "RGB": {
+            "R": 23,
+            "G": 129,
+            "B": 181
+        },
         "code": "#1781b5",
         "name": "釉蓝",
         "pinyin": "youlan"
@@ -6565,11 +6566,11 @@ const source = [
             17,
             0
         ],
-        "RGB": [
-            199,
-            210,
-            212
-        ],
+        "RGB": {
+            "R": 199,
+            "G": 210,
+            "B": 212
+        },
         "code": "#c7d2d4",
         "name": "鸥蓝",
         "pinyin": "oulan"
@@ -6581,11 +6582,11 @@ const source = [
             21,
             6
         ],
-        "RGB": [
-            17,
-            101,
-            154
-        ],
+        "RGB": {
+            "R": 17,
+            "G": 101,
+            "B": 154
+        },
         "code": "#11659a",
         "name": "搪磁蓝",
         "pinyin": "tangcilan"
@@ -6597,11 +6598,11 @@ const source = [
             21,
             2
         ],
-        "RGB": [
-            192,
-            196,
-            195
-        ],
+        "RGB": {
+            "R": 192,
+            "G": 196,
+            "B": 195
+        },
         "code": "#c0c4c3",
         "name": "月影白",
         "pinyin": "yueyingbai"
@@ -6613,11 +6614,11 @@ const source = [
             23,
             2
         ],
-        "RGB": [
-            178,
-            187,
-            190
-        ],
+        "RGB": {
+            "R": 178,
+            "G": 187,
+            "B": 190
+        },
         "code": "#b2bbbe",
         "name": "星灰",
         "pinyin": "xinghui"
@@ -6629,11 +6630,11 @@ const source = [
             36,
             18
         ],
-        "RGB": [
-            94,
-            121,
-            135
-        ],
+        "RGB": {
+            "R": 94,
+            "G": 121,
+            "B": 135
+        },
         "code": "#5e7987",
         "name": "淡蓝灰",
         "pinyin": "danlanhui"
@@ -6645,11 +6646,11 @@ const source = [
             32,
             20
         ],
-        "RGB": [
-            20,
-            74,
-            116
-        ],
+        "RGB": {
+            "R": 20,
+            "G": 74,
+            "B": 116
+        },
         "code": "#144a74",
         "name": "鷃蓝",
         "pinyin": "yanlan"
@@ -6661,11 +6662,11 @@ const source = [
             40,
             23
         ],
-        "RGB": [
-            116,
-            120,
-            122
-        ],
+        "RGB": {
+            "R": 116,
+            "G": 120,
+            "B": 122
+        },
         "code": "#74787a",
         "name": "嫩灰",
         "pinyin": "nenhui"
@@ -6677,11 +6678,11 @@ const source = [
             41,
             31
         ],
-        "RGB": [
-            73,
-            92,
-            105
-        ],
+        "RGB": {
+            "R": 73,
+            "G": 92,
+            "B": 105
+        },
         "code": "#495c69",
         "name": "战舰灰",
         "pinyin": "zhanjianhui"
@@ -6693,11 +6694,11 @@ const source = [
             49,
             49
         ],
-        "RGB": [
-            71,
-            72,
-            76
-        ],
+        "RGB": {
+            "R": 71,
+            "G": 72,
+            "B": 76
+        },
         "code": "#47484c",
         "name": "瓦罐灰",
         "pinyin": "waguanhui"
@@ -6709,11 +6710,11 @@ const source = [
             51,
             58
         ],
-        "RGB": [
-            43,
-            51,
-            62
-        ],
+        "RGB": {
+            "R": 43,
+            "G": 51,
+            "B": 62
+        },
         "code": "#2b333e",
         "name": "青灰",
         "pinyin": "qinghui"
@@ -6725,11 +6726,11 @@ const source = [
             50,
             62
         ],
-        "RGB": [
-            28,
-            41,
-            56
-        ],
+        "RGB": {
+            "R": 28,
+            "G": 41,
+            "B": 56
+        },
         "code": "#1c2938",
         "name": "鸽蓝",
         "pinyin": "gelan"
@@ -6741,11 +6742,11 @@ const source = [
             51,
             64
         ],
-        "RGB": [
-            20,
-            35,
-            52
-        ],
+        "RGB": {
+            "R": 20,
+            "G": 35,
+            "B": 52
+        },
         "code": "#142334",
         "name": "钢青",
         "pinyin": "gangqing"
@@ -6757,11 +6758,11 @@ const source = [
             51,
             68
         ],
-        "RGB": [
-            16,
-            31,
-            48
-        ],
+        "RGB": {
+            "R": 16,
+            "G": 31,
+            "B": 48
+        },
         "code": "#101f30",
         "name": "暗蓝",
         "pinyin": "anlan"
@@ -6773,11 +6774,11 @@ const source = [
             8,
             0
         ],
-        "RGB": [
-            238,
-            247,
-            242
-        ],
+        "RGB": {
+            "R": 238,
+            "G": 247,
+            "B": 242
+        },
         "code": "#eef7f2",
         "name": "月白",
         "pinyin": "yuebai"
@@ -6789,11 +6790,11 @@ const source = [
             14,
             0
         ],
-        "RGB": [
-            198,
-            230,
-            232
-        ],
+        "RGB": {
+            "R": 198,
+            "G": 230,
+            "B": 232
+        },
         "code": "#c6e6e8",
         "name": "海天蓝",
         "pinyin": "haitianlan"
@@ -6805,11 +6806,11 @@ const source = [
             22,
             0
         ],
-        "RGB": [
-            147,
-            213,
-            220
-        ],
+        "RGB": {
+            "R": 147,
+            "G": 213,
+            "B": 220
+        },
         "code": "#93d5dc",
         "name": "清水蓝",
         "pinyin": "qingshuilan"
@@ -6821,11 +6822,11 @@ const source = [
             27,
             0
         ],
-        "RGB": [
-            81,
-            196,
-            211
-        ],
+        "RGB": {
+            "R": 81,
+            "G": 196,
+            "B": 211
+        },
         "code": "#51c4d3",
         "name": "瀑布蓝",
         "pinyin": "pubulan"
@@ -6837,11 +6838,11 @@ const source = [
             29,
             0
         ],
-        "RGB": [
-            41,
-            183,
-            203
-        ],
+        "RGB": {
+            "R": 41,
+            "G": 183,
+            "B": 203
+        },
         "code": "#29b7cb",
         "name": "蔚蓝",
         "pinyin": "weilan"
@@ -6853,11 +6854,11 @@ const source = [
             28,
             0
         ],
-        "RGB": [
-            14,
-            176,
-            201
-        ],
+        "RGB": {
+            "R": 14,
+            "G": 176,
+            "B": 201
+        },
         "code": "#0eb0c9",
         "name": "孔雀蓝",
         "pinyin": "kongquelan"
@@ -6869,11 +6870,11 @@ const source = [
             31,
             0
         ],
-        "RGB": [
-            16,
-            174,
-            194
-        ],
+        "RGB": {
+            "R": 16,
+            "G": 174,
+            "B": 194
+        },
         "code": "#10aec2",
         "name": "甸子蓝",
         "pinyin": "dianzilan"
@@ -6885,11 +6886,11 @@ const source = [
             0,
             0
         ],
-        "RGB": [
-            87,
-            195,
-            194
-        ],
+        "RGB": {
+            "R": 87,
+            "G": 195,
+            "B": 194
+        },
         "code": "#57c3c2",
         "name": "石绿",
         "pinyin": "shilv"
@@ -6901,11 +6902,11 @@ const source = [
             30,
             0
         ],
-        "RGB": [
-            185,
-            222,
-            201
-        ],
+        "RGB": {
+            "R": 185,
+            "G": 222,
+            "B": 201
+        },
         "code": "#b9dec9",
         "name": "竹篁绿",
         "pinyin": "zhuhuanglv"
@@ -6917,11 +6918,11 @@ const source = [
             46,
             0
         ],
-        "RGB": [
-            131,
-            203,
-            172
-        ],
+        "RGB": {
+            "R": 131,
+            "G": 203,
+            "B": 172
+        },
         "code": "#83cbac",
         "name": "粉绿",
         "pinyin": "fenlv"
@@ -6933,11 +6934,11 @@ const source = [
             52,
             0
         ],
-        "RGB": [
-            18,
-            170,
-            156
-        ],
+        "RGB": {
+            "R": 18,
+            "G": 170,
+            "B": 156
+        },
         "code": "#12aa9c",
         "name": "美蝶绿",
         "pinyin": "meidielv"
@@ -6949,11 +6950,11 @@ const source = [
             61,
             0
         ],
-        "RGB": [
-            102,
-            193,
-            140
-        ],
+        "RGB": {
+            "R": 102,
+            "G": 193,
+            "B": 140
+        },
         "code": "#66c18c",
         "name": "毛绿",
         "pinyin": "maolv"
@@ -6965,11 +6966,11 @@ const source = [
             62,
             0
         ],
-        "RGB": [
-            93,
-            190,
-            138
-        ],
+        "RGB": {
+            "R": 93,
+            "G": 190,
+            "B": 138
+        },
         "code": "#5dbe8a",
         "name": "蔻梢绿",
         "pinyin": "koushaolv"
@@ -6981,11 +6982,11 @@ const source = [
             62,
             0
         ],
-        "RGB": [
-            85,
-            187,
-            138
-        ],
+        "RGB": {
+            "R": 85,
+            "G": 187,
+            "B": 138
+        },
         "code": "#55bb8a",
         "name": "麦苗绿",
         "pinyin": "maimiaolv"
@@ -6997,11 +6998,11 @@ const source = [
             63,
             0
         ],
-        "RGB": [
-            69,
-            183,
-            135
-        ],
+        "RGB": {
+            "R": 69,
+            "G": 183,
+            "B": 135
+        },
         "code": "#45b787",
         "name": "蛙绿",
         "pinyin": "walv"
@@ -7013,11 +7014,11 @@ const source = [
             64,
             0
         ],
-        "RGB": [
-            43,
-            174,
-            133
-        ],
+        "RGB": {
+            "R": 43,
+            "G": 174,
+            "B": 133
+        },
         "code": "#2bae85",
         "name": "铜绿",
         "pinyin": "tonglv"
@@ -7029,11 +7030,11 @@ const source = [
             64,
             0
         ],
-        "RGB": [
-            27,
-            167,
-            132
-        ],
+        "RGB": {
+            "R": 27,
+            "G": 167,
+            "B": 132
+        },
         "code": "#1ba784",
         "name": "竹绿",
         "pinyin": "zhulv"
@@ -7045,11 +7046,11 @@ const source = [
             64,
             0
         ],
-        "RGB": [
-            18,
-            161,
-            130
-        ],
+        "RGB": {
+            "R": 18,
+            "G": 161,
+            "B": 130
+        },
         "code": "#12a182",
         "name": "蓝绿",
         "pinyin": "lanlv"
@@ -7061,11 +7062,11 @@ const source = [
             18,
             0
         ],
-        "RGB": [
-            196,
-            215,
-            214
-        ],
+        "RGB": {
+            "R": 196,
+            "G": 215,
+            "B": 214
+        },
         "code": "#c4d7d6",
         "name": "穹灰",
         "pinyin": "qionghui"
@@ -7077,11 +7078,11 @@ const source = [
             33,
             1
         ],
-        "RGB": [
-            30,
-            158,
-            179
-        ],
+        "RGB": {
+            "R": 30,
+            "G": 158,
+            "B": 179
+        },
         "code": "#1e9eb3",
         "name": "翠蓝",
         "pinyin": "cuilan"
@@ -7093,11 +7094,11 @@ const source = [
             31,
             3
         ],
-        "RGB": [
-            15,
-            149,
-            176
-        ],
+        "RGB": {
+            "R": 15,
+            "G": 149,
+            "B": 176
+        },
         "code": "#0f95b0",
         "name": "胆矾蓝",
         "pinyin": "danfanlan"
@@ -7109,11 +7110,11 @@ const source = [
             34,
             4
         ],
-        "RGB": [
-            20,
-            145,
-            168
-        ],
+        "RGB": {
+            "R": 20,
+            "G": 145,
+            "B": 168
+        },
         "code": "#1491a8",
         "name": "樫鸟蓝",
         "pinyin": "jianniaolan"
@@ -7125,11 +7126,11 @@ const source = [
             32,
             2
         ],
-        "RGB": [
-            124,
-            171,
-            177
-        ],
+        "RGB": {
+            "R": 124,
+            "G": 171,
+            "B": 177
+        },
         "code": "#7cabb1",
         "name": "闪蓝",
         "pinyin": "shanlan"
@@ -7141,11 +7142,11 @@ const source = [
             32,
             6
         ],
-        "RGB": [
-            164,
-            172,
-            167
-        ],
+        "RGB": {
+            "R": 164,
+            "G": 172,
+            "B": 167
+        },
         "code": "#a4aca7",
         "name": "冰山蓝",
         "pinyin": "bingshanlan"
@@ -7157,11 +7158,11 @@ const source = [
             36,
             7
         ],
-        "RGB": [
-            134,
-            157,
-            157
-        ],
+        "RGB": {
+            "R": 134,
+            "G": 157,
+            "B": 157
+        },
         "code": "#869d9d",
         "name": "虾壳青",
         "pinyin": "xiakeqing"
@@ -7173,11 +7174,11 @@ const source = [
             39,
             10
         ],
-        "RGB": [
-            100,
-            142,
-            147
-        ],
+        "RGB": {
+            "R": 100,
+            "G": 142,
+            "B": 147
+        },
         "code": "#648e93",
         "name": "晚波蓝",
         "pinyin": "wanbolan"
@@ -7189,11 +7190,11 @@ const source = [
             41,
             13
         ],
-        "RGB": [
-            59,
-            129,
-            140
-        ],
+        "RGB": {
+            "R": 59,
+            "G": 129,
+            "B": 140
+        },
         "code": "#3b818c",
         "name": "蜻蜓蓝",
         "pinyin": "qingtinglan"
@@ -7205,11 +7206,11 @@ const source = [
             38,
             21
         ],
-        "RGB": [
-            18,
-            110,
-            130
-        ],
+        "RGB": {
+            "R": 18,
+            "G": 110,
+            "B": 130
+        },
         "code": "#126e82",
         "name": "玉鈫蓝",
         "pinyin": "yuqinlan"
@@ -7221,11 +7222,11 @@ const source = [
             42,
             21
         ],
-        "RGB": [
-            115,
-            124,
-            123
-        ],
+        "RGB": {
+            "R": 115,
+            "G": 124,
+            "B": 123
+        },
         "code": "#737c7b",
         "name": "垩灰",
         "pinyin": "ehui"
@@ -7237,11 +7238,11 @@ const source = [
             44,
             26
         ],
-        "RGB": [
-            97,
-            113,
-            114
-        ],
+        "RGB": {
+            "R": 97,
+            "G": 113,
+            "B": 114
+        },
         "code": "#617172",
         "name": "夏云灰",
         "pinyin": "xiayunhui"
@@ -7253,11 +7254,11 @@ const source = [
             46,
             43
         ],
-        "RGB": [
-            19,
-            72,
-            87
-        ],
+        "RGB": {
+            "R": 19,
+            "G": 72,
+            "B": 87
+        },
         "code": "#134857",
         "name": "苍蓝",
         "pinyin": "canglan"
@@ -7269,11 +7270,11 @@ const source = [
             51,
             50
         ],
-        "RGB": [
-            71,
-            75,
-            76
-        ],
+        "RGB": {
+            "R": 71,
+            "G": 75,
+            "B": 76
+        },
         "code": "#474b4c",
         "name": "黄昏灰",
         "pinyin": "huanghunhui"
@@ -7285,11 +7286,11 @@ const source = [
             54,
             60
         ],
-        "RGB": [
-            33,
-            55,
-            61
-        ],
+        "RGB": {
+            "R": 33,
+            "G": 55,
+            "B": 61
+        },
         "code": "#21373d",
         "name": "灰蓝",
         "pinyin": "huilan"
@@ -7301,11 +7302,11 @@ const source = [
             56,
             68
         ],
-        "RGB": [
-            19,
-            44,
-            51
-        ],
+        "RGB": {
+            "R": 19,
+            "G": 44,
+            "B": 51
+        },
         "code": "#132c33",
         "name": "深灰蓝",
         "pinyin": "shenhuilan"
@@ -7317,11 +7318,11 @@ const source = [
             37,
             0
         ],
-        "RGB": [
-            164,
-            202,
-            182
-        ],
+        "RGB": {
+            "R": 164,
+            "G": 202,
+            "B": 182
+        },
         "code": "#a4cab6",
         "name": "玉簪绿",
         "pinyin": "yuzanlv"
@@ -7333,11 +7334,11 @@ const source = [
             66,
             2
         ],
-        "RGB": [
-            44,
-            150,
-            120
-        ],
+        "RGB": {
+            "R": 44,
+            "G": 150,
+            "B": 120
+        },
         "code": "#2c9678",
         "name": "青矾绿",
         "pinyin": "qingfanlv"
@@ -7349,11 +7350,11 @@ const source = [
             37,
             0
         ],
-        "RGB": [
-            154,
-            190,
-            175
-        ],
+        "RGB": {
+            "R": 154,
+            "G": 190,
+            "B": 175
+        },
         "code": "#9abeaf",
         "name": "草原远绿",
         "pinyin": "caoyuanyuanlv"
@@ -7365,11 +7366,11 @@ const source = [
             51,
             1
         ],
-        "RGB": [
-            105,
-            167,
-            148
-        ],
+        "RGB": {
+            "R": 105,
+            "G": 167,
+            "B": 148
+        },
         "code": "#69a794",
         "name": "梧枝绿",
         "pinyin": "wuzhilv"
@@ -7381,11 +7382,11 @@ const source = [
             40,
             1
         ],
-        "RGB": [
-            146,
-            179,
-            165
-        ],
+        "RGB": {
+            "R": 146,
+            "G": 179,
+            "B": 165
+        },
         "code": "#92b3a5",
         "name": "浪花绿",
         "pinyin": "langhualv"
@@ -7397,11 +7398,11 @@ const source = [
             70,
             10
         ],
-        "RGB": [
-            36,
-            128,
-            103
-        ],
+        "RGB": {
+            "R": 36,
+            "G": 128,
+            "B": 103
+        },
         "code": "#248067",
         "name": "海王绿",
         "pinyin": "haiwanglv"
@@ -7413,11 +7414,11 @@ const source = [
             61,
             9
         ],
-        "RGB": [
-            66,
-            134,
-            117
-        ],
+        "RGB": {
+            "R": 66,
+            "G": 134,
+            "B": 117
+        },
         "code": "#428675",
         "name": "亚丁绿",
         "pinyin": "yadinglv"
@@ -7429,11 +7430,11 @@ const source = [
             36,
             8
         ],
-        "RGB": [
-            159,
-            163,
-            154
-        ],
+        "RGB": {
+            "R": 159,
+            "G": 163,
+            "B": 154
+        },
         "code": "#9fa39a",
         "name": "镍灰",
         "pinyin": "niehui"
@@ -7445,11 +7446,11 @@ const source = [
             42,
             10
         ],
-        "RGB": [
-            138,
-            152,
-            142
-        ],
+        "RGB": {
+            "R": 138,
+            "G": 152,
+            "B": 142
+        },
         "code": "#8a988e",
         "name": "明灰",
         "pinyin": "minghui"
@@ -7461,11 +7462,11 @@ const source = [
             50,
             14
         ],
-        "RGB": [
-            112,
-            136,
-            125
-        ],
+        "RGB": {
+            "R": 112,
+            "G": 136,
+            "B": 125
+        },
         "code": "#70887d",
         "name": "淡绿灰",
         "pinyin": "danlvhui"
@@ -7477,11 +7478,11 @@ const source = [
             60,
             20
         ],
-        "RGB": [
-            73,
-            117,
-            104
-        ],
+        "RGB": {
+            "R": 73,
+            "G": 117,
+            "B": 104
+        },
         "code": "#497568",
         "name": "飞泉绿",
         "pinyin": "feiquanlv"
@@ -7493,11 +7494,11 @@ const source = [
             52,
             34
         ],
-        "RGB": [
-            93,
-            101,
-            95
-        ],
+        "RGB": {
+            "R": 93,
+            "G": 101,
+            "B": 95
+        },
         "code": "#5d655f",
         "name": "狼烟灰",
         "pinyin": "langyanhui"
@@ -7509,11 +7510,11 @@ const source = [
             64,
             52
         ],
-        "RGB": [
-            49,
-            74,
-            67
-        ],
+        "RGB": {
+            "R": 49,
+            "G": 74,
+            "B": 67
+        },
         "code": "#314a43",
         "name": "绿灰",
         "pinyin": "lvhui"
@@ -7525,11 +7526,11 @@ const source = [
             70,
             61
         ],
-        "RGB": [
-            34,
-            62,
-            54
-        ],
+        "RGB": {
+            "R": 34,
+            "G": 62,
+            "B": 54
+        },
         "code": "#223e36",
         "name": "苍绿",
         "pinyin": "canglv"
@@ -7541,11 +7542,11 @@ const source = [
             73,
             63
         ],
-        "RGB": [
-            26,
-            59,
-            50
-        ],
+        "RGB": {
+            "R": 26,
+            "G": 59,
+            "B": 50
+        },
         "code": "#1a3b32",
         "name": "深海绿",
         "pinyin": "shenhailv"
@@ -7557,11 +7558,11 @@ const source = [
             57,
             68
         ],
-        "RGB": [
-            54,
-            52,
-            51
-        ],
+        "RGB": {
+            "R": 54,
+            "G": 52,
+            "B": 51
+        },
         "code": "#363433",
         "name": "长石灰",
         "pinyin": "changshihui"
@@ -7573,11 +7574,11 @@ const source = [
             65,
             80
         ],
-        "RGB": [
-            31,
-            38,
-            35
-        ],
+        "RGB": {
+            "R": 31,
+            "G": 38,
+            "B": 35
+        },
         "code": "#1f2623",
         "name": "苷蓝绿",
         "pinyin": "ganlanlv"
@@ -7589,11 +7590,11 @@ const source = [
             67,
             86
         ],
-        "RGB": [
-            20,
-            30,
-            27
-        ],
+        "RGB": {
+            "R": 20,
+            "G": 30,
+            "B": 27
+        },
         "code": "#141e1b",
         "name": "莽丛绿",
         "pinyin": "mangconglv"
@@ -7605,11 +7606,11 @@ const source = [
             29,
             0
         ],
-        "RGB": [
-            198,
-            223,
-            200
-        ],
+        "RGB": {
+            "R": 198,
+            "G": 223,
+            "B": 200
+        },
         "code": "#c6dfc8",
         "name": "淡翠绿",
         "pinyin": "dancuilv"
@@ -7621,11 +7622,11 @@ const source = [
             44,
             0
         ],
-        "RGB": [
-            158,
-            204,
-            171
-        ],
+        "RGB": {
+            "R": 158,
+            "G": 204,
+            "B": 171
+        },
         "code": "#9eccab",
         "name": "明绿",
         "pinyin": "minglv"
@@ -7637,11 +7638,11 @@ const source = [
             59,
             0
         ],
-        "RGB": [
-            104,
-            184,
-            142
-        ],
+        "RGB": {
+            "R": 104,
+            "G": 184,
+            "B": 142
+        },
         "code": "#68b88e",
         "name": "田园绿",
         "pinyin": "tianyuanlv"
@@ -7653,11 +7654,11 @@ const source = [
             82,
             0
         ],
-        "RGB": [
-            32,
-            161,
-            98
-        ],
+        "RGB": {
+            "R": 32,
+            "G": 161,
+            "B": 98
+        },
         "code": "#20a162",
         "name": "翠绿",
         "pinyin": "cuilv"
@@ -7669,11 +7670,11 @@ const source = [
             62,
             0
         ],
-        "RGB": [
-            97,
-            172,
-            133
-        ],
+        "RGB": {
+            "R": 97,
+            "G": 172,
+            "B": 133
+        },
         "code": "#61ac85",
         "name": "淡绿",
         "pinyin": "danlv"
@@ -7685,11 +7686,11 @@ const source = [
             73,
             0
         ],
-        "RGB": [
-            64,
-            160,
-            112
-        ],
+        "RGB": {
+            "R": 64,
+            "G": 160,
+            "B": 112
+        },
         "code": "#40a070",
         "name": "葱绿",
         "pinyin": "conglv"
@@ -7701,11 +7702,11 @@ const source = [
             91,
             2
         ],
-        "RGB": [
-            34,
-            148,
-            83
-        ],
+        "RGB": {
+            "R": 34,
+            "G": 148,
+            "B": 83
+        },
         "code": "#229453",
         "name": "孔雀绿",
         "pinyin": "kongquelv"
@@ -7717,11 +7718,11 @@ const source = [
             27,
             1
         ],
-        "RGB": [
-            202,
-            211,
-            195
-        ],
+        "RGB": {
+            "R": 202,
+            "G": 211,
+            "B": 195
+        },
         "code": "#cad3c3",
         "name": "艾绿",
         "pinyin": "ailv"
@@ -7733,11 +7734,11 @@ const source = [
             76,
             2
         ],
-        "RGB": [
-            60,
-            149,
-            102
-        ],
+        "RGB": {
+            "R": 60,
+            "G": 149,
+            "B": 102
+        },
         "code": "#3c9566",
         "name": "蟾绿",
         "pinyin": "chanlv"
@@ -7749,11 +7750,11 @@ const source = [
             92,
             5
         ],
-        "RGB": [
-            32,
-            137,
-            77
-        ],
+        "RGB": {
+            "R": 32,
+            "G": 137,
+            "B": 77
+        },
         "code": "#20894d",
         "name": "宫殿绿",
         "pinyin": "gongdianlv"
@@ -7765,11 +7766,11 @@ const source = [
             52,
             3
         ],
-        "RGB": [
-            131,
-            167,
-            141
-        ],
+        "RGB": {
+            "R": 131,
+            "G": 167,
+            "B": 141
+        },
         "code": "#83a78d",
         "name": "松霜绿",
         "pinyin": "songshuanglv"
@@ -7781,11 +7782,11 @@ const source = [
             67,
             4
         ],
-        "RGB": [
-            87,
-            149,
-            114
-        ],
+        "RGB": {
+            "R": 87,
+            "G": 149,
+            "B": 114
+        },
         "code": "#579572",
         "name": "蛋白石绿",
         "pinyin": "danbaishilv"
@@ -7797,11 +7798,11 @@ const source = [
             90,
             10
         ],
-        "RGB": [
-            32,
-            127,
-            76
-        ],
+        "RGB": {
+            "R": 32,
+            "G": 127,
+            "B": 76
+        },
         "code": "#207f4c",
         "name": "薄荷绿",
         "pinyin": "bohelv"
@@ -7813,11 +7814,11 @@ const source = [
             58,
             12
         ],
-        "RGB": [
-            110,
-            139,
-            116
-        ],
+        "RGB": {
+            "R": 110,
+            "G": 139,
+            "B": 116
+        },
         "code": "#6e8b74",
         "name": "瓦松绿",
         "pinyin": "wasonglv"
@@ -7829,11 +7830,11 @@ const source = [
             91,
             25
         ],
-        "RGB": [
-            26,
-            104,
-            64
-        ],
+        "RGB": {
+            "R": 26,
+            "G": 104,
+            "B": 64
+        },
         "code": "#1a6840",
         "name": "荷叶绿",
         "pinyin": "heyelv"
@@ -7845,11 +7846,11 @@ const source = [
             56,
             34
         ],
-        "RGB": [
-            94,
-            102,
-            91
-        ],
+        "RGB": {
+            "R": 94,
+            "G": 102,
+            "B": 91
+        },
         "code": "#5e665b",
         "name": "田螺绿",
         "pinyin": "tianluolv"
@@ -7861,11 +7862,11 @@ const source = [
             65,
             40
         ],
-        "RGB": [
-            72,
-            91,
-            77
-        ],
+        "RGB": {
+            "R": 72,
+            "G": 91,
+            "B": 77
+        },
         "code": "#485b4d",
         "name": "白屈菜绿",
         "pinyin": "baiqucailv"
@@ -7877,11 +7878,11 @@ const source = [
             60,
             67
         ],
-        "RGB": [
-            57,
-            55,
-            51
-        ],
+        "RGB": {
+            "R": 57,
+            "G": 55,
+            "B": 51
+        },
         "code": "#393733",
         "name": "河豚灰",
         "pinyin": "hetunhui"
@@ -7893,11 +7894,11 @@ const source = [
             60,
             66
         ],
-        "RGB": [
-            55,
-            56,
-            52
-        ],
+        "RGB": {
+            "R": 55,
+            "G": 56,
+            "B": 52
+        },
         "code": "#373834",
         "name": "蒽油绿",
         "pinyin": "enyoulv"
@@ -7909,11 +7910,11 @@ const source = [
             75,
             72
         ],
-        "RGB": [
-            43,
-            49,
-            44
-        ],
+        "RGB": {
+            "R": 43,
+            "G": 49,
+            "B": 44
+        },
         "code": "#2b312c",
         "name": "槲寄生绿",
         "pinyin": "hujishenglv"
@@ -7925,11 +7926,11 @@ const source = [
             76,
             83
         ],
-        "RGB": [
-            21,
-            35,
-            27
-        ],
+        "RGB": {
+            "R": 21,
+            "G": 35,
+            "B": 27
+        },
         "code": "#15231b",
         "name": "云杉绿",
         "pinyin": "yunshanlv"
@@ -7941,11 +7942,11 @@ const source = [
             14,
             0
         ],
-        "RGB": [
-            240,
-            245,
-            229
-        ],
+        "RGB": {
+            "R": 240,
+            "G": 245,
+            "B": 229
+        },
         "code": "#f0f5e5",
         "name": "嫩菊绿",
         "pinyin": "nenjulv"
@@ -7957,11 +7958,11 @@ const source = [
             23,
             0
         ],
-        "RGB": [
-            223,
-            236,
-            213
-        ],
+        "RGB": {
+            "R": 223,
+            "G": 236,
+            "B": 213
+        },
         "code": "#dfecd5",
         "name": "艾背绿",
         "pinyin": "aibeilv"
@@ -7973,11 +7974,11 @@ const source = [
             49,
             0
         ],
-        "RGB": [
-            173,
-            213,
-            162
-        ],
+        "RGB": {
+            "R": 173,
+            "G": 213,
+            "B": 162
+        },
         "code": "#add5a2",
         "name": "嘉陵水绿",
         "pinyin": "jialingshuilv"
@@ -7989,11 +7990,11 @@ const source = [
             96,
             0
         ],
-        "RGB": [
-            65,
-            179,
-            73
-        ],
+        "RGB": {
+            "R": 65,
+            "G": 179,
+            "B": 73
+        },
         "code": "#41b349",
         "name": "玉髓绿",
         "pinyin": "yusuilv"
@@ -8005,11 +8006,11 @@ const source = [
             99,
             0
         ],
-        "RGB": [
-            67,
-            178,
-            68
-        ],
+        "RGB": {
+            "R": 67,
+            "G": 178,
+            "B": 68
+        },
         "code": "#43b244",
         "name": "鲜绿",
         "pinyin": "xianlv"
@@ -8021,11 +8022,11 @@ const source = [
             100,
             0
         ],
-        "RGB": [
-            65,
-            174,
-            60
-        ],
+        "RGB": {
+            "R": 65,
+            "G": 174,
+            "B": 60
+        },
         "code": "#41ae3c",
         "name": "宝石绿",
         "pinyin": "baoshilv"
@@ -8037,11 +8038,11 @@ const source = [
             33,
             0
         ],
-        "RGB": [
-            226,
-            231,
-            191
-        ],
+        "RGB": {
+            "R": 226,
+            "G": 231,
+            "B": 191
+        },
         "code": "#e2e7bf",
         "name": "海沬绿",
         "pinyin": "haimeilv"
@@ -8053,11 +8054,11 @@ const source = [
             44,
             0
         ],
-        "RGB": [
-            208,
-            222,
-            170
-        ],
+        "RGB": {
+            "R": 208,
+            "G": 222,
+            "B": 170
+        },
         "code": "#d0deaa",
         "name": "姚黄",
         "pinyin": "yaohuang"
@@ -8069,11 +8070,11 @@ const source = [
             61,
             0
         ],
-        "RGB": [
-            178,
-            207,
-            135
-        ],
+        "RGB": {
+            "R": 178,
+            "G": 207,
+            "B": 135
+        },
         "code": "#b2cf87",
         "name": "橄榄石绿",
         "pinyin": "ganlanshilv"
@@ -8085,11 +8086,11 @@ const source = [
             76,
             0
         ],
-        "RGB": [
-            140,
-            194,
-            105
-        ],
+        "RGB": {
+            "R": 140,
+            "G": 194,
+            "B": 105
+        },
         "code": "#8cc269",
         "name": "水绿",
         "pinyin": "shuilv"
@@ -8101,11 +8102,11 @@ const source = [
             67,
             0
         ],
-        "RGB": [
-            183,
-            208,
-            122
-        ],
+        "RGB": {
+            "R": 183,
+            "G": 208,
+            "B": 122
+        },
         "code": "#b7d07a",
         "name": "芦苇绿",
         "pinyin": "luweilv"
@@ -8117,11 +8118,11 @@ const source = [
             66,
             0
         ],
-        "RGB": [
-            210,
-            217,
-            122
-        ],
+        "RGB": {
+            "R": 210,
+            "G": 217,
+            "B": 122
+        },
         "code": "#d2d97a",
         "name": "槐花黄绿",
         "pinyin": "huaihuahuanglv"
@@ -8133,11 +8134,11 @@ const source = [
             76,
             0
         ],
-        "RGB": [
-            186,
-            207,
-            101
-        ],
+        "RGB": {
+            "R": 186,
+            "G": 207,
+            "B": 101
+        },
         "code": "#bacf65",
         "name": "苹果绿",
         "pinyin": "pingguolv"
@@ -8149,11 +8150,11 @@ const source = [
             88,
             0
         ],
-        "RGB": [
-            150,
-            194,
-            78
-        ],
+        "RGB": {
+            "R": 150,
+            "G": 194,
+            "B": 78
+        },
         "code": "#96c24e",
         "name": "芽绿",
         "pinyin": "yalv"
@@ -8165,11 +8166,11 @@ const source = [
             84,
             1
         ],
-        "RGB": [
-            226,
-            216,
-            73
-        ],
+        "RGB": {
+            "R": 226,
+            "G": 216,
+            "B": 73
+        },
         "code": "#e2d849",
         "name": "蝶黄",
         "pinyin": "diehuang"
@@ -8181,11 +8182,11 @@ const source = [
             94,
             1
         ],
-        "RGB": [
-            190,
-            201,
-            54
-        ],
+        "RGB": {
+            "R": 190,
+            "G": 201,
+            "B": 54
+        },
         "code": "#bec936",
         "name": "橄榄黄绿",
         "pinyin": "ganlanhuanglv"
@@ -8197,11 +8198,11 @@ const source = [
             100,
             0
         ],
-        "RGB": [
-            91,
-            174,
-            35
-        ],
+        "RGB": {
+            "R": 91,
+            "G": 174,
+            "B": 35
+        },
         "code": "#5bae23",
         "name": "鹦鹉绿",
         "pinyin": "yingwulv"
@@ -8213,11 +8214,11 @@ const source = [
             94,
             45
         ],
-        "RGB": [
-            37,
-            61,
-            36
-        ],
+        "RGB": {
+            "R": 37,
+            "G": 61,
+            "B": 36
+        },
         "code": "#253d24",
         "name": "油绿",
         "pinyin": "youlv"
@@ -8229,11 +8230,11 @@ const source = [
             4,
             0
         ],
-        "RGB": [
-            255,
-            254,
-            248
-        ],
+        "RGB": {
+            "R": 255,
+            "G": 254,
+            "B": 248
+        },
         "code": "#fffef8",
         "name": "象牙白",
         "pinyin": "xiangyabai"
@@ -8245,11 +8246,11 @@ const source = [
             8,
             0
         ],
-        "RGB": [
-            248,
-            244,
-            237
-        ],
+        "RGB": {
+            "R": 248,
+            "G": 244,
+            "B": 237
+        },
         "code": "#f8f4ed",
         "name": "汉白玉",
         "pinyin": "hanbaiyu"
@@ -8261,11 +8262,11 @@ const source = [
             3,
             0
         ],
-        "RGB": [
-            255,
-            254,
-            249
-        ],
+        "RGB": {
+            "R": 255,
+            "G": 254,
+            "B": 249
+        },
         "code": "#fffef9",
         "name": "雪白",
         "pinyin": "xuebai"
@@ -8277,11 +8278,11 @@ const source = [
             8,
             0
         ],
-        "RGB": [
-            247,
-            244,
-            237
-        ],
+        "RGB": {
+            "R": 247,
+            "G": 244,
+            "B": 237
+        },
         "code": "#f7f4ed",
         "name": "鱼肚白",
         "pinyin": "yudubai"
@@ -8293,11 +8294,11 @@ const source = [
             16,
             0
         ],
-        "RGB": [
-            228,
-            223,
-            215
-        ],
+        "RGB": {
+            "R": 228,
+            "G": 223,
+            "B": 215
+        },
         "code": "#e4dfd7",
         "name": "珍珠灰",
         "pinyin": "zhenzhuhui"
@@ -8309,11 +8310,11 @@ const source = [
             20,
             1
         ],
-        "RGB": [
-            218,
-            212,
-            203
-        ],
+        "RGB": {
+            "R": 218,
+            "G": 212,
+            "B": 203
+        },
         "code": "#dad4cb",
         "name": "浅灰",
         "pinyin": "qianhui"
@@ -8325,11 +8326,11 @@ const source = [
             30,
             5
         ],
-        "RGB": [
-            187,
-            181,
-            172
-        ],
+        "RGB": {
+            "R": 187,
+            "G": 181,
+            "B": 172
+        },
         "code": "#bbb5ac",
         "name": "铅灰",
         "pinyin": "qianhui"
@@ -8341,11 +8342,11 @@ const source = [
             30,
             5
         ],
-        "RGB": [
-            187,
-            181,
-            172
-        ],
+        "RGB": {
+            "R": 187,
+            "G": 181,
+            "B": 172
+        },
         "code": "#bbb5ac",
         "name": "中灰",
         "pinyin": "zhonghui"
@@ -8357,11 +8358,11 @@ const source = [
             43,
             23
         ],
-        "RGB": [
-            134,
-            126,
-            118
-        ],
+        "RGB": {
+            "R": 134,
+            "G": 126,
+            "B": 118
+        },
         "code": "#867e76",
         "name": "瓦灰",
         "pinyin": "wahui"
@@ -8373,11 +8374,11 @@ const source = [
             44,
             42
         ],
-        "RGB": [
-            132,
-            124,
-            116
-        ],
+        "RGB": {
+            "R": 132,
+            "G": 124,
+            "B": 116
+        },
         "code": "#847c74",
         "name": "夜灰",
         "pinyin": "yehui"
@@ -8389,11 +8390,11 @@ const source = [
             45,
             27
         ],
-        "RGB": [
-            128,
-            118,
-            110
-        ],
+        "RGB": {
+            "R": 128,
+            "G": 118,
+            "B": 110
+        },
         "code": "#80766e",
         "name": "雁灰",
         "pinyin": "yanhui"
@@ -8405,24 +8406,45 @@ const source = [
             46,
             27
         ],
-        "RGB": [
-            129,
-            119,
-            110
-        ],
+        "RGB": {
+            "R": 129,
+            "G": 119,
+            "B": 110
+        },
         "code": "#81776e",
         "name": "深灰",
         "pinyin": "shenhui"
     }
-]
+];
+
+function componentToHex(c) {
+    var hex = c.toString(16);
+    return hex.length === 1 ? "0" + hex : hex;
+}
+
+function rgbToHex(color) {
+    return "#" + componentToHex(color.R) + componentToHex(color.G) + componentToHex(color.B);
+}
+
+var cd = require('color-diff');
+
+// var RGB_list = source.map(color => {
+//     return color.RGB;
+// });
+
+var lab_black = cd.rgb_to_lab({ R: 0, G: 0, B: 0 });
 
 var data = source.map(color => {
-    color.gray = (color.RGB[0]*299 + color.RGB[1]*587 + color.RGB[2]*114 + 500) / 1000; // 灰度计算
+    color.lab = cd.rgb_to_lab(color.RGB);
+    color.distance = cd.diff(color.lab, lab_black);
+    // color.furthest = rgbToHex(cd.furthest(color.RGB, RGB_list));
+    color.gray = (color.RGB.R * 299 + color.RGB.G * 587 + color.RGB.B * 114 + 500) / 1000; // 灰度计算
     return color;
 });
 
 data.sort((a, b) => {
-    return Math.random() - 0.5 > 0 ? 1 : -1; // 随机排序
+    // return a.distance < b.distance ? 1 : -1; // LAB空间到黑色距离排序
+    return Math.random() > 0.5 ? 1 : -1; // 随机排序
     // return a.code > b.code ? 1 : -1; // 颜色代码排序
 });
 

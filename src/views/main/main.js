@@ -9,18 +9,25 @@ class Main extends Component {
     return (
       <div className="main">
         <ReactFullpage
+          // anchors={data.map(color => { return color.name; })} // 设置锚点
           render={() => {
             return (
               <ReactFullpage.Wrapper>
                 {data.map(color => {
                   return (
                     <div key={color.name} className="pure-g section">
-                      <div className="right pure-u-1" style={{ backgroundColor: color.code, height: '100%', color: color.gray < 90 ? "#FFF" : "#000" }}>
+                      <div
+                        className="pure-u-1"
+                        style={{
+                          backgroundColor: color.code,
+                          height: '100%',
+                          color: color.gray < 99 ? "#FFF" : "#000"
+                        }}>
                         <h1>{color.name}</h1>
                         <p className="split">
-                          <span>R: {color.RGB[0]}</span>
-                          <span>G: {color.RGB[1]}</span>
-                          <span>B: {color.RGB[2]}</span>
+                          <span>R: {color.RGB.R}</span>
+                          <span>G: {color.RGB.G}</span>
+                          <span>B: {color.RGB.B}</span>
                         </p>
                         <p className="split">
                           <span>C: {color.CMYK[0]}</span>

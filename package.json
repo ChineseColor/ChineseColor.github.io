@@ -5,13 +5,15 @@
   "private": true,
   "dependencies": {
     "@fullpage/react-fullpage": "^0.1.13",
+    "color-diff": "^1.1.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "2.1.8"
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build && cd build && git init && git remote add master https://github.com/ChineseColor/ChineseColor.github.io.git && git add . && git commit -m \"update\" && git push --set-upstream master master -f",
+    "build": "react-scripts build",
+    "push": "cd build && git init && git remote add master https://github.com/ChineseColor/ChineseColor.github.io.git && git add . && git commit -m \"update\" && git push --set-upstream master master -f",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
