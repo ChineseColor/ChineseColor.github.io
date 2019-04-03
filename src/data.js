@@ -8417,14 +8417,14 @@ const source = [
     }
 ];
 
-function componentToHex(c) {
-    var hex = c.toString(16);
-    return hex.length === 1 ? "0" + hex : hex;
-}
+// function componentToHex(c) {
+//     var hex = c.toString(16);
+//     return hex.length === 1 ? "0" + hex : hex;
+// }
 
-function rgbToHex(color) {
-    return "#" + componentToHex(color.R) + componentToHex(color.G) + componentToHex(color.B);
-}
+// function rgbToHex(color) {
+//     return "#" + componentToHex(color.R) + componentToHex(color.G) + componentToHex(color.B);
+// }
 
 var cd = require('color-diff');
 
@@ -8438,7 +8438,7 @@ var data = source.map(color => {
     color.lab = cd.rgb_to_lab(color.RGB);
     color.distance = cd.diff(color.lab, lab_black);
     // color.furthest = rgbToHex(cd.furthest(color.RGB, RGB_list));
-    color.gray = (color.RGB.R * 299 + color.RGB.G * 587 + color.RGB.B * 114 + 500) / 1000; // 灰度计算
+    color.gray = (color.RGB.R * 299 + color.RGB.G * 587 + color.RGB.B * 114) / 1000; // 灰度计算
     return color;
 });
 
@@ -8447,5 +8447,10 @@ data.sort((a, b) => {
     return Math.random() > 0.5 ? 1 : -1; // 随机排序
     // return a.code > b.code ? 1 : -1; // 颜色代码排序
 });
+
+data = data.map((color, index) => {
+    color.index = index;
+    return color;
+})
 
 export default data;
