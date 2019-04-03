@@ -21,7 +21,7 @@ class Main extends Component {
                         style={{
                           backgroundColor: color.code,
                           height: '100%',
-                          color: color.gray < 99 ? "#FFF" : "#000"
+                          color: color.gray < 126 ? "#FFF" : "#000"
                         }}>
                         <h1>{color.name}</h1>
                         <p className="split">
