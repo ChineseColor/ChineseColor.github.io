@@ -1,16 +1,8 @@
 .split span::after {
-    content: "|";
+    content: "";
     margin: 0 9px;
 }
 .split span:last-child::after {
     content: "";
     margin: 0;
-}
-
-.left {
-
-}
-
-.right {
-
 }
