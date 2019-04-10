@@ -62,7 +62,7 @@ class Main extends Component {
                           height: '100%',
                           color: color.gray < 126 ? "#FFF" : "#000"
                         }}>
-                        <h1 className="font-kai">{color.name}</h1>
+                        <h1 className="font-kai" style={{ fontWeight: 300 }}>{color.name}</h1>
                         <p><code>{color.code.toUpperCase()}</code></p>
                         {/*
                           <div className="split">
