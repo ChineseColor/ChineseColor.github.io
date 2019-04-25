@@ -8445,6 +8445,7 @@ var data = source.map(color => {
 data.sort((a, b) => {
     // return a.distance < b.distance ? 1 : -1; // LAB空间到黑色距离排序
     return Math.random() > 0.5 ? 1 : -1; // 随机排序
+    // return a.gray > b.gray ? 1 : -1; // 灰度排序
     // return a.code > b.code ? 1 : -1; // 颜色代码排序
 });
 

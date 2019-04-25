@@ -1,3 +1,7 @@
+html {
+    font-size: calc(15px + 0.15vw);
+}
+
 body {
     margin: 0;
     padding: 0;
