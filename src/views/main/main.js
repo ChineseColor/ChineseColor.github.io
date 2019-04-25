@@ -22,14 +22,15 @@ class Main extends Component {
                         className="pure-u-1"
                         style={{
                           backgroundColor: color.code, height: '100%',
-                          color: color.gray < 126 ? "#FFF" : "#000"
+                          color: color.gray < 126 ? "#FFF" : "#000",
+                          display: 'flex'
                         }}>
                         <div
                           className="font-kai rl"
-                          style={{ display: "block", margin: "2em auto" }}
+                          style={{ margin: "2em auto" }}
                         >
                           <div className="font-kai" style={{ fontSize: "2em", fontWeight: 300 }}>{color.name}</div>
-                          <p style={{ textAlign: "center" }}><code>{color.code.toUpperCase()}</code></p>
+                          <p style={{ paddingTop: "2em" }}><code>{color.code.toUpperCase()}</code></p>
                           <div className="content">赤{nzhcn.encodeB(color.RGB.R)}</div>
                           <div className="content">绿{nzhcn.encodeB(color.RGB.G)}</div>
                           <div className="content">蓝{nzhcn.encodeB(color.RGB.B)}</div>
