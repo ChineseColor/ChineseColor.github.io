@@ -32,12 +32,21 @@
   .rl {
     writing-mode: vertical-rl;
   }
+
+  #page-cover {
+    margin-top: 2em;
+    font-size: calc(3vh + 14px);
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+  }
 </style>
 
 <body>
   <noscript>You need to enable JavaScript to run this app.</noscript>
   <div id="root">
-    <div style="margin-top: 2em; font-size: calc(3vh + 14px); display: flex; flex-direction: row-reverse; justify-content: center; align-items: center;">
+    <div id="page-cover">
       <div class="font-kai rl" style="display: inline-block;">谁说拍中国风</div>
       <div class="font-kai rl" style="display: inline-block;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一定要配灯笼</div>
     </div>
