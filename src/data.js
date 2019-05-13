@@ -8442,28 +8442,28 @@ const source = [
 //     return "#" + componentToHex(color.R) + componentToHex(color.G) + componentToHex(color.B);
 // }
 
-var cd = require('color-diff');
+// var cd = require('color-diff');
 
 // var RGB_list = source.map(color => {
 //     return color.RGB;
 // });
 
-var lab_black = cd.rgb_to_lab({ R: 0, G: 0, B: 0 });
+// var lab_black = cd.rgb_to_lab({ R: 0, G: 0, B: 0 });
 
 var data = source.map(color => {
-    color.lab = cd.rgb_to_lab(color.RGB);
-    color.distance = cd.diff(color.lab, lab_black);
+    // color.lab = cd.rgb_to_lab(color.RGB);
+    // color.distance = cd.diff(color.lab, lab_black);
     // color.furthest = rgbToHex(cd.furthest(color.RGB, RGB_list));
     color.gray = (color.RGB.R * 299 + color.RGB.G * 587 + color.RGB.B * 114) / 1000; // 灰度计算
     return color;
 });
 
-// data.sort((a, b) => {
+data.sort((a, b) => {
     // return a.distance < b.distance ? 1 : -1; // LAB空间到黑色距离排序
-    // return Math.random() > 0.5 ? 1 : -1; // 随机排序
+    return Math.random() > 0.5 ? 1 : -1; // 随机排序
     // return a.gray > b.gray ? 1 : -1; // 灰度排序
     // return a.code > b.code ? 1 : -1; // 颜色代码排序
-// });
+});
 
 data = data.map((color, index) => {
     color.index = index;
