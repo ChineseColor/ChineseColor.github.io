@@ -5613,7 +5613,8 @@ const source = [
         },
         "code": "#cf4813",
         "name": "落霞红",
-        "pinyin": "luoxiahong"
+        "pinyin": "luoxiahong",
+        "poetry": ["落霞与孤鹜齐飞", "秋水共长天一色"]
     },
     {
         "CMYK": [

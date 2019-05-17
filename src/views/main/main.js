@@ -23,7 +23,8 @@ class Main extends Component {
                         style={{
                           backgroundColor: color.code, height: '100%',
                           color: color.gray < 126 ? "#FFF" : "#000",
-                          display: 'flex'
+                          display: 'flex',
+                          justifyContent: "center",
                         }}>
                         <div
                           className="font-kai rl"
@@ -34,6 +35,16 @@ class Main extends Component {
                           <div className="content">赤{nzhcn.encodeB(color.RGB.R)}</div>
                           <div className="content">绿{nzhcn.encodeB(color.RGB.G)}</div>
                           <div className="content">蓝{nzhcn.encodeB(color.RGB.B)}</div>
+                        </div>
+                        <div
+                          className="poetry font-kai rl"
+                          style={{ position: "absolute", bottom: "2em", right: "2em", textAlign: "end" }}
+                        >
+                          {color.poetry && color.poetry.map(sentence => {
+                            return (
+                              <div className="content">{sentence}</div>
+                            );
+                          })}
                         </div>
                       </div>
                     </div>
