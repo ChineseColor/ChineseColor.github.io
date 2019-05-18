@@ -38,7 +38,7 @@ class Main extends Component {
                         </div>
                         <div
                           className="poetry font-kai rl"
-                          style={{ position: "absolute", bottom: "2em", right: "2em", textAlign: "end" }}
+                          style={{ position: "absolute", bottom: "2em", right: "2em" }}
                         >
                           {color.poetry && color.poetry.map(sentence => {
                             return (

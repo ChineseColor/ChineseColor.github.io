@@ -109,7 +109,14 @@ const source = [
         },
         "code": "#eef7f2",
         "name": "月白",
-        "pinyin": "yuebai"
+        "pinyin": "yuebai",
+        "poetry": [
+            "江上何人吹玉笛",
+            "扁舟远送潇湘客",
+            "芦花千里霜月白",
+            "伤行色",
+            "来朝便是关山隔"
+        ]
     },
     {
         "CMYK": [
@@ -8451,7 +8458,11 @@ const source = [
 
 // var lab_black = cd.rgb_to_lab({ R: 0, G: 0, B: 0 });
 
-var data = source.map(color => {
+var data = source.filter(color => {
+    return color.poetry;
+});
+
+data = data.map(color => {
     // color.lab = cd.rgb_to_lab(color.RGB);
     // color.distance = cd.diff(color.lab, lab_black);
     // color.furthest = rgbToHex(cd.furthest(color.RGB, RGB_list));
