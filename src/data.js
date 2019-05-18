@@ -2756,7 +2756,8 @@ const source = [
         },
         "code": "#92b3a5",
         "name": "浪花绿",
-        "pinyin": "langhualv"
+        "pinyin": "langhualv",
+        "poetry": ["浪摇新绿", "漫芳洲翠渚", "雨痕初足"]
     },
     {
         "CMYK": [
@@ -2820,7 +2821,10 @@ const source = [
         },
         "code": "#ef82a0",
         "name": "霞光红",
-        "pinyin": "xiaguanghong"
+        "pinyin": "xiaguanghong",
+        "poetry": [
+            "霞光红泛艳", "树影碧参差"
+        ]
     },
     {
         "CMYK": [
@@ -8459,6 +8463,7 @@ const source = [
 // var lab_black = cd.rgb_to_lab({ R: 0, G: 0, B: 0 });
 
 var data = source.filter(color => {
+    return true;
     return color.poetry;
 });
 
