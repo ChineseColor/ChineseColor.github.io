@@ -2372,7 +2372,8 @@ const source = [
         },
         "code": "#8abcd1",
         "name": "秋波蓝",
-        "pinyin": "qiubolan"
+        "pinyin": "qiubolan",
+        "poetry": ["眉如青山黛", "眼似秋波横"]
     },
     {
         "CMYK": [
