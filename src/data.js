@@ -3224,7 +3224,8 @@ const source = [
         },
         "code": "#5dbe8a",
         "name": "蔻梢绿",
-        "pinyin": "koushaolv"
+        "pinyin": "koushaolv",
+        "poetry": ["娉娉袅袅十三余", "豆蔻梢头二月初"]
     },
     {
         "CMYK": [
@@ -5448,7 +5449,8 @@ const source = [
         },
         "code": "#a7535a",
         "name": "满江红",
-        "pinyin": "manjianghong"
+        "pinyin": "manjianghong",
+        'poetry': ["日出江花红胜火"]
     },
     {
         "CMYK": [
@@ -6249,7 +6251,8 @@ const source = [
         },
         "code": "#de2a18",
         "name": "夕阳红",
-        "pinyin": "xiyanghong"
+        "pinyin": "xiyanghong",
+        "poetry": ["芡觜静缄秋水碧", "梨腮深抹夕阳红"]
     },
     {
         "CMYK": [
