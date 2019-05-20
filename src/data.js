@@ -1348,7 +1348,8 @@ const source = [
         },
         "code": "#baccd9",
         "name": "云水蓝",
-        "pinyin": "yunshuilan"
+        "pinyin": "yunshuilan",
+        "poetry": ["云青青兮欲雨", "水澹澹兮生烟"]
     },
     {
         "CMYK": [
