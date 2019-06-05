@@ -1525,7 +1525,8 @@ const source = [
         },
         "code": "#c0c4c3",
         "name": "月影白",
-        "pinyin": "yueyingbai"
+        "pinyin": "yueyingbai",
+        "poetry": ["唯见江心秋月白"]
     },
     {
         "CMYK": [
@@ -2726,7 +2727,8 @@ const source = [
         },
         "code": "#8cc269",
         "name": "水绿",
-        "pinyin": "shuilv"
+        "pinyin": "shuilv",
+        "poetry": ["绿水结绿玉", "白波生白圭"]
     },
     {
         "CMYK": [
