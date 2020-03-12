@@ -3228,8 +3228,7 @@ const source = [
         },
         "code": "#5dbe8a",
         "name": "蔻梢绿",
-        "pinyin": "koushaolv",
-        "poetry": ["娉娉袅袅十三余", "豆蔻梢头二月初"]
+        "pinyin": "koushaolv"
     },
     {
         "CMYK": [
