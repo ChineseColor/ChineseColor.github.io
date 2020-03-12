@@ -45,7 +45,11 @@ const source = [
         },
         "code": "#fffef9",
         "name": "雪白",
-        "pinyin": "xuebai"
+        "pinyin": "xuebai",
+        "poetry": [
+            "白雪纷纷何所似",
+            "撒盐空中差可拟"
+        ]
     },
     {
         "CMYK": [
@@ -111,11 +115,7 @@ const source = [
         "name": "月白",
         "pinyin": "yuebai",
         "poetry": [
-            "江上何人吹玉笛",
-            "扁舟远送潇湘客",
             "芦花千里霜月白",
-            "伤行色",
-            "来朝便是关山隔"
         ]
     },
     {
@@ -8461,23 +8461,18 @@ const source = [
 //     return "#" + componentToHex(color.R) + componentToHex(color.G) + componentToHex(color.B);
 // }
 
-// var cd = require('color-diff');
+var cd = require('color-diff');
 
-// var RGB_list = source.map(color => {
-//     return color.RGB;
-// });
-
-// var lab_black = cd.rgb_to_lab({ R: 0, G: 0, B: 0 });
+var lab_black = cd.rgb_to_lab({ R: 0, G: 0, B: 0 });
 
 var data = source.filter(color => {
-    return true;
+    // return true;
     return color.poetry;
 });
 
 data = data.map(color => {
-    // color.lab = cd.rgb_to_lab(color.RGB);
-    // color.distance = cd.diff(color.lab, lab_black);
-    // color.furthest = rgbToHex(cd.furthest(color.RGB, RGB_list));
+    color.lab = cd.rgb_to_lab(color.RGB);
+    color.distance = cd.diff(color.lab, lab_black);
     color.gray = (color.RGB.R * 299 + color.RGB.G * 587 + color.RGB.B * 114) / 1000; // 灰度计算
     return color;
 });
