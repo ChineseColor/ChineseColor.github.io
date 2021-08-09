@@ -8465,8 +8465,8 @@ var cd = require('color-diff');
 var lab_black = cd.rgb_to_lab({ R: 0, G: 0, B: 0 });
 
 var data = source.filter(color => {
-    // return true;
-    return color.poetry;
+    return true;
+    // return color.poetry;
 });
 
 data = data.map(color => {
