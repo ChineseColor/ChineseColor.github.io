@@ -6735,7 +6735,8 @@ const source = [
         },
         "code": "#8b2671",
         "name": "青莲",
-        "pinyin": "qinglian"
+        "pinyin": "qinglian",
+        "poetry": ["紫绀之堂临水", "青莲之台带风"]
     },
     {
         "CMYK": [
