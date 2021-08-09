@@ -8466,8 +8466,8 @@ var cd = require('color-diff');
 var lab_black = cd.rgb_to_lab({ R: 0, G: 0, B: 0 });
 
 var data = source.filter(color => {
-    return true;
-    // return color.poetry;
+    return true; // 展示所有颜色
+    // return color.poetry; // 只取有诗句的颜色
 });
 
 data = data.map(color => {
@@ -8478,8 +8478,8 @@ data = data.map(color => {
 });
 
 data.sort((a, b) => {
-    // return a.distance < b.distance ? 1 : -1; // LAB空间到黑色距离排序
     return Math.random() > 0.5 ? 1 : -1; // 随机排序
+    // return a.distance < b.distance ? 1 : -1; // LAB空间到黑色距离排序
     // return a.gray > b.gray ? 1 : -1; // 灰度排序
     // return a.code > b.code ? 1 : -1; // 颜色代码排序
 });
