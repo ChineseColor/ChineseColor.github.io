@@ -660,7 +660,8 @@ const source = [
         },
         "code": "#e6d2d5",
         "name": "蓟粉红",
-        "pinyin": "jifenhong"
+        "pinyin": "jifenhong",
+        "poetry": ["四月蔷薇色渐青", "墙角小蓟悄悄红"]
     },
     {
         "CMYK": [
@@ -4924,7 +4925,8 @@ const source = [
         },
         "code": "#3c9566",
         "name": "蟾绿",
-        "pinyin": "chanlv"
+        "pinyin": "chanlv",
+        "poetry": ["娟娟绿蟾蜍", "曾识广寒女"]
     },
     {
         "CMYK": [
@@ -5710,7 +5712,8 @@ const source = [
         },
         "code": "#876818",
         "name": "粽叶绿",
-        "pinyin": "zongyelv"
+        "pinyin": "zongyelv",
+        "poetry": ["蒲叶吴刀绿", "筠筒楚粽香"]
     },
     {
         "CMYK": [
